@@ -1,0 +1,6204 @@
+<meta charset="utf-8" />
+<html>
+<head>
+</head>
+<body>
+<table width="800" height="600" frameborder="0">
+<tr><th>No</th><th>Titre</th><th>Inventeurs</th><th>Demandeurs</th><th>Numéro de publication</th><th>Pays d'invention</th><th>Année de priorité la plus ancienne</th><th>CIB</th><th>CPC</th><th>Date de publication</th><th>Publication la plus ancienne</th><th>Numéro de famille</th></tr>
+<tr><td>1</td><td>CHARGING OF ELECTRIC VEHICLES USING RENEWABLE ENERGY</td><td>ARYA ATUL [IN] 
+MALAV PRAVEEN [IN] 
+KUMAR DHOMMATA NARESH [IN] 
+KUMAR YOGESH [IN]</td><td>PANASONIC INDIA PVT LTD [IN]</td><td>WO2020208655A1</td><td>WO</td><td>2019</td><td>B60L53/51 
+B60L53/52 
+B60L58/12 
+B60L58/13</td><td>B60L53/51 (EP) 
+B60L53/52 (EP) 
+B60L58/12 (EP) 
+B60L58/13 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2020-10-15</td><td>2020</td><td>70554153</td></tr>
+<tr><td>2</td><td>Power Sharing &amp; Eco-friendly Smart Connected Vehicle System Driven by Hybrid Renewable Energy and IoT for Highways.</td><td>RASOOL SHAIK 
+DULHARE UMA N 
+KONDURU DURGA PRASAD 
+TAMRAKAR PRASHANT KUMAR 
+B  KRISHNA 
+AFROZ MOHAMMED 
+AHMED MOHAMMED ZAHOOR</td><td>AFROZ MOHAMMED MR [IN] 
+AHMED MOHAMMED ZAHOOR MR [IN] 
+DULHARE UMA N DR [IN] 
+KONDURU DURGA PRASAD MR [AU] 
+KRISHNA B DR [IN] 
+RASOOL SHAIK DR [IN] 
+TAMRAKAR PRASHANT KUMAR MR [IN]</td><td>AU2021102765A4</td><td>AU</td><td>2021</td><td>B60L8/00 
+B60K16/00 
+H02J7/00 
+G08B21/18 
+H02J3/32 
+H02S10/12 
+H02S10/40 
+H04W4/46 
+H04W4/90</td><td>B60L8/003 (AU) 
+B60L8/006 (AU) 
+G08B21/182 (AU) 
+H02J3/322 (AU) 
+H02S10/12 (AU) 
+H02S10/40 (AU) 
+B60K2016/003 (AU) 
+B60K2016/006 (AU) 
+H02J2300/24 (AU) 
+H02J2300/28 (AU) 
+H02J7/0063 (AU) 
+H04W4/46 (AU) 
+H04W4/90 (AU) 
+Y02D30/70 (EP) 
+Y02E10/56 (EP) 
+Y02E70/30 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/90 (EP) 
+Y02T90/16 (EP)</td><td>2021-07-22</td><td>2021</td><td>76858434</td></tr>
+<tr><td>3</td><td>Electric vehicle cluster charging and discharging management method for improving stability of energy storage system</td><td>YANG ZHILE 
+ZHAO SHIHAO 
+GUO YUANJUN 
+WU CHENGKE 
+LIU XIANGFEI</td><td>SHENZHEN INST OF ADV TECH CAS</td><td>CN114844083A</td><td>CN</td><td>2022</td><td>B60L53/00 
+B60L53/63 
+B60L53/64 
+B60L55/00 
+G06Q10/06 
+G06Q50/06 
+H02J3/32</td><td>B60L53/00 (CN) 
+B60L53/63 (CN) 
+B60L53/64 (CN) 
+B60L55/00 (CN) 
+G06Q10/06313 (CN) 
+G06Q10/067 (CN) 
+G06Q50/06 (CN) 
+H02J3/322 (CN) 
+H02J2203/10 (CN) 
+H02J2203/20 (CN) 
+Y02T90/12 (EP)</td><td>2022-08-02</td><td>2022</td><td>82572381</td></tr>
+<tr><td>4</td><td>Renewable energy wind funnel for powering of automotive vehicles</td><td>HASSAN HILOU [IQ] 
+MUSTAFA WAREOSH [GB] 
+SARAH MOHAMMED SANBA [GB] 
+HASSAN WARUSH HILOU [IQ] 
+MUSTAFA HASAN WAREOSH [GB]</td><td>HASSAN HILOU [IQ] 
+MUSTAFA WAREOSH [GB] 
+SARAH MOHAMMED SANBA [GB] 
+HASSAN WARUSH HILOU [IQ] 
+MUSTAFA HASAN WAREOSH [GB]</td><td>GB2560881A 
+GB2560881A8</td><td>GB</td><td>2017</td><td>B60L8/00</td><td>B60L8/006 (EP,GB) 
+Y02T10/7072 (EP)</td><td>2018-10-03</td><td>2018</td><td>58605456</td></tr>
+<tr><td>5</td><td>SYSTEM FOR TRACKING AND ALLOCATING RENEWABLE ENERGY CONTRIBUTIONS TO A MODULAR RENEWABLE ENERGY SYSTEM</td><td>TOMLINSON JOSEPH [US]</td><td>PV SOLUTIONS LLC [US]</td><td>US11063437B2 
+US2019305559A1</td><td>US</td><td>2011</td><td>G05B15/02 
+G06Q50/06 
+H02J3/38 
+H02J7/35 
+H04W4/80 
+H02J13/00 
+H02J3/06</td><td>G05B15/02 (US) 
+G06Q50/06 (EP,US) 
+H02J3/38 (US) 
+H02J3/381 (EP,US) 
+H02J7/35 (EP,US) 
+H04W4/80 (EP,US) 
+H02J13/00022 (US) 
+H02J13/00026 (EP,US) 
+H02J2300/10 (EP) 
+H02J2300/24 (EP,US) 
+H02J2300/28 (EP,US) 
+H02J2310/46 (EP,US) 
+H02J3/06 (US) 
+Y02B80/00 (US) 
+Y02B90/20 (EP,US) 
+Y02E10/56 (EP,US) 
+Y02E10/76 (EP,US) 
+Y04S10/123 (US) 
+Y04S40/126 (EP,US)</td><td>2019-10-03 
+2021-07-13</td><td>2013</td><td>47753764</td></tr>
+<tr><td>6</td><td>SYSTEM FOR EXCHANGING RENEWABLE SOURCE ENERGY</td><td>CASTAGNA MAURIZIO [IT]</td><td>ENEGAN SPA [IT]</td><td>WO2020165631A1</td><td>WO</td><td>2019</td><td>G06Q50/06</td><td>G06Q50/06 (EP) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP)</td><td>2020-08-20</td><td>2020</td><td>66049353</td></tr>
+<tr><td>7</td><td>Renewable Energy Powered Blind Spot Sensor and Stand Alone Power Module</td><td>THOMPSON TERRACE BARRELL [US] 
+THOMPSON MARSHALL JAMES [US]</td><td>THOMPSON TERRACE [US]</td><td>US2018141509A1</td><td>US</td><td>2016</td><td>B60R11/04 
+B60R16/03 
+B60R16/033 
+F03D9/32</td><td>B60R1/12 (EP,US) 
+B60R11/04 (EP,US) 
+B60R16/0307 (EP,US) 
+B60R16/033 (US) 
+F03D9/32 (EP,US) 
+B60R1/006 (US) 
+B60R2001/1223 (EP,US) 
+H02J2300/28 (EP) 
+H02J2310/46 (EP) 
+H02J7/34 (EP,US) 
+H02J7/35 (EP,US) 
+Y02E10/72 (EP) 
+Y02E10/728 (EP,US) 
+Y02E10/76 (US)</td><td>2018-05-24</td><td>2018</td><td>62144258</td></tr>
+<tr><td>8</td><td>Charging System for Electric Vehicle Linked Renewable Energy</td><td>JUNG MIN KYO [KR] 
+HONG YOUNG GUN [KR]</td><td>DAEYOUNG CHAEVI CO LTD [KR]</td><td>KR101843571B1</td><td>KR</td><td>2017</td><td>B60K16/00 
+B60L11/18 
+B60L8/00</td><td>B60L53/51 (KR) 
+B60L53/52 (KR) 
+B60L53/60 (KR) 
+B60L55/00 (KR) 
+B60L58/13 (KR) 
+B60L2250/10 (KR) 
+B60Y2200/91 (KR) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/90 (EP) 
+Y02T10/92 (EP) 
+Y02T90/12 (EP)</td><td>2018-03-30</td><td>2018</td><td>61900264</td></tr>
+<tr><td>9</td><td>Fast Battery Charging Method and System for Large Power Load Applications</td><td>SAFAI MORTEZA [US]</td><td>BOEING CO [US]</td><td>US11518260B2 
+US2022194247A1</td><td>US</td><td>2020</td><td>B60L50/60 
+B60L53/10 
+B60L53/18 
+B60L53/50 
+B60L53/51 
+B60L53/52 
+B60L53/55 
+B64D27/24 
+B64F1/36 
+H02J7/00 
+H02J7/35</td><td>B60L50/60 (US) 
+B60L53/11 (US) 
+B60L53/18 (US) 
+B60L53/50 (US) 
+B60L53/51 (US) 
+B60L53/52 (US) 
+B60L53/55 (US) 
+B64D27/24 (US) 
+B64F1/362 (US) 
+H01M10/425 (CN) 
+H01M10/44 (CN) 
+H02J7/0013 (US) 
+H02J7/02 (EP) 
+H02J7/345 (EP) 
+H02J7/35 (US) 
+B60L2200/10 (US) 
+B60L2200/32 (US) 
+H02J2300/20 (EP) 
+Y02E40/60 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP)</td><td>2022-06-23 
+2022-12-06</td><td>2022</td><td>78821439</td></tr>
+<tr><td>10</td><td>System and method for preventing road vehicle from colliding</td><td>DAI JUN</td><td>GUANGZHOU XPENG AUTOMOBILE TECH CO LTD</td><td>CN109606256A 
+CN109606256B</td><td>CN</td><td>2018</td><td>B60Q9/00</td><td>B60Q9/008 (CN)</td><td>2019-04-12 
+2021-04-13</td><td>2019</td><td>66004792</td></tr>
+<tr><td>11</td><td>Application of novel secondary energy power generation technology</td><td>LI GUANGHUI 
+TANG RONGSHENG</td><td>LI GUANGHUI 
+TANG RONGSHENG</td><td>CN111546916A</td><td>CN</td><td>2020</td><td>B60L53/00 
+B60L53/20 
+H02J7/35 
+H02S40/32</td><td>B60L53/00 (CN) 
+B60L53/20 (CN) 
+H02J7/35 (CN) 
+H02S40/32 (CN) 
+Y02E10/50 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/72 (EP) 
+Y02T90/14 (EP)</td><td>2020-08-18</td><td>2020</td><td>72006128</td></tr>
+<tr><td>12</td><td>ELECTRIC VEHICLE AND CHARGING SYSTEM FOR THE SAME USING RENEWABLE ENERGY</td><td>WATANABE MASAHIRO</td><td>WATANABE MASAHIRO</td><td>JP2019115230A</td><td>JP</td><td>2017</td><td>B60L50/40 
+B60L50/50 
+B60L53/00 
+B60L55/00 
+B60L58/00 
+H02J3/38 
+H02J7/00 
+H02J7/35</td><td>Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/14 (EP)</td><td>2019-07-11</td><td>2019</td><td>67223872</td></tr>
+<tr><td>13</td><td>Combined power response control method for park micro-grid comprising energy storage equipment and EV charging station</td><td>LIANG JIFENG 
+HU XUEKAI 
+HU WENPING 
+LUO PENG 
+YANG SHAOBO 
+ZHOU WEN 
+HE RUIDONG</td><td>STATE GRID HEBEI ELECTRIC POWER SUPPLY CO LTD ELECTRIC POWER RES INST 
+STATE GRID CORP CHINA 
+STATE GRID HEBEI ENERGY TECH SERVICE CO LTD</td><td>CN110571855A</td><td>CN</td><td>2019</td><td>B60L55/00 
+H02J3/24 
+H02J3/28 
+H02J3/38</td><td>B60L55/00 (CN) 
+H02J3/24 (CN) 
+H02J3/28 (CN) 
+Y02B10/10 (EP) 
+Y02E70/30 (EP)</td><td>2019-12-13</td><td>2019</td><td>68780405</td></tr>
+<tr><td>14</td><td>Renewable Power Generation System for Vehicles</td><td>WOODWARD DENNIS [US] 
+WOODWARD TYLER [US]</td><td>WOODWARD DENNIS [US] 
+WOODWARD TYLER [US]</td><td>US2022371449A1</td><td>US</td><td>2021</td><td>B60K8/00 
+B60L50/61 
+B60L58/12 
+B60L8/00 
+F03D9/00 
+F03D9/11 
+F03D9/25 
+F03D9/32 
+H02S10/12</td><td>B60K8/00 (US) 
+B60L50/61 (US) 
+B60L53/52 (EP) 
+B60L58/12 (US) 
+B60L8/003 (US) 
+B60L8/006 (US) 
+F03D9/007 (EP,US) 
+F03D9/11 (US) 
+F03D9/25 (US) 
+F03D9/32 (EP,US) 
+H02S10/12 (EP,US) 
+F05B2220/706 (US) 
+F05B2220/708 (EP,US) 
+F05B2240/941 (EP,US) 
+Y02T10/7072 (EP)</td><td>2022-11-24</td><td>2022</td><td>84104285</td></tr>
+<tr><td>15</td><td>INVERTER BASE TECHNOLOGY FOR ELECTRIC VEHICLE BY RENEWABLE ENERGY</td><td>PATHAK SATYANKUMAR VIJAYKUMAR [IN]</td><td>PATHAK SATYANKUMAR VIJAYKUMAR [IN]</td><td>WO2021048877A1</td><td>WO</td><td>2019</td><td>B60L8/00</td><td>B60L8/006 (EP) 
+H02M7/48 (EP) 
+Y02T10/7072 (EP)</td><td>2021-03-18</td><td>2021</td><td>74866202</td></tr>
+<tr><td>16</td><td>Electric vehicle dynamic wireless charging method and device, electronic equipment and storage medium</td><td>MOU XIAOLIN 
+ZHANG YINGJI 
+SUN HONGJIAN</td><td>MOU XIAOLIN</td><td>CN108327569A 
+CN108327569B</td><td>CN</td><td>2018</td><td>B60L11/18 
+H01M10/44 
+B60L53/126 
+B60L53/62 
+B60L53/63 
+B60L53/64</td><td>B60L53/12 (CN) 
+B60L53/51 (CN) 
+B60L53/52 (CN) 
+B60L53/60 (CN) 
+B60L53/63 (CN) 
+B60L53/64 (CN) 
+B60L53/665 (CN) 
+H01M10/44 (CN) 
+Y02E60/10 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y02T90/16 (EP)</td><td>2018-07-27 
+2019-12-13</td><td>2018</td><td>62933921</td></tr>
+<tr><td>17</td><td>ELECTRIC VEHICLE RECHARGE STATION ISOLATED FROM THE NETWORK (Machine-translation by Google Translate, not legally binding)</td><td>GUERRERO ISABEL [ES] 
+LOPEZ CUDERO ANA [ES] 
+CHACON JOAQUIN [ES] 
+PINO MIKEL [ES]</td><td>ALBUFERA INTEGRATION S L [ES]</td><td>ES2674493A1 
+ES2674493B1</td><td>ES</td><td>2016</td><td>B60L11/18 
+H02J7/00 
+H02S40/32</td><td>B60L50/51 (ES) 
+B60L53/14 (ES) 
+H02J7/00 (ES) 
+H02S40/32 (ES) 
+Y02B10/10 (EP) 
+Y02E10/50 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/14 (EP)</td><td>2018-07-02 
+2019-04-08</td><td>2018</td><td>62705097</td></tr>
+<tr><td>18</td><td>Control method and system for alternating current-direct current hybrid distributed renewable energy system</td><td>KANG LI 
+LIANG BEIMING 
+LIU GUOZHONG 
+ZHANG ZHAOYUN 
+ZHANG ZHI 
+ZHAO YANG</td><td>UNIV DONGGUAN TECHNOLOGY</td><td>CN109560577A 
+CN109560577B</td><td>CN</td><td>2018</td><td>B60L55/00 
+H02J4/00</td><td>H02J4/00 (CN)</td><td>2019-04-02 
+2021-07-06</td><td>2019</td><td>65868751</td></tr>
+<tr><td>19</td><td>TOTALLY INTEGRATED AND CONTROLLED HYDROGEN ENERGY SYSTEM AND METHOD FOR OPERATING SAME</td><td>NAKAHARA MASAHIRO [JP] 
+INOUE SHOTA [JP] 
+TAKEUCHI HIROTO [JP]</td><td>HITACHI LTD [JP]</td><td>WO2022230567A1</td><td>WO</td><td>2021</td><td>G06Q50/06 
+H01M8/00 
+H01M8/0606 
+H01M8/0612 
+H01M8/0656 
+H02J3/38</td><td>G06Q50/06 (EP) 
+H01M8/00 (EP) 
+H01M8/0606 (EP) 
+H01M8/0612 (EP) 
+H01M8/0656 (EP) 
+H02J3/38 (EP) 
+Y02E60/50 (EP)</td><td>2022-11-03</td><td>2022</td><td>83847400</td></tr>
+<tr><td>20</td><td>MOBILE PLATFORM FOR CHARGING ELECTRIC VEHICLES</td><td>STUMPF THOMAS [US]</td><td>FUELIE SYSTEMS INC [US]</td><td>WO2022192660A1</td><td>WO</td><td>2021</td><td>F03D9/11 
+F03D9/25 
+H02S10/10 
+H02S10/12 
+H02S10/40</td><td>B60L53/57 (EP) 
+H02S20/30 (EP) 
+H02S30/20 (EP) 
+H02S40/12 (EP) 
+B60L2200/28 (EP) 
+F03D9/11 (EP) 
+F03D9/32 (EP)</td><td>2022-09-15</td><td>2022</td><td>83227127</td></tr>
+<tr><td>21</td><td>MULTI-LAYER ELECTRIC VEHICLE ENERGY MANAGEMENT SYSTEM WITH CUSTOMIZED DATA MODELS</td><td>GADH RAJIT [US] 
+WANG BIN [US] 
+QIU LI [US] 
+ZHANG TIANYANG [US] 
+CHUNG CHING-YEN [US] 
+CHU CHI-CHENG [US]</td><td>UNIV CALIFORNIA [US]</td><td>WO2018098400A1</td><td>WO</td><td>2016</td><td>B60L11/18 
+G06F1/26 
+G06Q50/06</td><td>B60L53/64 (EP) 
+B60L53/65 (EP) 
+B60L53/665 (EP) 
+B60L2240/62 (EP) 
+B60L2240/72 (EP) 
+B60L2250/16 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/72 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP) 
+Y02T90/167 (EP) 
+Y04S30/14 (EP)</td><td>2018-05-31</td><td>2018</td><td>62195333</td></tr>
+<tr><td>22</td><td>Urban energy storage operation system and method</td><td>LEE JI HOON 
+YANG HUI SUNG 
+SEO MIN HO 
+MOON BUNG SAM</td><td>KEPCO KDN CO LTD [KR]</td><td>KR20220138644A</td><td>KR</td><td>2021</td><td>B60L53/80 
+G06Q50/06 
+G06Q50/30 
+H02J3/00</td><td>B60L53/80 (KR) 
+G06Q50/06 (KR) 
+G06Q50/30 (KR) 
+H02J3/008 (KR) 
+H02J2300/30 (KR) 
+Y02T90/12 (KR) 
+Y04S50/10 (KR)</td><td>2022-10-13</td><td>2022</td><td>83599501</td></tr>
+<tr><td>23</td><td>Multifunctional power grid dispatching system and method containing electric vehicle aggregator</td><td>HAN WEI 
+DAI XIN 
+LIANG JIACHENG</td><td>HUAIAN POWER SUPPLY BRANCH COMPANY OF JIANGSU PROVINCE ELECTRIC POWER LTD COMPANY OF STATE GRID</td><td>CN114421460A</td><td>CN</td><td>2022</td><td>B60L53/00 
+B60L53/63 
+B60L53/64 
+B60L53/66 
+B60L55/00 
+H02J3/00 
+H02J3/32 
+H02J3/46</td><td>B60L53/00 (CN) 
+B60L53/63 (CN) 
+B60L53/64 (CN) 
+B60L53/66 (CN) 
+B60L55/00 (CN) 
+H02J3/00 (CN) 
+H02J3/001 (CN) 
+H02J3/00125 (CN) 
+H02J3/004 (CN) 
+H02J3/008 (CN) 
+H02J3/322 (CN) 
+H02J3/46 (CN) 
+H02J3/466 (CN) 
+H02J2203/10 (CN) 
+H02J2203/20 (CN) 
+Y02E70/30 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y02T90/16 (EP)</td><td>2022-04-29</td><td>2022</td><td>81274103</td></tr>
+<tr><td>24</td><td>Simulated annealing algorithm-based optimal scheduling method for microgrid containing electric vehicle</td><td>LIU YANG 
+LIU TIANYU</td><td>UNIV SHANGHAI DIANJI</td><td>CN112183841A</td><td>CN</td><td>2020</td><td>G06N3/00 
+G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+H02J3/00</td><td>G06N3/006 (CN) 
+G06Q10/04 (CN) 
+G06Q10/0631 (CN) 
+G06Q50/06 (CN) 
+H02J3/00 (CN) 
+H02J2203/10 (CN) 
+H02J2203/20 (CN) 
+Y02E40/70 (EP) 
+Y02T10/40 (EP) 
+Y04S10/50 (EP)</td><td>2021-01-05</td><td>2021</td><td>73956912</td></tr>
+<tr><td>25</td><td>Interactive Battery Charger for Electric Vehicle</td><td>SUHAS KULKARNI SIDDHARTH [GB] 
+KUMAR DWIVEDI PROF RAKESH [IN] 
+ATHER DANISH [IN] 
+GOSWAMI BIJOY [IN] 
+VASANTLAL SHAH GAURANG [IN] 
+MILIND SHAHANE NEERAJ [AU] 
+DHULAPPA KAMBALE SHRIDHAR [AU] 
+AVELINO NORONHA AVI [AU] 
+VELAPURE MIHIR [AU] 
+KUMAR SARKAR BIPLAB [IN]</td><td>SUHAS KULKARNI SIDDHARTH [GB] 
+KUMAR DWIVEDI PROF RAKESH [IN] 
+ATHER DANISH [IN] 
+GOSWAMI BIJOY [IN] 
+VASANTLAL SHAH GAURANG [IN] 
+MILIND SHAHANE NEERAJ [AU] 
+DHULAPPA KAMBALE SHRIDHAR [AU] 
+AVELINO NORONHA AVI [AU] 
+VELAPURE MIHIR [AU] 
+KUMAR SARKAR BIPLAB [IN]</td><td>US2022009370A1</td><td>US</td><td>2021</td><td>B60L53/63 
+B60L53/65 
+B60L53/66 
+B60L55/00</td><td>B60L53/63 (EP,US) 
+B60L53/65 (EP,US) 
+B60L53/66 (EP,US) 
+B60L53/665 (EP) 
+B60L55/00 (EP,US) 
+Y02E60/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP) 
+Y02T90/167 (EP) 
+Y04S10/126 (EP) 
+Y04S30/14 (EP)</td><td>2022-01-13</td><td>2022</td><td>79172142</td></tr>
+<tr><td>26</td><td>Esom 11</td><td>OTTAH CHIKEZIE [US] 
+OTTAH ESOM [US] 
+OTTAH IJEOMA [US] 
+OTTAH CHRISTY [US]</td><td>OTTAH CHIKEZIE [US] 
+OTTAH ESOM [US] 
+OTTAH IJEOMA [US] 
+OTTAH CHRISTY [US]</td><td>US2018279555A1</td><td>US</td><td>2017</td><td>A01B35/32 
+A01B49/04 
+A01B79/00 
+A01D41/12 
+A01D69/02</td><td>A01B35/32 (US) 
+A01B49/04 (US) 
+A01B51/00 (EP,US) 
+A01B76/00 (EP,US) 
+A01B79/005 (US) 
+A01D41/12 (US) 
+A01D69/025 (US) 
+B60L8/003 (EP,US) 
+A01C7/08 (US) 
+A01D69/02 (EP,US) 
+Y02P60/12 (EP,US) 
+Y02T10/7072 (EP)</td><td>2018-10-04</td><td>2018</td><td>63671533</td></tr>
+<tr><td>27</td><td>TWO-STAGE STOCHASTIC PROGRAMMING-BASED V2G SCHEDULING MODEL FOR MAXIMIZING OPERATOR REVENUE</td><td>HUANG YUPING [CN] 
+HU CHEN [CN]</td><td>GUANGZHOU INST ENERGY CONVERSION CAS [CN]</td><td>WO2022021957A1</td><td>WO</td><td>2021</td><td>G06Q10/06</td><td>G06Q10/06 (EP) 
+G06Q10/06312 (CN) 
+G06Q10/06315 (CN) 
+G06Q10/067 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP)</td><td>2022-02-03</td><td>2022</td><td>80037495</td></tr>
+<tr><td>28</td><td>SYSTEM INCENTIVIZING GREEN ENERGY USAGE</td><td>O&apos;KEEFE FRANK [US]</td><td>OKEEFE FRANK [US]</td><td>WO2022187852A1</td><td>WO</td><td>2021</td><td>B60L8/00 
+G06Q10/06 
+G06Q40/00 
+G06Q50/06</td><td>B60L53/665 (US) 
+G06Q30/018 (EP,US) 
+G06Q30/0222 (EP,US) 
+G06Q30/0224 (EP,US) 
+B60L53/665 (EP) 
+Y02P90/90 (US)</td><td>2022-09-09</td><td>2022</td><td>83116215</td></tr>
+<tr><td>29</td><td>ELECTRIC VEHICLE CHARGER INSTALLED IN A LAMP POST WITH RENEWABLE ENERGY GENERATOR</td><td>CORDEIRO DE OLIVEIRA EMERSON [BR]</td><td>CORDEIRO DE OLIVEIRA EMERSON [BR]</td><td>WO2022120452A1</td><td>WO</td><td>2020</td><td>B60L53/14 
+B60L53/51 
+B60L53/52 
+F21S9/03 
+F21S9/04</td><td>B60L53/14 (EP) 
+B60L53/30 (BR) 
+B60L53/50 (BR) 
+B60L53/51 (EP) 
+B60L53/52 (EP) 
+F21S9/03 (EP) 
+F21S9/04 (EP)</td><td>2022-06-16</td><td>2022</td><td>81972759</td></tr>
+<tr><td>30</td><td>New energy vehicle</td><td>GUO GENSONG 
+ZHAO XIAOSONG 
+ZHOU CHANGQUAN</td><td>WENLING ZHICHUANG NETWORK TECH CO LTD</td><td>CN108556639A</td><td>CN</td><td>2018</td><td>B60L1/00 
+B60L1/14 
+B60L8/00 
+H02J7/35</td><td>B60L1/00 (CN) 
+B60L1/14 (CN) 
+B60L1/20 (CN) 
+B60L58/18 (CN) 
+B60L8/003 (CN) 
+B60L8/006 (CN) 
+H02J7/35 (CN) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/72 (EP)</td><td>2018-09-21</td><td>2018</td><td>63529873</td></tr>
+<tr><td>31</td><td>Renewable energy bearing capacity evaluation method considering various flexible resources</td><td>LIANG SHUO 
+LIU LI 
+CHEN LIJUAN 
+SUN HUANHUAN</td><td>NANJING CHUANGZHILIHE POWER TECH CO LTD</td><td>CN113131529A</td><td>CN</td><td>2021</td><td>G06K9/62 
+G06N7/00 
+G06Q10/06 
+G06Q50/06 
+H02J3/06 
+H02J3/14 
+H02J3/18 
+H02J3/46 
+H02J3/48</td><td>G06F18/23213 (CN) 
+G06N7/01 (CN) 
+G06Q10/0635 (CN) 
+G06Q10/06393 (CN) 
+G06Q10/067 (CN) 
+G06Q50/06 (CN) 
+H02J3/06 (CN) 
+H02J3/144 (CN) 
+H02J3/18 (CN) 
+H02J3/466 (CN) 
+H02J3/48 (CN) 
+H02J2203/10 (CN) 
+H02J2203/20 (CN) 
+H02J2300/20 (CN) 
+H02J2300/24 (CN) 
+H02J2300/40 (CN) 
+Y02B70/3225 (EP) 
+Y02E10/56 (EP) 
+Y02E40/30 (EP) 
+Y02T90/167 (EP) 
+Y04S20/222 (EP) 
+Y04S30/12 (EP)</td><td>2021-07-16</td><td>2021</td><td>76779853</td></tr>
+<tr><td>32</td><td>一种考虑电动汽车需求响应的可再生能源微电网调峰方法</td><td></td><td></td><td>CN115347623A</td><td>CN</td><td>2022</td><td>B60L53/63 
+G06Q10/06 
+G06Q50/06 
+H02J3/32 
+H02J3/46</td><td></td><td>2022-11-15</td><td>2022</td><td>83957055</td></tr>
+<tr><td>33</td><td>SYSTEM AND METHOD FOR POWER MANAGEMENT</td><td>LAUVSNES HELGE STEINBRU [NO] 
+HAGGEBØ JØRGEN DJUVE [NO]</td><td>AUTOSTORE TECH AS [NO]</td><td>US2022289063A1</td><td>US</td><td>2019</td><td>B60L53/64 
+B60L53/66 
+B65G1/137 
+H02J7/00 
+H02J7/34</td><td>B60L53/53 (EP,CN,KR) 
+B60L53/60 (CN) 
+B60L53/64 (EP,CN,KR,NO,US) 
+B60L53/665 (US) 
+B60L53/80 (EP,KR) 
+B65G1/0464 (KR) 
+B65G1/0492 (NO) 
+B65G1/065 (NO) 
+B65G1/137 (US) 
+B65G54/02 (EP,KR) 
+G06Q50/06 (KR) 
+G06Q50/28 (NO) 
+G06Q50/30 (KR) 
+H02J1/14 (EP,CN,KR) 
+H02J13/00002 (EP,CN,KR) 
+H02J7/0048 (US) 
+H02J7/34 (EP,KR,US) 
+B60L2200/40 (CN) 
+B60L2200/44 (EP,KR,US) 
+B60L2260/50 (EP,CN) 
+B60L2260/54 (EP,CN,KR,US) 
+B60Y2200/62 (EP,KR) 
+B65G2201/0235 (KR) 
+H02J2310/64 (EP,KR,US) 
+Y02B70/3225 (NO) 
+Y02P90/60 (EP,KR) 
+Y02T10/70 (KR) 
+Y02T10/7072 (KR) 
+Y02T10/92 (EP,KR) 
+Y02T90/12 (KR) 
+Y02T90/167 (KR) 
+Y04S30/12 (EP,KR) 
+Y04S30/14 (KR)</td><td>2022-09-15</td><td>2021</td><td>72613927</td></tr>
+<tr><td>34</td><td>Storing electrical energy</td><td>TIMOTHY PETER MARTIN [GB]</td><td>ZAPINAMO LTD [GB]</td><td>GB2554343A 
+GB2554343B</td><td>GB</td><td>2016</td><td>B60L11/18 
+H01M10/44 
+H02J3/28 
+B60L50/50 
+B60L53/30</td><td>B60L50/50 (GB) 
+B60L53/30 (EP,GB,US) 
+B60L53/52 (EP,US) 
+B60L55/00 (EP) 
+H01M10/44 (GB) 
+H02J3/28 (GB) 
+H02J3/322 (EP,GB,US) 
+H02J7/0013 (EP,GB,US) 
+H02J7/35 (EP,US) 
+H02J2300/28 (EP,US) 
+H02J2310/48 (EP,GB,US) 
+Y02E60/00 (EP) 
+Y02E60/10 (EP) 
+Y02E70/30 (EP) 
+Y02P80/20 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y02T90/167 (EP) 
+Y04S10/126 (EP) 
+Y04S30/12 (EP)</td><td>2018-04-04 
+2021-11-24</td><td>2018</td><td>56890603</td></tr>
+<tr><td>35</td><td>ENERGY MANAGEMENT</td><td>ARIMA TAKERO [US] 
+COURNYER JAMES MARION [US] 
+UYEKI ROBERT [US] 
+HONDA GEOFFREY WOO [US]</td><td>HONDA MOTOR CO LTD [JP]</td><td>US11135938B2 
+US2021031647A1</td><td>US</td><td>2019</td><td>B60L53/66 
+B60L53/80 
+B60S5/06 
+G06F3/14 
+G06Q20/06 
+G06Q30/00 
+G06Q30/02 
+G06Q50/06 
+B60L53/68 
+B60L58/00 
+B60L58/10 
+B60L58/22 
+G01C21/34 
+G01R31/382 
+G01S19/51 
+H04L29/08</td><td>B60L53/66 (US) 
+B60L53/665 (EP,US) 
+B60L53/80 (EP,US) 
+B60L58/22 (US) 
+B60S5/06 (US) 
+G01C21/3407 (EP) 
+G01C21/3469 (EP) 
+G06F3/14 (US) 
+G06Q10/08 (EP) 
+G06Q20/06 (US) 
+G06Q30/018 (EP,US) 
+G06Q30/0215 (EP,US) 
+G06Q30/06 (EP) 
+G06Q50/06 (EP,US) 
+G07F15/005 (EP) 
+H04L67/52 (US) 
+B60L2240/72 (US) 
+B60L53/68 (US) 
+B60L58/00 (US) 
+B60L58/10 (US) 
+G01C21/3438 (US) 
+G01R31/382 (US) 
+G01S19/51 (US) 
+Y02T10/70 (EP,US) 
+Y02T10/7072 (EP,US) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP) 
+Y02T90/167 (EP) 
+Y04S30/14 (EP)</td><td>2021-02-04 
+2021-10-05</td><td>2021</td><td>74260025</td></tr>
+<tr><td>36</td><td>Evaluation method of electric vehicle aggregation transaction value based on the new generation power trade platform</td><td>ZHANG QIAN 
+LV JINGWEI 
+TAN HAO 
+HU WANLI 
+YALI ZHANG 
+ZHANG XIAN 
+WANG HAINING 
+GAO CHUNCHENG 
+FANG YIN 
+SHI SHUHONG 
+YUAN MINGZHU 
+YANG NING 
+KANG NAN 
+DONG WUJUN 
+CHANG XIN 
+WAN SHULU 
+LI SHOUBAO 
+LI RUIXIAO 
+WANG LEI 
+ZHAO XIAN</td><td>BEIJING KEDONG ELECTRIC POWER CONTROL SYSTEM CO LTD [CN] 
+BEIJING POWER TRADING CENTER CO LTD [CN]</td><td>AU2020103444A4</td><td>AU</td><td>2020</td><td>G06Q10/06 
+G06Q50/06 
+H02J15/00 
+H02J3/01 
+H02J3/18 
+H02J3/24</td><td>H02J3/144 (AU) 
+H02J3/322 (AU) 
+H02J7/007 (AU) 
+H02J1/02 (AU) 
+H02J3/18 (AU) 
+H02J3/24 (AU) 
+Y02E40/30 (EP) 
+Y02E40/40 (EP) 
+Y02E70/30 (EP)</td><td>2021-01-28</td><td>2021</td><td>74192138</td></tr>
+<tr><td>37</td><td>Peak sheaving and valley filling method for grid-connected microgrid containing wind-light-storage-electric vehicle</td><td>HUANG ZHENZHOU 
+HOU ZHONGHUA 
+YU JIE 
+QU YIBIN 
+HU WEI 
+ZHOU JIE 
+ZHOU GUOSEN 
+XIN BAOHONG 
+JIANG YONGQIANG 
+LING YING 
+ZHAO QI 
+QIAN XIAOJUN 
+WANG QIANG 
+TAI NENGLING 
+HUANG WENTAO</td><td>STATE GRID SHANGHAI MUNICIPAL ELECTRIC POWER CO</td><td>CN107732937A 
+CN107732937B</td><td>CN</td><td>2017</td><td>B60L11/18 
+H02J3/24 
+H02J3/28 
+H02J3/32 
+H02J3/38 
+B60L53/64</td><td>B60L53/64 (CN) 
+H02J3/24 (CN) 
+H02J3/28 (CN) 
+H02J3/32 (CN) 
+H02J3/383 (CN) 
+H02J3/386 (CN) 
+Y02E10/56 (EP) 
+Y02E10/76 (EP) 
+Y02E70/30 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2018-02-23 
+2021-07-20</td><td>2018</td><td>61209224</td></tr>
+<tr><td>38</td><td>METHODS AND SYSTEMS FOR GREEN ENERGY CHARGING OF ELECTRICAL VEHICLES</td><td>BANGALORE SUNDARA RAJU GIRIDHAR [IN] 
+KRISHNAMURTHY RAJAGOPALAN [US]</td><td>HYGGE ENERGY INC [US]</td><td>CA3168074A1</td><td>CA</td><td>2020</td><td></td><td>B60L53/50 (EP) 
+B60L53/51 (EP) 
+B60L53/53 (EP) 
+B60L53/64 (EP) 
+H02J3/32 (EP) 
+H02J3/381 (EP) 
+H02J7/0048 (EP) 
+H02J2300/10 (EP) 
+H02J2300/20 (EP) 
+H02J2310/10 (EP) 
+H02J2310/48 (EP) 
+H02J7/342 (EP) 
+Y04S30/14 (EP)</td><td>2021-02-05</td><td>2021</td><td>74498018</td></tr>
+<tr><td>39</td><td>Intelligent charging and discharging management method for V2G electric vehicle in regional microgrid</td><td>YU HUIQUN 
+YIN SHEN 
+PENG DAOGANG 
+ZHANG HAO</td><td>UNIV SHANGHAI ELECTRIC POWER</td><td>CN111762057A 
+CN111762057B</td><td>CN</td><td>2020</td><td>B60L53/63 
+B60L55/00</td><td>B60L53/63 (CN) 
+B60L55/00 (CN) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2020-10-13 
+2022-02-22</td><td>2020</td><td>72724001</td></tr>
+<tr><td>40</td><td>Electric vehicle aggregation transaction value evaluation method based on electric power transaction platform</td><td>ZHANG QIAN 
+LYU JINGWEI 
+TAN HAO 
+HU WANLI 
+ZHANG YALI 
+ZHANG XIAN 
+WANG HAINING 
+LIU YONGHUI 
+WANG QINGBO 
+GAO CHUNCHENG 
+FANG YIN 
+SHI SHUHONG 
+YUAN MINGZHU 
+YANG NING 
+KANG NAN 
+DONG WUJUN 
+CHANG XIN 
+WAN SHULU 
+LI SHOUBAO 
+LI RUIXIAO 
+WANG LEI 
+ZHAO XIAN</td><td>BEIJING KEDONG ELECTRIC POWER CONTROL SYSTEM CO LTD 
+BEIJING POWER EXCHANGE CENTER CO LTD</td><td>CN112488829A</td><td>CN</td><td>2020</td><td>G06Q30/02 
+G06Q40/04 
+G06Q50/06</td><td>G06Q30/0206 (CN) 
+G06Q40/04 (CN) 
+G06Q50/06 (CN) 
+Y04S50/14 (EP) 
+Y04S50/16 (EP)</td><td>2021-03-12</td><td>2021</td><td>74928524</td></tr>
+<tr><td>41</td><td>METHOD AND SYSTEM FOR USING SECOND LIFE BATTERIES AS ENERGY STORAGE IN A RENEWABLE ENERGY SYSTEM</td><td>BURCHARDT TRYGVE [US]</td><td>ECO STOR AS [NO]</td><td>US2022149630A1</td><td>US</td><td>2019</td><td>B60L58/12 
+B60R16/033 
+H02J3/00 
+H02J3/32 
+H02J7/00</td><td>B60L58/12 (US) 
+B60R16/033 (US) 
+H02J3/003 (EP,US) 
+H02J3/32 (EP) 
+H02J3/322 (US) 
+H02J7/0013 (US) 
+H02J7/0048 (US) 
+H02J7/007 (US) 
+H02J2300/20 (EP,US) 
+H02J2310/48 (EP,US) 
+H02J3/381 (EP) 
+Y02E70/30 (EP) 
+Y02T10/70 (EP)</td><td>2022-05-12</td><td>2021</td><td>71944174</td></tr>
+<tr><td>42</td><td>Combined microgrid operation strategy considering demand response and electric vehicle</td><td>CAO WEI 
+ZENG XIANWEN 
+GAO GUIGE</td><td>UNIV SHANGHAI DIANJI</td><td>CN112202201A</td><td>CN</td><td>2020</td><td>B60L53/64 
+B60L55/00 
+G06Q50/06 
+H02J3/28 
+H02J3/32 
+H02J3/38</td><td>B60L53/64 (CN) 
+B60L55/00 (CN) 
+G06Q50/06 (CN) 
+H02J3/28 (CN) 
+H02J3/322 (CN) 
+H02J3/381 (CN) 
+H02J2203/20 (CN) 
+H02J2300/24 (CN) 
+H02J2300/28 (CN) 
+H02J2310/48 (CN) 
+H02J2310/64 (CN) 
+Y02B70/3225 (EP) 
+Y02E10/56 (EP) 
+Y02E70/30 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y04S20/222 (EP)</td><td>2021-01-08</td><td>2021</td><td>74014635</td></tr>
+<tr><td>43</td><td>Device and technique for negative electricity fission power generation of motor vehicle</td><td>AI CHAOJUN</td><td>AI CHAOJUN</td><td>CN110481332A</td><td>CN</td><td>2017</td><td>B60L50/51 
+B60L8/00</td><td>B60L8/003 (CN) 
+B60L8/006 (CN) 
+B60L2210/40 (CN) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/72 (EP)</td><td>2019-11-22</td><td>2019</td><td>68580440</td></tr>
+<tr><td>44</td><td>Power demand management system and method using electric vehicle parking tower</td><td>LEE JI HOON 
+YANG HUI SUNG 
+SEO MIN HO 
+MOON BUNG SAM</td><td>KEPCO KDN CO LTD [KR]</td><td>KR20220138642A</td><td>KR</td><td>2021</td><td>B60L53/60 
+G06Q50/06 
+G06Q50/30 
+H02J3/00</td><td>B60L53/60 (KR) 
+G06Q50/06 (KR) 
+G06Q50/30 (KR) 
+H02J3/008 (KR) 
+Y02T90/12 (KR) 
+Y04S30/10 (KR) 
+Y04S50/10 (KR)</td><td>2022-10-13</td><td>2022</td><td>83599421</td></tr>
+<tr><td>45</td><td>ENERGY MANAGING APPARATUS AND ENERGY MANAGEMENT METHOD</td><td>MORIMOTO YOSHITAKA [JP] 
+ISHIKAWA TAKAO [JP] 
+TAKAMATSU DAIKOH [JP] 
+SHIRAKAWA YUZO [JP]</td><td>HITACHI LTD [JP]</td><td>EP4027281A1</td><td>EP</td><td>2021</td><td>G06Q10/04 
+G06Q50/06 
+H02J3/00 
+H02J3/38</td><td>G06Q10/04 (EP) 
+G06Q50/06 (EP) 
+H02J15/008 (EP) 
+H02J2203/10 (EP) 
+H02J2300/10 (EP) 
+H02J2300/30 (EP) 
+H02J3/008 (EP) 
+H02J3/381 (EP)</td><td>2022-07-13</td><td>2022</td><td>80001547</td></tr>
+<tr><td>46</td><td>Electric vehicle charging station energy management method under interactive energy mechanism</td><td>HUANG QIRU 
+HU JUNJIE</td><td>UNIV NORTH CHINA ELECTRIC POWER</td><td>CN112396223A</td><td>CN</td><td>2020</td><td>G06Q10/04 
+G06Q10/06 
+G06Q30/02 
+G06Q50/06 
+H02J3/00 
+H02J3/32</td><td>G06Q10/04 (CN) 
+G06Q10/0631 (CN) 
+G06Q30/0202 (CN) 
+G06Q30/0206 (CN) 
+G06Q50/06 (CN) 
+H02J3/008 (CN) 
+H02J3/322 (CN) 
+H02J2310/48 (CN) 
+H02J2310/64 (CN) 
+Y02B70/3225 (EP) 
+Y02E10/56 (EP) 
+Y02E70/30 (EP) 
+Y04S20/222 (EP) 
+Y04S50/14 (EP)</td><td>2021-02-23</td><td>2021</td><td>74599425</td></tr>
+<tr><td>47</td><td>EQUIPAMENTO PARA PARQUEAMENTO DE VEÍCULOS DE MOBILIDADE INDIVIDUAL COM PRODUÇÃO E ARMAZENAMENTO DE ENERGIA ELÉTRICA RENOVÁVEL PARA CARREGAMENTO DE VEÍCULOS ELÉTRICOS DE MOBILIDADE INDIVIDUAL</td><td>ALEXANDRE MIGUEL CORDEIRO MAGRINHO [PT] 
+PAULO JORGE VIEIRA CARAPINHA [PT]</td><td>ALEXANDRE MIGUEL CORDEIRO MAGRINHO [PT] 
+PAULO JORGE VIEIRA CARAPINHA [PT]</td><td>PT115373A</td><td>PT</td><td>2019</td><td>B60L53/30</td><td>B60L53/30 (PT) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2020-09-18</td><td>2020</td><td>73149833</td></tr>
+<tr><td>48</td><td>Electricity-hydrogen energy hub planning method based on typical scene of shared parking lot</td><td>ZENG BO 
+WANG WENSHI 
+ZHANG CHANGHAO 
+LUO YANGFAN</td><td>UNIV NORTH CHINA ELECTRIC POWER</td><td>CN114782215A</td><td>CN</td><td>2022</td><td>G06F17/15 
+G06Q10/04 
+G06Q50/06</td><td>G06F17/15 (CN) 
+G06Q10/04 (CN) 
+G06Q50/06 (CN)</td><td>2022-07-22</td><td>2022</td><td>82430988</td></tr>
+<tr><td>49</td><td>Collaborative optimization method and system for capacity configuration and economic dispatch of multi-microgrid system</td><td>CHEN CHANGSONG 
+CHEN JIN 
+DUAN SHANXU 
+CAI TAO 
+LIU PENG 
+JIA SHURAN</td><td>UNIV HUAZHONG SCIENCE TECH</td><td>CN110929908A 
+CN110929908B</td><td>CN</td><td>2018</td><td>G06N3/00 
+G06Q10/04 
+G06Q50/06</td><td>G06N3/006 (CN) 
+G06Q10/04 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP)</td><td>2020-03-27 
+2022-03-29</td><td>2020</td><td>69855851</td></tr>
+<tr><td>50</td><td>LiPO4 or lithium-titanate battery storage system for an BEV imbalance and aFRR market charging system</td><td>HENDRIK HAZELEGER [GB]</td><td>HENDRIK HAZELEGER [GB]</td><td>GB2605438A</td><td>GB</td><td>2021</td><td>B60L53/64</td><td>B60L53/64 (EP,GB) 
+B60L53/665 (EP) 
+Y02T90/14 (EP)</td><td>2022-10-05</td><td>2022</td><td>75783809</td></tr>
+<tr><td>51</td><td>SYSTEM, APPARATUS AND METHODS OF ELECTRICITY GENERATION TO END-USE FOR FAST CHARGING OF ELECTRIC VEHICLE</td><td>GUPTA RANJAN KUMAR [US]</td><td>GUPTA RANJAN KUMAR [US] 
+STOREDGEAI LLC [US]</td><td>US10946762B2 
+US2018264955A1</td><td>US</td><td>2017</td><td>B60L11/18 
+G06Q30/02 
+B60L53/10 
+B60L53/20 
+B60L53/51 
+B60L53/52 
+B60L58/12 
+H02J7/00</td><td>B60L53/11 (EP,US) 
+B60L53/20 (US) 
+B60L53/51 (EP,US) 
+B60L53/52 (EP,US) 
+B60L58/12 (EP,US) 
+G06Q30/0283 (EP,US) 
+B60L2210/10 (US) 
+B60L2270/10 (US) 
+Y04S50/14 (EP,US)</td><td>2018-09-20 
+2021-03-16</td><td>2018</td><td>63520980</td></tr>
+<tr><td>52</td><td>A SYSTEM AND METHOD FOR MAXIMIZATION OF RENEWABLE ENERGY RESOURCES ACROSS ELECTRIC VEHICLES, STATIONARY ENERGY STORAGE, AND RENEWABLE ENERGY RESOURCES</td><td>BATIR SEAN [US] 
+LANGTON ADAM [US]</td><td>BAYERISCHE MOTOREN WERKE AG [DE]</td><td>EP3988382A1</td><td>EP</td><td>2020</td><td>B60L53/50</td><td>B60L53/51 (EP) 
+B60L53/53 (EP) 
+B60L53/63 (EP) 
+B60L55/00 (EP) 
+H02J2300/20 (EP) 
+H02J3/32 (EP) 
+Y02E60/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y04S10/126 (EP)</td><td>2022-04-27</td><td>2022</td><td>73014345</td></tr>
+<tr><td>53</td><td>METHODS AND SYSTEMS FOR GREEN ENERGY CHARGING OF ELECTRICAL VEHICLES</td><td>BANGALORE SUNDARA RAJU GIRIDHAR [IN] 
+KRISHNAMURTHY RAJAGOPALAN [US]</td><td>HYGGE ENERGY INC [US]</td><td>US2022140610A1</td><td>US</td><td>2020</td><td>B60L53/51 
+B60L53/53 
+B60L53/64 
+B60L53/66 
+B60L53/80 
+B60L55/00 
+B60L58/12 
+H02J3/32 
+H02J3/38</td><td>B60L53/51 (EP,US) 
+B60L53/53 (EP,US) 
+B60L53/63 (EP) 
+B60L53/64 (EP,US) 
+B60L53/665 (EP,US) 
+B60L53/80 (EP,US) 
+B60L55/00 (EP,US) 
+B60L58/12 (EP,US) 
+H02J3/32 (EP) 
+H02J3/322 (US) 
+H02J3/381 (EP,US) 
+H02J7/342 (EP) 
+H04L67/12 (US) 
+B60L2240/72 (US) 
+B60L2240/80 (US) 
+B60L2260/54 (EP,US) 
+H02J2300/20 (EP) 
+H02J2300/22 (US) 
+H02J2310/10 (EP) 
+H02J2310/48 (EP) 
+H02J3/322 (EP) 
+H04L67/12 (EP) 
+Y02E70/30 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP) 
+Y02T90/167 (EP) 
+Y04S30/12 (EP)</td><td>2022-05-05</td><td>2022</td><td>81379426</td></tr>
+<tr><td>54</td><td>Planning method of electricity-heat-hydrogen multi-energy system considering uncertainty</td><td>HOU HUI 
+LIU PENG 
+WU XIXIU 
+LI XIANQIANG 
+XUE MENGYA 
+XU TAO</td><td>UNIV WUHAN TECH</td><td>CN111242806A</td><td>CN</td><td>2020</td><td>G06F30/20 
+G06N3/00 
+G06Q50/06 
+H02J3/00 
+H02J3/38 
+H02J3/46 
+G06F111/04 
+G06F111/06</td><td>G06N3/006 (CN) 
+G06Q50/06 (CN) 
+H02J3/008 (CN) 
+H02J3/46 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP)</td><td>2020-06-05</td><td>2020</td><td>70876490</td></tr>
+<tr><td>55</td><td>Double-layer scheduling method for community integrated energy system comprising electric vehicle charging station</td><td>LI YANG 
+HAN MENG 
+WANG BIN 
+LI JIAZHENG 
+WANG RUINONG 
+CHEN HAIPENG 
+LI GUOQING</td><td>UNIV NORTHEAST ELECTRIC POWER</td><td>CN113517690A</td><td>CN</td><td>2021</td><td>B60L53/50 
+B60L53/51 
+B60L53/52 
+B60L53/62 
+B60L53/63 
+B60L53/64 
+G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+H02J3/00 
+H02J3/28 
+H02J3/38 
+H02J3/46</td><td>B60L53/50 (CN) 
+B60L53/51 (CN) 
+B60L53/52 (CN) 
+B60L53/62 (CN) 
+B60L53/63 (CN) 
+B60L53/64 (CN) 
+G06Q10/04 (CN) 
+G06Q10/06312 (CN) 
+G06Q10/06313 (CN) 
+G06Q50/06 (CN) 
+H02J3/00 (CN) 
+H02J3/008 (CN) 
+H02J3/28 (CN) 
+H02J3/381 (CN) 
+H02J3/466 (CN) 
+H02J2203/10 (CN) 
+H02J2203/20 (CN) 
+H02J2300/24 (CN) 
+H02J2300/28 (CN) 
+H02J2300/40 (CN) 
+Y02E10/56 (EP) 
+Y02E70/30 (EP) 
+Y02T10/40 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2021-10-19</td><td>2021</td><td>78066154</td></tr>
+<tr><td>56</td><td>Double-charging circuit, double-charging device and tire pressure monitor</td><td>LIN ZHIJIAN</td><td>CHENGDU BOTSLAB INTELLIGENT TECH CO LTD</td><td>CN214295834U</td><td>CN</td><td>2020</td><td>B60R16/02 
+B60R16/033</td><td></td><td>2021-09-28</td><td>2021</td><td>77862396</td></tr>
+<tr><td>57</td><td>Framework system of mobile energy storage internet of things and implementation method</td><td>ZHOU NIANCHENG 
+LIAO JIANQUAN 
+TIAN YUHE 
+MO FUXUE 
+TAO ANQI 
+WANG QIANGGANG</td><td>UNIV CHONGQING</td><td>CN113077360A</td><td>CN</td><td>2021</td><td>G06Q10/00 
+G06Q30/02 
+G06Q40/04 
+G06Q50/06</td><td>G06Q10/30 (CN) 
+G06Q30/0206 (CN) 
+G06Q40/04 (CN) 
+G06Q50/06 (CN) 
+Y02W90/00 (EP) 
+Y04S10/50 (EP) 
+Y04S50/14 (EP)</td><td>2021-07-06</td><td>2021</td><td>76616254</td></tr>
+<tr><td>58</td><td>SYSTEM AND METHOD FOR SMART CHARGING MANAGEMENT OF ELECTRIC VEHICLE FLEETS</td><td>MANGAL VANDANA [US] 
+CHU CHI-CHENG [US] 
+JIANG YIJING [US] 
+LU WEI [US] 
+YUAN WEIHENG [US] 
+RAMACHANDRAN JAHNVI [US] 
+NAMBA LIAM [US]</td><td>MOEV INC [US]</td><td>US2022410750A1</td><td>US</td><td>2021</td><td>B60L53/62 
+B60L53/67</td><td>B60L53/62 (US) 
+B60L53/67 (US) 
+B60L2240/72 (US) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP)</td><td>2022-12-29</td><td>2022</td><td>84543687</td></tr>
+<tr><td>59</td><td>Hybrid consolidated battery system for electric vehicles</td><td>TAUŠ PETER [SK]</td><td>TECHNICKA UNIVERZITA V KOSICIACH [SK]</td><td>SK501412018U1 
+SK8687Y1</td><td>SK</td><td>2018</td><td>B60K1/00 
+B60L53/00</td><td>Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/14 (EP) 
+Y02T90/167 (EP) 
+Y04S30/12 (EP)</td><td>2019-09-03 
+2020-02-04</td><td>2019</td><td>68108743</td></tr>
+<tr><td>60</td><td>SYSTEM OF MANAGEMENT OF ENERGY TRADING AND METHOD OF THE SAME</td><td>HONG CHOONG SEON 
+TRAN THI KIM OANH 
+LEE MINKYUNG 
+KANG SUN MOO</td><td>UNIV INDUSTRY COOPERATION GROUP KYUNG HEE UNIV [KR]</td><td>KR102128363B1 
+KR20200050802A</td><td>KR</td><td>2018</td><td>G06Q30/02 
+G06Q30/06 
+G06Q30/08 
+G06Q50/06</td><td>G06Q30/0202 (US) 
+G06Q30/0206 (EP,KR) 
+G06Q30/0611 (EP) 
+G06Q30/0619 (KR) 
+G06Q30/08 (EP,KR,US) 
+G06Q50/06 (EP,KR,US)</td><td>2020-05-12 
+2020-06-30</td><td>2020</td><td>64331755</td></tr>
+<tr><td>61</td><td>Virtual power plant optimization scheduling method based on plug-in hybrid electric vehicle V2G technology</td><td>DONG HAO 
+LIU SANMING 
+HUANG QIFAN 
+SUN WEIBIN</td><td>UNIV SHANGHAI DIANJI</td><td>CN113077111A</td><td>CN</td><td>2021</td><td>G06N3/00 
+G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>G06N3/006 (CN) 
+G06Q10/04 (CN) 
+G06Q10/0631 (CN) 
+G06Q10/067 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y02T10/40 (EP) 
+Y04S10/50 (EP)</td><td>2021-07-06</td><td>2021</td><td>76618757</td></tr>
+<tr><td>62</td><td>METHOD AND SYSTEM FOR CHARGING ELECTRIC VEHICLE OF CHARGING POSITION SELECTION TYPE BY USING NEW RENEWABLE ENERGY</td><td>LEE SANG HWA [KR] 
+LEE YOON WON [KR] 
+LEE KYUNG JIN [KR]</td><td>FEC CO LTD [KR]</td><td>WO2022164114A1</td><td>WO</td><td>2021</td><td>B60L53/20 
+B60L53/50</td><td>B60L53/20 (KR) 
+B60L53/50 (KR) 
+B60L2210/10 (KR) 
+B60L2210/30 (KR) 
+B60Y2200/91 (KR) 
+Y02T90/14 (EP)</td><td>2022-08-04</td><td>2021</td><td>78151458</td></tr>
+<tr><td>63</td><td>Multi-element power consumer management method based on energy distribution chain double-layer intelligent algorithm</td><td>WANG DAZHI 
+LIU ZIMING 
+LIU ZHEN 
+ZHU KAI 
+BAN HONGWEI</td><td>UNIV NORTHEASTERN</td><td>CN113112083A</td><td>CN</td><td>2021</td><td>G06F16/27 
+G06N3/00 
+G06Q10/04 
+G06Q10/06 
+G06Q30/02 
+G06Q40/04 
+G06Q50/06</td><td>G06F16/27 (CN) 
+G06N3/006 (CN) 
+G06Q10/04 (CN) 
+G06Q10/06315 (CN) 
+G06Q30/0202 (CN) 
+G06Q40/04 (CN) 
+G06Q50/06 (CN) 
+Y02D10/00 (EP) 
+Y04S50/14 (EP)</td><td>2021-07-13</td><td>2021</td><td>76719281</td></tr>
+<tr><td>64</td><td>Combined microgrid operation method considering charging failure of electric vehicle</td><td>CAO WEI 
+ZENG XIANWEN 
+GAO GUIGE</td><td>UNIV SHANGHAI DIANJI</td><td>CN111740417A</td><td>CN</td><td>2020</td><td>B60L53/64 
+G06Q10/06 
+G06Q50/06 
+H02J3/00 
+H02J3/32</td><td>B60L53/64 (CN) 
+G06Q10/06312 (CN) 
+G06Q50/06 (CN) 
+H02J3/0075 (CN) 
+H02J3/322 (CN) 
+H02J2203/20 (CN) 
+H02J2300/24 (CN) 
+H02J2300/28 (CN) 
+H02J2310/48 (CN) 
+Y02E10/56 (EP) 
+Y02E70/30 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2020-10-02</td><td>2020</td><td>72655852</td></tr>
+<tr><td>65</td><td>Distributed real-time energy allocation method of multiple electric vehicles in microgrid system</td><td>ZHANG GUANGLIN 
+WU CHANGLE 
+CAO YONGSHENG 
+ZHANG WENQIAN 
+LI DEMIN</td><td>UNIV NATIONAL DONG HWA</td><td>CN108400585A 
+CN108400585B</td><td>CN</td><td>2018</td><td>B60L11/18 
+H02J3/00 
+H02J3/32 
+B60L53/64 
+B60L55/00</td><td>B60L53/64 (CN) 
+B60L55/00 (CN) 
+H02J3/00 (CN) 
+H02J3/008 (CN) 
+H02J3/32 (CN) 
+H02J2203/20 (CN) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2018-08-14 
+2021-04-02</td><td>2018</td><td>63095488</td></tr>
+<tr><td>66</td><td>RENEWABLE ENERGY POWERING SYSTEM</td><td>STANLEY II ROBERT E [US]</td><td>STANLEY II ROBERT E [US]</td><td>US2019077254A1</td><td>US</td><td>2017</td><td>B60K16/00 
+B60K6/10 
+B60K6/28</td><td>B60K1/04 (EP,US) 
+B60K16/00 (EP,US) 
+B60K6/10 (US) 
+B60K6/28 (US) 
+B60K2001/0416 (EP,US) 
+B60K2001/0438 (EP,US) 
+B60K2016/003 (EP,US) 
+B60Y2200/14 (EP,US) 
+B60Y2200/142 (EP,US) 
+B60Y2200/148 (EP,US) 
+B60Y2200/30 (EP,US) 
+Y02T10/90 (EP)</td><td>2019-03-14</td><td>2019</td><td>65630456</td></tr>
+<tr><td>67</td><td>Using Electric Vehicles for Long Term Energy Storage</td><td>WAARDENBURG ALEXANDER FRANK [US]</td><td>WAARDENBURG ALEXANDER FRANK [US]</td><td>US11180046B2 
+US2020307405A1</td><td>US</td><td>2019</td><td>B60L53/51 
+B60L53/52 
+B60L53/63 
+B60L53/64 
+B60L53/66</td><td>B60L53/51 (EP,US) 
+B60L53/52 (EP,US) 
+B60L53/63 (EP,US) 
+B60L53/64 (EP,US) 
+B60L53/665 (EP,US) 
+Y02E60/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP) 
+Y02T90/167 (EP) 
+Y04S10/126 (EP) 
+Y04S30/14 (EP)</td><td>2020-10-01 
+2021-11-23</td><td>2020</td><td>72606641</td></tr>
+<tr><td>68</td><td>Regional micro energy grid operation optimization method considering maximum consumption of renewable energy</td><td>ZHU LEILEI 
+WANG BIN 
+LI XIAOPENG 
+LIU JINGLEI 
+XU JING 
+YANG JIALIANG 
+ZHOU QIONG</td><td>SHANGHAI ELECTRICAL ENG DESIGN CO LTD</td><td>CN114997460A</td><td>CN</td><td>2022</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+H02J3/00 
+H02J3/32 
+H02J3/38 
+H02J3/46</td><td>G06Q10/04 (CN) 
+G06Q10/06312 (CN) 
+G06Q10/06313 (CN) 
+G06Q10/067 (CN) 
+G06Q50/06 (CN) 
+H02J3/00 (CN) 
+H02J3/008 (CN) 
+H02J3/32 (CN) 
+H02J3/38 (CN) 
+H02J3/381 (CN) 
+H02J3/466 (CN) 
+H02J2203/10 (CN) 
+H02J2203/20 (CN) 
+H02J2300/24 (CN) 
+H02J2300/28 (CN) 
+H02J2300/40 (CN) 
+Y04S10/50 (EP)</td><td>2022-09-02</td><td>2022</td><td>83023457</td></tr>
+<tr><td>69</td><td>Mobile energy storage vehicle flexible scheduling method based on node electricity price information</td><td>MO YUHONG 
+QIN ZHIJUN</td><td>UNIV GUANGXI</td><td>CN111682529A</td><td>CN</td><td>2020</td><td>G06Q10/06 
+G06Q30/02 
+G06Q50/06 
+H02J3/00 
+H02J3/28 
+H02J3/38 
+H02J3/46</td><td>G06Q10/06315 (CN) 
+G06Q10/067 (CN) 
+G06Q30/0206 (CN) 
+G06Q50/06 (CN) 
+H02J3/00 (CN) 
+H02J3/28 (CN) 
+H02J3/381 (CN) 
+H02J3/466 (CN) 
+H02J2203/20 (CN) 
+H02J2300/20 (CN) 
+Y02E40/70 (EP) 
+Y02E70/30 (EP) 
+Y04S10/50 (EP)</td><td>2020-09-18</td><td>2020</td><td>72454875</td></tr>
+<tr><td>70</td><td>Vehicle network energy interaction optimization method considering renewable energy consumption in market environment</td><td>DING ZHAOHAO 
+LU YING 
+WANG YUNYUN 
+YANG MENG 
+ZHANG LIZI 
+LI HONGBING 
+LEI YU 
+LI JUN 
+LUO XIBIN 
+BAI YU</td><td>UNIV NORTH CHINA ELECTRIC POWER 
+STATE GRID CHONGQING ELECTRIC POWER CO</td><td>CN110598904A</td><td>CN</td><td>2019</td><td>G06Q10/04 
+G06Q30/02 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q30/0283 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP) 
+Y04S50/14 (EP)</td><td>2019-12-20</td><td>2019</td><td>68853695</td></tr>
+<tr><td>71</td><td>Multi-Function Energy Station</td><td>PEREZ MARCELO A [US] 
+MAUNEY MARSHALL [US]</td><td>S &amp; C ELECTRIC CO [US]</td><td>US2018358839A1</td><td>US</td><td>2017</td><td>B60L11/18 
+G05B15/02 
+H02J3/32 
+H02J3/38 
+H02J9/06</td><td>B60L53/30 (EP,US) 
+B60L53/51 (EP,US) 
+B60L53/52 (EP,US) 
+B60L53/63 (EP,US) 
+B60L53/64 (EP,US) 
+B60L53/67 (EP,US) 
+G05B15/02 (US) 
+H02J1/102 (EP,US) 
+H02J3/322 (EP,US) 
+H02J3/381 (EP,US) 
+H02J3/388 (EP,US) 
+H02J3/46 (EP,US) 
+H02J7/00711 (EP,US) 
+H02J9/061 (EP,US) 
+H02J2300/24 (EP,US) 
+H02J2300/28 (EP,US) 
+Y02E10/56 (EP) 
+Y02E10/76 (EP) 
+Y02E60/00 (EP) 
+Y02E70/30 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/167 (EP) 
+Y04S10/126 (EP) 
+Y04S30/12 (EP) 
+Y04S30/14 (EP)</td><td>2018-12-13</td><td>2018</td><td>64564346</td></tr>
+<tr><td>72</td><td>Electric vehicle charging station with solar component</td><td>CARR FRED K [US]</td><td>CARR FRED K [US]</td><td>US2021362614A1</td><td>US</td><td>2018</td><td>B60L53/51 
+B60L53/62 
+B60L53/66</td><td>B60L53/50 (US) 
+B60L53/51 (EP,US) 
+B60L53/53 (EP) 
+B60L53/62 (EP,US) 
+B60L53/665 (US) 
+B60L2210/10 (US) 
+B60L2210/40 (US) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP)</td><td>2021-11-25</td><td>2021</td><td>78609505</td></tr>
+<tr><td>73</td><td>BATTERY BANK-BASED ELECTRIC VEHICLE RAPID CHARGING SYSTEM</td><td>CHOI YOUNG KIL</td><td>KERI KOREA ELECTROTECHNOLOGY RES INST [KR]</td><td>KR20210065635A</td><td>KR</td><td>2019</td><td>B60L53/10 
+B60L58/19</td><td>B60L53/11 (KR) 
+B60L58/19 (KR) 
+B60Y2200/91 (KR) 
+Y02T10/70 (EP,KR) 
+Y02T10/7072 (EP) 
+Y02T90/14 (EP)</td><td>2021-06-04</td><td>2021</td><td>76391792</td></tr>
+<tr><td>74</td><td>基于CPSS架构的多场景低压可再生资源负荷预测方法</td><td></td><td></td><td>CN115545429A</td><td>CN</td><td>2022</td><td>G06N5/04 
+G06Q10/06 
+G06Q50/06</td><td></td><td>2022-12-30</td><td>2022</td><td>84727193</td></tr>
+<tr><td>75</td><td>2kw to 20kw Hybrid Power Systems for Recreational and Special Vehicles. This innovation relates to electrical power systems in recreational and special vehicles that don&apos;t use electrical power exclusively for locomotion. It introduces in-vehicle power generation greater than 2kw used in conjunction with renewable power sources to charge Lithium Batteries on an independent subsidiary electrical system at 48VDC with conversion to 12VDC network of appliances and energy consumers on an independent network with a battery and with conversion to 110-240V A/C network of appliances and energy consumers</td><td>LOXTON BRUCE 
+HOU CHANGYI</td><td>HOU CHANGYI MS [AU]</td><td>AU2019100177A4</td><td>AU</td><td>2019</td><td>B60K6/28 
+B60L1/00 
+H02J7/34 
+H02M7/00</td><td>H02J7/14 (AU) 
+H02J7/34 (AU) 
+H02S10/10 (AU) 
+H02S10/40 (AU) 
+H02S40/38 (AU) 
+B60K6/26 (AU) 
+B60K6/28 (AU) 
+B60W10/26 (AU) 
+B60Y2200/40 (AU) 
+H02J2300/24 (AU) 
+H02J2310/46 (AU) 
+H02J3/38 (AU) 
+H02J7/0063 (AU) 
+H02J7/007 (AU) 
+H02J7/007194 (AU) 
+Y02E10/56 (EP) 
+Y02E70/30 (EP) 
+Y02T10/92 (EP)</td><td>2019-03-28</td><td>2019</td><td>65817641</td></tr>
+<tr><td>76</td><td>Electric vehicle cluster charging power optimization method capable of promoting renewable energy consumption</td><td>GAO SHUANG 
+CAO XIANQIANG 
+LI JINXIANG 
+PENG YUHAO 
+XU BIN 
+DING JINJIN</td><td>UNIV TIANJIN 
+ELECTRIC POWER SCIENCE RES INST OF STATE GRID ANHUI ELECTRIC POWER CO LTD</td><td>CN109693573A 
+CN109693573B</td><td>CN</td><td>2019</td><td>B60L53/64 
+G06Q10/06 
+G06Q50/06</td><td>G06Q10/06312 (CN) 
+G06Q50/06 (CN) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2019-04-30 
+2021-11-30</td><td>2019</td><td>66234217</td></tr>
+<tr><td>77</td><td>Method and Central Control System for Controlling the Electrical Charging of a Group of Vehicles</td><td>ELLGAS SIMON [US] 
+MARCIAL-SIMON ENRIQUE [DE] 
+STAUNER THOMAS [DE] 
+MEHLHORN RAINER [DE] 
+PFAB XAVER [DE]</td><td>BAYERISCHE MOTOREN WERKE AG [DE]</td><td>US10814732B2 
+US2018361869A1</td><td>US</td><td>2016</td><td>B60L11/18 
+G05B19/042 
+B60L53/14 
+B60L53/53 
+B60L53/63 
+B60L53/64 
+B60L53/65 
+B60L53/66 
+B60L58/13</td><td>B60L53/14 (EP,US) 
+B60L53/53 (EP,US) 
+B60L53/63 (EP,US) 
+B60L53/64 (EP,US) 
+B60L53/65 (EP,US) 
+B60L53/665 (EP,US) 
+G05B19/042 (US) 
+B60L2240/70 (EP,US) 
+B60L2250/14 (EP,US) 
+G05B2219/2639 (US) 
+Y02E60/00 (EP,US) 
+Y02T10/70 (EP,US) 
+Y02T10/7072 (EP,US) 
+Y02T10/72 (EP,US) 
+Y02T90/12 (EP,US) 
+Y02T90/14 (EP,US) 
+Y02T90/16 (EP,US) 
+Y02T90/167 (EP,US) 
+Y04S10/126 (EP,US) 
+Y04S30/12 (US) 
+Y04S30/14 (EP,US)</td><td>2018-12-20 
+2020-10-27</td><td>2017</td><td>57517873</td></tr>
+<tr><td>78</td><td>Electric vehicle sharing charging device and method using Home Energy Management System</td><td>JIN BYUNG-JIN 
+LEE JAE-WOONG</td><td>WENTAE REPAIR CO LTD</td><td>CN113306435A 
+CN113306435B</td><td>CN</td><td>2020</td><td>B60L53/62 
+B60L53/66 
+B60L53/67</td><td>B60L53/62 (CN) 
+B60L53/66 (CN) 
+B60L53/665 (CN,KR) 
+B60L53/67 (CN) 
+G06Q50/06 (KR) 
+G06Q50/30 (KR) 
+B60L2250/12 (KR) 
+B60Y2200/91 (KR) 
+Y02T10/70 (KR) 
+Y02T90/16 (EP) 
+Y02T90/167 (KR)</td><td>2021-08-27 
+2022-08-30</td><td>2021</td><td>75222956</td></tr>
+<tr><td>79</td><td>LOCAL ELECTRICAL POWER STATION</td><td>GRANER PETER [IL]</td><td>GRANER PETER [IL]</td><td>WO2018167796A1</td><td>WO</td><td>2017</td><td>B60L11/18 
+E04H6/04 
+E04H6/08 
+E04H6/12 
+E04H6/14 
+E04H6/20 
+E04H6/32</td><td>E04H5/02 (EP) 
+E04H6/14 (EP) 
+E04H6/42 (EP) 
+Y02T10/70 (EP)</td><td>2018-09-20</td><td>2018</td><td>61800725</td></tr>
+<tr><td>80</td><td>CHARGING SYSTEM FOR ELECTRIC VEHICLES</td><td>LIN YU-SHUN [TW]</td><td>LIN YU SHUN [TW]</td><td>US2021086648A1</td><td>US</td><td>2019</td><td>B60L50/60 
+B60L50/71 
+B60L50/75 
+B60L53/63 
+B60L53/66 
+B60L58/12 
+H02J7/02 
+H02J7/34</td><td>B60L50/66 (US) 
+B60L50/71 (US) 
+B60L50/75 (US) 
+B60L53/51 (EP) 
+B60L53/53 (EP) 
+B60L53/63 (EP,US) 
+B60L53/66 (EP,US) 
+B60L58/12 (US) 
+H02J7/02 (EP,US) 
+H02J7/34 (EP,US) 
+H02J7/35 (EP) 
+Y02E60/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP) 
+Y02T90/40 (EP) 
+Y04S10/126 (EP)</td><td>2021-03-25</td><td>2020</td><td>69182758</td></tr>
+<tr><td>81</td><td>Combined cooling heating and power system optimal scheduling method considering user demand response</td><td>HUANG HUAN 
+WU JIANRONG 
+YANG QI 
+MA XIAOHONG 
+MAO XIANYIN 
+LYU QIANYONG 
+ZHANG YING 
+BAN GUOBANG 
+NIU WEI 
+YANG LIUQING 
+XU KUI 
+ZOU DIAO 
+PENG MINFANG 
+SUN HONGBO 
+CAI ZITING</td><td>GUIZHOU POWER GRID CO LTD</td><td>CN112531696A 
+CN112531696B</td><td>CN</td><td>2020</td><td>G06F16/906 
+G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+H02J3/00 
+H02J3/14 
+H02J3/32 
+H02J3/38 
+H02J3/46</td><td>G06F16/906 (CN) 
+G06Q10/04 (CN) 
+G06Q10/06313 (CN) 
+G06Q50/06 (CN) 
+H02J3/00 (CN) 
+H02J3/144 (CN) 
+H02J3/32 (CN) 
+H02J3/381 (CN) 
+H02J3/466 (CN) 
+H02J2203/20 (CN) 
+H02J2300/20 (CN) 
+H02J2300/24 (CN) 
+H02J2300/28 (CN) 
+H02J2300/40 (CN) 
+Y02B10/10 (EP) 
+Y02B70/3225 (EP) 
+Y02D10/00 (EP) 
+Y02E10/56 (EP) 
+Y02E10/76 (EP) 
+Y02E40/70 (EP) 
+Y02E70/30 (EP) 
+Y04S10/50 (EP) 
+Y04S20/222 (EP)</td><td>2021-03-19 
+2022-12-23</td><td>2021</td><td>74995363</td></tr>
+<tr><td>82</td><td>Hybrid novel secondary energy structure permanent magnet power automobile generator</td><td>LI GUANGHUI</td><td>LI GUANGHUI</td><td>CN114103663A</td><td>CN</td><td>2020</td><td>B60L50/14 
+B60L50/60 
+H02K53/00</td><td>B60L50/14 (CN) 
+B60L50/60 (CN) 
+H02K53/00 (CN) 
+Y02T10/64 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/72 (EP)</td><td>2022-03-01</td><td>2022</td><td>80360795</td></tr>
+<tr><td>83</td><td>ESS CHARGING APPARATUS FOR VEHICLES</td><td>KIM SEONG DOO [KR]</td><td>KIM SEONG DOO [KR]</td><td>KR101972778B1 
+KR20190011076A</td><td>KR</td><td>2017</td><td>B60L50/50</td><td>B60L53/20 (KR) 
+B60L53/665 (KR) 
+B60L58/10 (KR) 
+B60L2210/10 (KR) 
+B60L2210/30 (KR) 
+B60Y2200/91 (KR) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/72 (KR) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP)</td><td>2019-02-01 
+2019-04-26</td><td>2019</td><td>65367832</td></tr>
+<tr><td>84</td><td>Virtual power plant energy management method based on cooperative game</td><td>ZHAO CHONGJUAN 
+TANG MING 
+HU ZHENYU 
+LIN JIE 
+CHEN JIAQIAN 
+BAI JIANLIANG 
+SUN LONGXIANG 
+ZHAN RUIFENG 
+HU RUI 
+XU RONGHUA 
+FENG CHANGSEN 
+SHEN JIAJING</td><td>HUZHOU POWER SUPPLY COMPANY STATE GRID ZHEJIANG ELECTRIC POWER CO LTD 
+HUZHOU ELECTRIC POWER DESIGN INST CO LTD 
+UNIV ZHEJIANG TECHNOLOGY</td><td>CN111682526A 
+CN111682526B</td><td>CN</td><td>2020</td><td>G06Q10/04 
+G06Q50/06 
+H02J3/00 
+H02J3/32</td><td>G06Q10/04 (CN) 
+G06Q50/06 (CN) 
+H02J3/008 (CN) 
+H02J3/322 (CN) 
+H02J2203/20 (CN) 
+Y02E70/30 (EP)</td><td>2020-09-18 
+2022-07-29</td><td>2020</td><td>72453794</td></tr>
+<tr><td>85</td><td>RENEWABLE UAV ENERGY VIA BLADE ROTATION</td><td>BOSS GREGORY J [US] 
+FOX JEREMY R [US] 
+JONES ANDREW R [US] 
+MCCONNELL KEVIN C [US] 
+MOORE JR  JOHN E [US]</td><td>IBM [US]</td><td>US10120376B2 
+US2018150072A1</td><td>US</td><td>2016</td><td>B64C39/02 
+B64D27/24 
+F03D7/02 
+F03D9/00 
+F03D9/25 
+F03D9/32 
+G05D1/00 
+G08G5/00</td><td>B60L53/24 (EP,US) 
+B60L53/305 (EP,US) 
+B60L53/52 (EP,US) 
+B60L53/68 (EP,US) 
+B60L58/12 (EP,US) 
+B60L8/006 (EP,US) 
+B64C39/024 (EP,US) 
+B64D27/24 (US) 
+B64U50/19 (EP) 
+B64U50/34 (EP) 
+F03D7/0224 (US) 
+F03D9/25 (EP,US) 
+F03D9/32 (EP,US) 
+G08G1/017 (EP,US) 
+G08G1/20 (EP,US) 
+G08G5/0013 (EP,US) 
+G08G5/0021 (EP,US) 
+G08G5/0026 (EP,US) 
+G08G5/0039 (EP,US) 
+G08G5/0069 (EP,US) 
+G08G5/025 (EP,US) 
+B60L2200/10 (EP,US) 
+B64U30/20 (US) 
+B64U50/19 (US) 
+B64U50/34 (US) 
+F05B2220/706 (US) 
+F05B2240/92 (EP,US) 
+F05B2240/923 (US) 
+Y02E10/72 (EP,US) 
+Y02E10/728 (EP,US) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y02T90/16 (EP)</td><td>2018-05-31 
+2018-11-06</td><td>2018</td><td>62190150</td></tr>
+<tr><td>86</td><td>An electric vehicle energy use green degree calculation method based on V2G scheduling response</td><td>HUANG YUPING 
+XU JIE 
+TIAN ZISHAN 
+WANG HUA 
+YE JIANFENG</td><td>GUANGZHOU INST ENERGY CONVERSION CAS 
+STATE GRID EV SERVICE CO LTD</td><td>CN114036459A</td><td>CN</td><td>2020</td><td>G06F17/18 
+G06Q10/06 
+G06Q50/06 
+G06Q50/30</td><td>G06F17/18 (CN) 
+G06Q10/0631 (CN) 
+G06Q10/0639 (CN) 
+G06Q50/06 (CN) 
+G06Q50/30 (CN)</td><td>2022-02-11</td><td>2022</td><td>80134129</td></tr>
+<tr><td>87</td><td>Electric vehicle load hierarchical scheduling optimization method based on smart contract</td><td>XU CHANGQING 
+ZHANG LINJUAN 
+GUO PU 
+HAN JUNWEI 
+PENG XIAOFENG 
+YANG YE 
+ZHANG XIAOQING 
+ZHANG PING 
+ZHENG ZHENG 
+LU DAN 
+CHEN JINGHUA 
+ZHOU ZHIHENG 
+ZHANG YUE 
+LIU MINGGUANG 
+LIU DUNNAN</td><td>STATE GRID CORP CHINA 
+ECONOMIC TECHNOLOGY RES INST STATE GRID HENAN ELECTRIC POWER CO 
+STATE GRID ELEC VEHICLE SERVICE CO LTD 
+UNIV NORTH CHINA ELECTRIC POWER</td><td>CN115249087A</td><td>CN</td><td>2022</td><td>B60L53/00 
+B60L55/00 
+G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+H02J3/00 
+H02J3/32</td><td>B60L53/00 (CN) 
+B60L55/00 (CN) 
+G06Q10/04 (CN) 
+G06Q10/06312 (CN) 
+G06Q10/06313 (CN) 
+G06Q50/06 (CN) 
+H02J3/008 (CN) 
+H02J3/322 (CN) 
+H02J2203/10 (CN) 
+H02J2203/20 (CN)</td><td>2022-10-28</td><td>2022</td><td>83698456</td></tr>
+<tr><td>88</td><td>CHARGING PROCESSING SYSTEM</td><td>MURAMATSU MAKITO 
+SHIBANO TAKUMI 
+TANAKA MASASHI 
+OCHIAI TAKASHI 
+FUKUI TAKEHARU 
+TAKAMURA YOSHIHIRO 
+YOKOGAWA TAKAHIRO 
+OHGASHIRA MASASHI</td><td>TOYOTA MOTOR CORP 
+CHUBU ELECTRIC POWER</td><td>JP2020102025A 
+JP7088821B2</td><td>JP</td><td>2018</td><td>G06Q30/02 
+H02J13/00 
+H02J7/00</td><td>B60L53/665 (EP,US) 
+G06Q20/18 (EP) 
+G06Q20/206 (EP,CN,US) 
+G06Q20/308 (EP) 
+G06Q20/387 (EP) 
+G06Q30/0208 (CN) 
+G06Q30/0235 (CN) 
+G06Q30/0238 (EP,CN,US) 
+G06Q50/06 (CN) 
+G06Q50/30 (CN) 
+G07F15/005 (EP) 
+H02J13/00032 (EP) 
+H02J7/00034 (US) 
+H02J7/00045 (EP) 
+G06Q20/322 (US) 
+H02J2300/20 (EP,US) 
+H02J2310/48 (EP) 
+Y02E60/00 (EP) 
+Y02T90/12 (EP) 
+Y02T90/167 (EP) 
+Y04S10/126 (EP)</td><td>2020-07-02 
+2022-06-21</td><td>2020</td><td>71099101</td></tr>
+<tr><td>89</td><td>一种基于能源大数据的城市经济晴雨表构建方法及终端</td><td></td><td></td><td>CN115600828A</td><td>CN</td><td>2022</td><td>G06Q10/063 
+G06Q50/06 
+G06Q50/26</td><td></td><td>2023-01-13</td><td>2023</td><td>84841953</td></tr>
+<tr><td>90</td><td>一种计及氢能汽车的氢能综合能源系统容量优化配置方法</td><td></td><td></td><td>CN115511190A</td><td>CN</td><td>2022</td><td>G06F30/20 
+G06Q10/04 
+G06Q50/06 
+G06F111/04</td><td></td><td>2022-12-23</td><td>2022</td><td>84508660</td></tr>
+<tr><td>91</td><td>Electric vehicle charging station micro-grid energy management method, system and platform</td><td>WANG HAOQING 
+DUAN QING 
+SHENG WANXING 
+ZHAO CAIHONG 
+LIU NING 
+MENG XIAOLI 
+SHA GUANGLIN 
+MA CHUNYAN 
+ZHANG YAO 
+LI JIA 
+WU YUNZHAO 
+ZHANG WEICHAO</td><td>CHINA ELECTRIC POWER RES INST CO LTD 
+STATE GRID CORP CHINA</td><td>CN114707704A</td><td>CN</td><td>2022</td><td>G06N3/12 
+G06Q10/04 
+G06Q50/06</td><td>G06N3/12 (CN) 
+G06Q10/04 (CN) 
+G06Q50/06 (CN)</td><td>2022-07-05</td><td>2022</td><td>82168678</td></tr>
+<tr><td>92</td><td>Electric vehicle storage and charging station planning method considering charging load flexibility</td><td>HU ZECHUN 
+LIN ZHE</td><td>UNIV TSINGHUA</td><td>CN110751368A 
+CN110751368B</td><td>CN</td><td>2019</td><td>G06K9/62 
+G06Q10/06 
+G06Q50/06</td><td>G06F18/23213 (CN) 
+G06Q10/0637 (CN) 
+G06Q50/06 (CN)</td><td>2020-02-04 
+2021-12-24</td><td>2020</td><td>69276664</td></tr>
+<tr><td>93</td><td>Energy Internet cluster operation dispatching method and system based on Internet-of-Vehicles platform</td><td>LIU YONGXIANG 
+JIANG BING 
+FENG YI 
+CHENG QING 
+XU HUACHI 
+XU QINGQIANG 
+XIAO YUHUA</td><td>STATE GRID ELEC VEHICLE SERVICE CO LTD 
+STATE GRID JIANGSU ELECTRIC POWER CO LTD 
+SICHUAN ENERGY INTERNET RESEARCH INSTITUTE OF TSINGHUA UNIV</td><td>CN110053508A 
+CN110053508B</td><td>CN</td><td>2019</td><td>B60L53/62 
+B60L53/64 
+B60L53/66</td><td>B60L2240/72 (CN) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP)</td><td>2019-07-26 
+2021-03-30</td><td>2019</td><td>67321660</td></tr>
+<tr><td>94</td><td>Comprehensive energy system flexibility evaluation method</td><td>LI QIFEN 
+JIANG XIUMEI 
+LIU XIAOJING 
+ZHAO YIHAN 
+NING NING 
+YANG YONGWEN</td><td>UNIV SHANGHAI ELECTRIC POWER</td><td>CN113408851A</td><td>CN</td><td>2021</td><td>G06Q10/06 
+G06Q50/06</td><td>G06Q10/06393 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y02P90/82 (EP) 
+Y04S10/50 (EP)</td><td>2021-09-17</td><td>2021</td><td>77678809</td></tr>
+<tr><td>95</td><td>A micro-grid energy optimization management method considering electric vehicle charge and discharge</td><td>ZHANG YAO 
+ZHANG JUNFANG 
+SUN JIAXING 
+QI XIANGYANG 
+QIU YUNFENG</td><td>UNIV NANJING SCI &amp; TECH</td><td>CN109217290A 
+CN109217290B</td><td>CN</td><td>2018</td><td>B60L55/00 
+H02J3/00 
+H02J3/32 
+H02J3/38</td><td>H02J3/00 (CN) 
+H02J3/008 (CN) 
+H02J3/32 (CN) 
+H02J3/383 (CN) 
+H02J2203/20 (CN) 
+Y02E10/56 (EP) 
+Y02E70/30 (EP)</td><td>2019-01-15 
+2020-12-04</td><td>2019</td><td>64986026</td></tr>
+<tr><td>96</td><td>电动汽车再生能源装置</td><td></td><td></td><td>CN214189303U</td><td>CN</td><td>2020</td><td>B60K1/00 
+B60K17/02 
+B60K17/16</td><td></td><td>2021-09-14</td><td>2021</td><td>77627751</td></tr>
+<tr><td>97</td><td>V2G-V2B SYSTEM OF MANAGING POWER FOR CONNECTING V2G AND V2B AND OPERATION METHOD THEREOF</td><td>SON CHAN [KR] 
+HAN SEUNG HO [KR] 
+LIM YOU SEOK [KR] 
+KIM SANG OK [KR]</td><td>KOREA ELECTRIC POWER CORP [KR]</td><td>KR102359149B1 
+KR20180050159A</td><td>KR</td><td>2016</td><td>B60L11/18 
+B60L50/50</td><td>B60L53/53 (KR) 
+B60L53/63 (KR) 
+B60L55/00 (KR) 
+H02J3/28 (KR) 
+B60Y2200/91 (KR) 
+Y02T10/70 (EP,KR) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP)</td><td>2018-05-14 
+2022-02-08</td><td>2018</td><td>62187951</td></tr>
+<tr><td>98</td><td>Renewable energy consumption method containing carbon transaction mechanism</td><td>ZHU JIZHONG 
+CHEN ZIYU 
+HUANG LINYING 
+LIU YUN 
+FAN JUNWEI</td><td>UNIV SOUTH CHINA TECH</td><td>CN114971154A</td><td>CN</td><td>2022</td><td>G06Q10/06 
+G06Q50/06 
+G06Q50/26</td><td>G06Q10/06313 (CN) 
+G06Q10/06315 (CN) 
+G06Q10/067 (CN) 
+G06Q50/06 (CN) 
+G06Q50/26 (CN) 
+Y04S50/14 (EP)</td><td>2022-08-30</td><td>2022</td><td>82976176</td></tr>
+<tr><td>99</td><td>一种基于电动汽车聚集模型的需求响应方法</td><td></td><td></td><td>CN115511272A</td><td>CN</td><td>2022</td><td>G06K9/62 
+G06Q10/06 
+G06Q50/06 
+H02J3/00</td><td>Y02T10/70 (EP) 
+Y02T10/7072 (EP)</td><td>2022-12-23</td><td>2022</td><td>84504042</td></tr>
+<tr><td>100</td><td>Electric vehicle participating power grid frequency control and analysis based on Markov model</td><td>ZHAI SUWEI 
+SUN YONGHUI 
+WANG JIAQIANG 
+WANG PENG 
+WU XIAOPENG</td><td>UNIV HOHAI</td><td>CN108493959A 
+CN108493959B</td><td>CN</td><td>2018</td><td>H02J3/24 
+G06Q10/04</td><td>B60L55/00 (CN) 
+H02J3/24 (CN) 
+H02J2203/20 (CN) 
+Y02T10/70 (EP)</td><td>2018-09-04 
+2021-01-26</td><td>2018</td><td>63337561</td></tr>
+<tr><td>101</td><td>FORECAST OF ELECTRIC VEHICLE STATE OF CHARGE AND ENERGY STORAGE CAPACITY</td><td>RAJABALLY TALIB E [GB] 
+MANSOR MASZATUL [GB]</td><td>ROLLS ROYCE PLC [GB]</td><td>US11498450B2 
+US2020369175A1</td><td>US</td><td>2019</td><td>B60L53/62 
+B60L53/63 
+B60L55/00 
+B60L58/12 
+G06F16/245 
+G06Q10/02 
+G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+G06Q50/30 
+G07C9/38 
+H02J3/32 
+H02J3/38 
+H02J7/00 
+B60K6/28 
+B60L53/51 
+B60L53/52</td><td>B60L53/62 (US) 
+B60L53/63 (US) 
+B60L55/00 (EP,US) 
+B60L58/12 (US) 
+G06F16/245 (US) 
+G06Q10/02 (US) 
+G06Q10/04 (US) 
+G06Q10/06312 (US) 
+G06Q50/06 (US) 
+G06Q50/30 (US) 
+G07C9/38 (US) 
+H02J3/322 (US) 
+H02J3/381 (US) 
+H02J7/0047 (US) 
+B60K6/28 (US) 
+B60L53/51 (US) 
+B60L53/52 (US) 
+B60Y2200/91 (US) 
+B60Y2200/92 (US) 
+B60Y2300/91 (US) 
+H02J2300/20 (US) 
+Y02E60/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y04S10/126 (EP)</td><td>2020-11-26 
+2022-11-15</td><td>2020</td><td>67385165</td></tr>
+<tr><td>102</td><td>ENERGY SYSTEM AND ENERGY TRANSFER ADJUSTMENT METHOD</td><td>NAKAGAWA TSUGUHIKO [JP] 
+CHISAKA HIDEYUKI [JP]</td><td>NATIONAL UNIV CORPORATION TOKAI NATIONAL HIGHER EDUCATION AND RESEARCH SYSTEM [JP]</td><td>US2022393470A1</td><td>US</td><td>2019</td><td>B60L55/00 
+F28D20/00 
+H02J3/00 
+H02J3/32 
+H02J3/38</td><td>B60L55/00 (US) 
+F28D20/00 (US) 
+H02J13/00006 (EP) 
+H02J3/003 (US) 
+H02J3/004 (US) 
+H02J3/28 (EP) 
+H02J3/32 (US) 
+H02J3/322 (EP) 
+H02J3/381 (EP,US) 
+H02J7/35 (EP) 
+F28D2020/0086 (US) 
+H02J2300/20 (EP) 
+H02J2300/24 (EP,US) 
+Y02E70/30 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2022-12-08</td><td>2021</td><td>76221627</td></tr>
+<tr><td>103</td><td>Expressway distributed photovoltaic-storage-charging AC-DC hybrid microgrid self-service charging stations</td><td>SHU JIE 
+WU CHANGHONG 
+WANG HAO</td><td>GUANGZHOU INST ENERGY CONVERSION CAS</td><td>CN108394298A</td><td>CN</td><td>2018</td><td>B60L11/18 
+H02J7/00</td><td>B60L53/00 (CN) 
+H02J7/0027 (CN) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/72 (EP) 
+Y02T90/14 (EP)</td><td>2018-08-14</td><td>2018</td><td>63092870</td></tr>
+<tr><td>104</td><td>METHOD AND SYSTEM FOR CHARGING ELECTRIC VEHICLES POSSIBLE TO SELECT CHARGING LOCATION BY AC</td><td>LEE SANG HWA [KR] 
+LEE YOON WON [KR] 
+LEE KYUNG JIN [KR]</td><td>LEE SANG HWA [KR] 
+LEE YOON WON [KR] 
+LEE KYUNG JIN [KR]</td><td>KR20210124043A</td><td>KR</td><td>2021</td><td>B60L53/24 
+B60L53/35 
+B60L53/50 
+B60L53/60</td><td>B60L53/24 (KR) 
+B60L53/35 (KR) 
+B60L53/50 (KR) 
+B60L53/60 (KR) 
+B60L2210/10 (KR) 
+B60L2210/20 (KR) 
+B60Y2200/91 (KR) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/72 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP)</td><td>2021-10-14</td><td>2021</td><td>78151616</td></tr>
+<tr><td>105</td><td>Active power distribution network scheduling method combined with V2G technology</td><td>HUANG XUELIANG 
+MA ZIWEN 
+CHEN ZHONG 
+YE RUI 
+ZHANG ZIQI</td><td>UNIV SOUTHEAST</td><td>CN108520314A 
+CN108520314B</td><td>CN</td><td>2018</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q10/06312 (CN) 
+G06Q10/06315 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP)</td><td>2018-09-11 
+2020-10-09</td><td>2018</td><td>63433816</td></tr>
+<tr><td>106</td><td>一种可再生能源、储能和充电桩协同规划方法及系统</td><td></td><td></td><td>CN115395521A</td><td>CN</td><td>2022</td><td>B60L53/60 
+B60L53/62 
+B60L53/63 
+B60L53/64 
+G06K9/62 
+G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+H02J3/00 
+H02J3/28 
+H02J3/38 
+H02J3/46</td><td></td><td>2022-11-25</td><td>2022</td><td>84127839</td></tr>
+<tr><td>107</td><td>An urban power distribution network double-layer planning method considering flexibility</td><td>CAI HUI 
+SUN ZHIHUANG 
+FAN ANJIE 
+SUN QIANG 
+CHEN HUI 
+WANG LINYU 
+XIE GUANGLONG 
+CHEN QIAN 
+LIU YU 
+FENG MENGSHUANG 
+CHEN JIEJUN 
+XIE DIAN 
+HAN CHAO 
+ZHU CHANXIA 
+SU HUILING 
+ZHU JUN</td><td>STATE GRID SUZHOU URBAN ENERGY RES INSTITUTE CO LTD 
+UNIV SOUTHEAST</td><td>CN109559035A 
+CN109559035B</td><td>CN</td><td>2018</td><td>G06Q10/06 
+G06Q50/06</td><td>G06Q10/06312 (CN) 
+G06Q50/06 (CN) 
+Y04S10/50 (EP)</td><td>2019-04-02 
+2022-11-29</td><td>2019</td><td>65867868</td></tr>
+<tr><td>108</td><td>Power consumption optimization method for buildings based on grey wolf algorithm</td><td>LIU JIANGYONG 
+ZHOU BO 
+YI LINGZHI</td><td>UNIV XIANGTAN</td><td>CN109993355A</td><td>CN</td><td>2019</td><td>G06N3/00 
+G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>G06N3/006 (CN) 
+G06Q10/04 (CN) 
+G06Q10/06312 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y02T10/40 (EP) 
+Y04S10/50 (EP)</td><td>2019-07-09</td><td>2019</td><td>67131108</td></tr>
+<tr><td>109</td><td>Telescopic power supply device for new energy automobile</td><td>YU ZHENGJIANG</td><td>YU ZHENGJIANG</td><td>CN109435728A</td><td>CN</td><td>2018</td><td>B60L53/16</td><td>Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/14 (EP)</td><td>2019-03-08</td><td>2019</td><td>65549485</td></tr>
+<tr><td>110</td><td>用于综合能源的配电网调度方法、系统、设备及介质</td><td></td><td></td><td>CN115360717A</td><td>CN</td><td>2022</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+H02J3/06 
+H02J3/46 
+H02J3/48</td><td></td><td>2022-11-18</td><td>2022</td><td>84008826</td></tr>
+<tr><td>111</td><td>Optimization method for energy pricing of regional comprehensive energy service provider</td><td>LI DONGDONG 
+ZHOU GUANTING 
+ZHAO YAO 
+GAO XIAOCHENG 
+LIU YUHANG</td><td>SHANGHAI UNIVERISTY OF ELECTRIC POWER</td><td>CN111340309A</td><td>CN</td><td>2020</td><td>G06Q10/04 
+G06Q30/02 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q30/0283 (CN) 
+G06Q50/06 (CN) 
+Y04S10/50 (EP)</td><td>2020-06-26</td><td>2020</td><td>71186290</td></tr>
+<tr><td>112</td><td>Heat energy utilization system for new energy automobile and new energy automobile</td><td>WANG ZHAORUI</td><td>WANG ZHAORUI</td><td>CN113188260A</td><td>CN</td><td>2021</td><td>B60L58/27 
+F24S10/40 
+F24S60/30 
+F24S70/30 
+F24S80/30</td><td>B60L58/27 (CN) 
+F24S10/40 (CN) 
+F24S60/30 (CN) 
+F24S70/30 (CN) 
+F24S80/30 (CN) 
+Y02E10/44 (EP) 
+Y02T10/70 (EP)</td><td>2021-07-30</td><td>2021</td><td>76975928</td></tr>
+<tr><td>113</td><td>Layered energy management method and system for photovoltaic charging station</td><td>ZHANG JING 
+YUAN RUIMING 
+LI BIN 
+LI TAOYONG 
+LIU CHANG 
+JIANG ZHENYU 
+MA CHENGBIN 
+ZHANG YUANXING 
+YAN DONGXIANG 
+JIANG LINRU 
+XU JUANTING 
+CHEN TIANJIN 
+CHEN ZHEN</td><td>CHINA ELECTRIC POWER RES INST CO LTD 
+STATE GRID CORP CHINA 
+STATE GRID JIBEI ELECTRIC POWER CO LTD 
+STATE GRID BEIJING ELECTRIC POWER CO 
+UNIV SHANGHAI JIAOTONG 
+XUJI GROUP CORP</td><td>CN109378869A</td><td>CN</td><td>2018</td><td>B60L53/51 
+B60L53/53 
+B60L53/63 
+B60L53/66 
+B60L53/67 
+H02J7/00 
+H02J7/35</td><td>H02J7/0027 (CN) 
+H02J7/0077 (CN) 
+H02J7/35 (CN) 
+Y02E10/56 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP)</td><td>2019-02-22</td><td>2019</td><td>65401718</td></tr>
+<tr><td>114</td><td>Multi-objective optimization method for urban comprehensive energy system</td><td>ZHAO CHANGWEI 
+QI YAN 
+WANG JIGE 
+ZHANG HUIYING 
+YANG DEBO 
+WANG XUDONG 
+WANG HEBING 
+YANG GUOCHAO 
+ZHAO CUN 
+LI QINGLEI 
+LI GUANGMIN 
+YANG ZHI 
+PIAN RUIJUN 
+LIU WEI 
+LYU JIAN 
+ZHANG PENG 
+LI GANG</td><td>STATE GRID TIANJIN ELECTRIC POWER CO 
+STATE GRID CORP CHINA</td><td>CN110910272A</td><td>CN</td><td>2019</td><td>G06F30/20 
+G06Q50/06</td><td>G06Q50/06 (CN)</td><td>2020-03-24</td><td>2020</td><td>69815842</td></tr>
+<tr><td>115</td><td>Electric vehicle aggregation optimization scheduling method considering load rebound</td><td>KE DEPING 
+WANG JUN 
+XU JIAN 
+LIAO SIYANG 
+WEI CONGYING 
+XIE BOYU 
+LIU DAN 
+LIU NIANZHANG 
+ZOU YAOKUN 
+WANG XIYUE 
+JI XIAOTONG 
+YE CHANG</td><td>UNIV WUHAN 
+ELECTRIC POWER SCIENCE RES INSTITUTE OF STATE GRID HUBEI POWER CO LTD 
+STATE GRID HUBEI PROVINCE ELECTRIC POWER LTD COMPANY</td><td>CN114475331A</td><td>CN</td><td>2021</td><td>B60L53/60 
+B60L53/62 
+B60L53/63 
+B60L53/64 
+G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>B60L53/60 (CN) 
+B60L53/62 (CN) 
+B60L53/63 (CN) 
+B60L53/64 (CN) 
+G06Q10/04 (CN) 
+G06Q10/06312 (CN) 
+G06Q10/06313 (CN) 
+G06Q50/06 (CN) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2022-05-13</td><td>2022</td><td>81491685</td></tr>
+<tr><td>116</td><td>Tire pressure monitor central control system, tire pressure monitoring device and automobile</td><td>LIN ZHIJIAN</td><td>SHENZHEN QIHU INTELLIGENT TECH CO LTD</td><td>CN214874052U</td><td>CN</td><td>2020</td><td>B60C23/04</td><td></td><td>2021-11-26</td><td>2021</td><td>78925660</td></tr>
+<tr><td>117</td><td>Energy grid planning method based on dual-carbon target</td><td>GAO QIAN 
+YANG JUNYI 
+HONG YU 
+SUN XIAOLEI 
+ZHU QIANJIN 
+YU TIAN 
+WANG XIN 
+WANG LINYUAN 
+LI ZESEN</td><td>STATE GRID JIANGSU PROVINCE ELECTRIC POWER LTD COMPANY 
+ECONOMIC AND TECHNICAL RES INSTITUTE OF STATE GRID JIANGSU POWER CO LTD</td><td>CN114186792A</td><td>CN</td><td>2021</td><td>G06Q10/06 
+G06Q50/06</td><td>G06Q10/06312 (CN) 
+G06Q10/06313 (CN) 
+G06Q10/06315 (CN) 
+G06Q10/06393 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y02P90/82 (EP) 
+Y02P90/84 (EP) 
+Y04S10/50 (EP)</td><td>2022-03-15</td><td>2022</td><td>80540046</td></tr>
+<tr><td>118</td><td>Electric vehicle grid-connected cooperative control method in comprehensive energy system environment</td><td>LIU YUCHENG 
+YE BO 
+CAO CHUNCHENG 
+HUANG WEI 
+LUO YONGLI 
+LIU WENBIN 
+DUAN LIAN 
+MA CHAOQUN 
+WANG CHAO 
+WANG PENGHAO 
+BAN XIAOMENG 
+LIU YIMING</td><td>HULUNBEIR POWER SUPPLY COMPANY EAST INNER MONGOLIA ELECTRIC POWER COMPANY LTD 
+UNIV NORTH CHINA ELECTRIC POWER 
+STATE GRID CORP CHINA</td><td>CN112467767A</td><td>CN</td><td>2020</td><td>B60L53/63 
+B60L55/00 
+H02J3/00 
+H02J3/32 
+H02J3/46</td><td>B60L53/63 (CN) 
+B60L55/00 (CN) 
+H02J3/003 (CN) 
+H02J3/322 (CN) 
+H02J3/466 (CN) 
+H02J2300/24 (CN) 
+H02J2300/28 (CN) 
+H02J2310/48 (CN) 
+Y02E10/56 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2021-03-09</td><td>2021</td><td>74834931</td></tr>
+<tr><td>119</td><td>Rural household energy management system operation optimization scheduling method</td><td>ZHAO ANJUN 
+WANG PENGZHU 
+YU JUNQI 
+ZHOU MIN 
+LI WANG 
+GAO ZHIKUN</td><td>UNIV XIAN ARCHITECTUR &amp; TECH</td><td>CN114819725A</td><td>CN</td><td>2022</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q10/06313 (CN) 
+G06Q10/06315 (CN) 
+G06Q50/06 (CN)</td><td>2022-07-29</td><td>2022</td><td>82516816</td></tr>
+<tr><td>120</td><td>Comprehensive energy system control method and device for coordinating electric vehicle charging stations</td><td>HU QINRAN 
+ZHOU YUFENG 
+WU ZAIJUN 
+DOU XIAOBO 
+QUAN XIANGJUN</td><td>UNIV SOUTHEAST</td><td>CN114862068A</td><td>CN</td><td>2022</td><td>B60L53/64 
+G06Q10/04 
+G06Q30/02 
+G06Q50/06 
+H02J3/00 
+H02J3/32</td><td>B60L53/64 (CN) 
+G06Q10/04 (CN) 
+G06Q30/0201 (CN) 
+G06Q50/06 (CN) 
+H02J3/0075 (CN) 
+H02J3/008 (CN) 
+H02J3/322 (CN) 
+H02J2203/20 (CN) 
+H02J2310/48 (CN) 
+H02J2310/64 (CN) 
+Y04S30/12 (EP)</td><td>2022-08-05</td><td>2022</td><td>82626834</td></tr>
+<tr><td>121</td><td>Electric vehicle charging network and distributed energy joint optimization scheduling method</td><td>LIU DUNNAN 
+LIU MINGGUANG 
+JIA HEPING 
+WANG WEN 
+PENG XIAOFENG 
+WANG LINGXIANG 
+ZOU MENGJIAO 
+ZHANG YUE 
+YANG YE 
+SU SHU 
+BAI DESHENG 
+WANG MINGCAI</td><td>UNIV NORTH CHINA ELECTRIC POWER 
+STATE GRID ELEC VEHICLE SERVICE CO LTD</td><td>CN112396219A</td><td>CN</td><td>2020</td><td>G06N3/00 
+G06Q10/04 
+G06Q50/06</td><td>G06N3/006 (CN) 
+G06Q10/04 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y02T10/40 (EP) 
+Y04S10/50 (EP)</td><td>2021-02-23</td><td>2021</td><td>74598282</td></tr>
+<tr><td>122</td><td>Electric vehicle cluster charging and discharging control method and system and related equipment</td><td>YANG ZHILE 
+ZHAO SHIHAO 
+GUO YUANJUN 
+HU TIANYU 
+LIU XIANGFEI</td><td>SHENZHEN INST OF ADV TECH CAS</td><td>CN114919433A 
+CN114919433B</td><td>CN</td><td>2022</td><td>B60L53/00 
+G06N3/00 
+G06N3/08 
+G06Q10/04 
+G06Q50/06</td><td>B60L53/00 (CN) 
+G06N3/006 (CN) 
+G06N3/08 (CN) 
+G06Q10/04 (CN) 
+G06Q50/06 (CN) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y04S30/12 (EP)</td><td>2022-08-19 
+2022-12-09</td><td>2022</td><td>82811218</td></tr>
+<tr><td>123</td><td>考虑电动汽车动态接入特性的智能楼宇群能量管理方法</td><td></td><td></td><td>CN115310291A</td><td>CN</td><td>2022</td><td>G06F30/20 
+G06Q10/06 
+G06Q50/06 
+H02J3/00 
+H02J3/32 
+H02J3/38 
+G06F111/04 
+G06F111/08 
+G06F111/10 
+G06F119/08</td><td></td><td>2022-11-08</td><td>2022</td><td>83861317</td></tr>
+<tr><td>124</td><td>DESIGN AND DEVELOPMENT OF SOLAR POWER BASED ELECTRIC VEHICLE CHARGING BOOTHS</td><td>JAIN SHAFALI 
+R D  SIVAKUMAR 
+MEGAVATH BHASKAR NAIK 
+SURESH SALINI 
+KUMAR Y N VIJAYA 
+CHAWLA PANKAJ 
+SATHYANATHAN P 
+RANI M GILBERT 
+WARUDKAR VILAS 
+ARYA ANOOP</td><td>JAIN SHAFALI 
+R D  SIVAKUMAR 
+MEGAVATH BHASKAR NAIK 
+SURESH SALINI 
+KUMAR Y N VIJAYA 
+CHAWLA PANKAJ 
+SATHYANATHAN P 
+RANI M GILBERT 
+WARUDKAR VILAS 
+ARYA ANOOP</td><td>AU2020103828A4</td><td>AU</td><td>2020</td><td>B60L53/51 
+B60L53/53 
+B60L53/63 
+H02J3/38 
+H02J7/00 
+H02S10/20</td><td>B60L53/51 (AU) 
+B60L53/53 (AU) 
+B60L53/63 (AU) 
+H02J3/38 (AU) 
+H02J7/0013 (AU) 
+H02J7/0063 (AU) 
+H02J7/00714 (AU) 
+H02S40/38 (AU) 
+Y02E10/50 (EP) 
+Y02E70/30 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP)</td><td>2021-04-01</td><td>2021</td><td>75267731</td></tr>
+<tr><td>125</td><td>Adaptive Reservoir Charging Station</td><td>PATKAR SHAILESH [US] 
+ZHANG YANCHENG [US] 
+BARBAROSSA GIOVANNI [US] 
+XU WEN-QING [US] 
+KOEPPEN CHRISTOPHER [US] 
+EISSLER ELGIN [US]</td><td>II VI DELAWARE INC [US]</td><td>US2020070665A1</td><td>US</td><td>2018</td><td>H02J7/00</td><td>B60L53/11 (US) 
+B60L53/20 (US) 
+B60L53/53 (EP) 
+B60L53/62 (EP) 
+B60L53/63 (EP) 
+B60L53/67 (EP) 
+H02J7/0013 (US) 
+H02J7/342 (EP) 
+B60L2210/10 (US) 
+H02J2300/20 (EP) 
+H02J2310/48 (EP) 
+H02J3/322 (EP) 
+H02J3/381 (EP) 
+Y02E60/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y02T90/167 (EP) 
+Y04S10/126 (EP) 
+Y04S30/12 (EP)</td><td>2020-03-05</td><td>2020</td><td>69641979</td></tr>
+<tr><td>126</td><td>VEHICLE WITH TOILET AND CONTROL METHOD THEREOF</td><td>ARAHAMA MITSUJI 
+YOSHIDA MASASHI 
+ITANO MISAKI</td><td>TOYOTA MOTOR CORP</td><td>JP2022013201A</td><td>JP</td><td>2020</td><td>B60P3/00 
+B60R15/04</td><td>B60R15/04 (EP,US) 
+B60R16/03 (EP) 
+B60R16/033 (US) 
+H02J7/0063 (US) 
+H02J7/35 (US) 
+H02J9/06 (US)</td><td>2022-01-18</td><td>2022</td><td>79167304</td></tr>
+<tr><td>127</td><td>LIGHT STANDARD WITH ELECTRIC VEHICLE (EV) CHARGER</td><td>WHEATLEY DESMOND [US] 
+SENATORE PATRICK [US]</td><td>ENVISION SOLAR INT INC [US]</td><td>US10518657B2 
+US2019225091A1</td><td>US</td><td>2018</td><td>F03D1/04 
+F03D13/20 
+F03D9/00 
+F03D9/11 
+F03D9/25 
+F21S8/08 
+F21V33/00 
+H02J3/38 
+H02J7/35 
+H02S20/32 
+H02S40/38 
+B60L53/14 
+B60L53/31 
+F21S9/03 
+F21S9/04 
+H02S10/12 
+H02S20/10 
+F21Y115/10</td><td>B60L53/14 (EP,US) 
+B60L53/31 (EP,US) 
+B60L53/51 (EP) 
+B60L53/52 (EP) 
+B60L53/62 (EP) 
+B60L53/63 (EP) 
+F03D1/04 (US) 
+F03D13/20 (EP,US) 
+F03D9/007 (EP,US) 
+F03D9/11 (US) 
+F03D9/25 (EP,US) 
+F21S8/086 (EP,US) 
+F21S9/035 (EP,US) 
+F21S9/043 (EP,US) 
+F21V33/00 (EP,US) 
+H02J7/35 (EP,US) 
+H02S10/12 (EP,US) 
+H02S20/10 (EP,US) 
+H02S20/32 (US) 
+H02S40/38 (US) 
+B60L2240/80 (EP) 
+F21Y2115/10 (EP,US) 
+H02J3/322 (EP,US) 
+Y02B20/72 (EP) 
+Y02E10/56 (EP) 
+Y02E10/72 (EP) 
+Y02E10/728 (EP) 
+Y02E10/76 (EP) 
+Y02E60/00 (EP) 
+Y02E70/30 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP,US) 
+Y02T90/14 (EP) 
+Y02T90/16 (EP) 
+Y02T90/167 (EP) 
+Y04S30/12 (EP)</td><td>2019-07-25 
+2019-12-31</td><td>2019</td><td>67298006</td></tr>
+<tr><td>128</td><td>Strategy scheme for grouping power supply and exchange of new energy automobile batteries</td><td>WU DONGJIAN</td><td>WU DONGJIAN</td><td>CN111605414A</td><td>CN</td><td>2020</td><td>B60L50/60 
+B60L53/80 
+H01M10/42 
+H01M10/44</td><td>B60L50/60 (CN) 
+B60L50/66 (CN) 
+B60L53/80 (CN) 
+H01M10/4207 (CN) 
+H01M10/441 (CN) 
+H01M2010/4271 (CN) 
+Y02E60/10 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP)</td><td>2020-09-01</td><td>2020</td><td>72205492</td></tr>
+<tr><td>129</td><td>SYSTEMS FOR MACHINE LEARNING, OPTIMISING AND MANAGING LOCAL MULTI-ASSET FLEXIBILITY OF DISTRIBUTED ENERGY STORAGE RESOURCES</td><td>DANIEL SIMON RICHARD 
+WRIGHT CHRISTOPHER VERITY</td><td>MOIXA ENERGY HOLDINGS LTD</td><td>CN113169579A</td><td>CN</td><td>2018</td><td>H02J3/00 
+H02J3/38 
+H02J7/34</td><td>B60L53/67 (US) 
+B60L53/68 (US) 
+B60L55/00 (GB,KR) 
+G05B15/02 (US) 
+G06N3/044 (US) 
+G06N3/08 (US) 
+H02J13/00002 (US) 
+H02J3/008 (EP,KR) 
+H02J3/14 (GB,KR) 
+H02J3/144 (US) 
+H02J3/32 (GB,KR) 
+H02J3/38 (EP) 
+H02J3/381 (KR) 
+H02J7/34 (EP,KR) 
+H02J2203/20 (EP,GB,KR) 
+H02J3/381 (GB) 
+Y02B70/3225 (EP,KR) 
+Y02E40/70 (EP,KR) 
+Y02E60/00 (KR) 
+Y02T10/70 (EP) 
+Y02T90/16 (EP) 
+Y02T90/167 (EP,KR) 
+Y04S10/50 (EP,KR) 
+Y04S20/222 (EP,KR) 
+Y04S30/12 (EP,KR) 
+Y04S30/14 (EP) 
+Y04S40/20 (EP) 
+Y04S50/10 (EP,KR)</td><td>2021-07-23</td><td>2019</td><td>63042551</td></tr>
+<tr><td>130</td><td>Charging station load dispatching model comprehensively considering vehicle owner and operator benefits</td><td>PAN ZHAOXU 
+LIU SANMING 
+WANG ZHIJIE</td><td>UNIV SHANGHAI DIANJI</td><td>CN107919675A 
+CN107919675B</td><td>CN</td><td>2017</td><td>G06Q10/06 
+G06Q50/06 
+H02J3/32 
+H02J3/38</td><td>G06Q10/06312 (CN) 
+G06Q50/06 (CN) 
+H02J3/32 (CN) 
+H02J3/382 (CN) 
+H02J2203/20 (CN) 
+Y02E70/30 (EP) 
+Y04S10/50 (EP)</td><td>2018-04-17 
+2021-05-07</td><td>2018</td><td>61893162</td></tr>
+<tr><td>131</td><td>QUICK RECHARGING STATION</td><td>TAKESHITA KAZU 
+YAZAWA TATSUYA 
+KATO TAKAHIRO</td><td>TOYOKO KAGAKU KK</td><td>JP2020099171A 
+JP7161766B2</td><td>JP</td><td>2019</td><td>B60L53/50 
+B60L53/53 
+B60L53/54 
+C25B1/04 
+H01M10/44 
+H01M8/00 
+H01M8/04 
+H02J7/00 
+H02J7/02 
+H02J15/00</td><td>Y02E60/10 (EP) 
+Y02E60/36 (EP) 
+Y02E60/50 (EP) 
+Y02P20/133 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2020-06-25 
+2022-10-27</td><td>2020</td><td>71106930</td></tr>
+<tr><td>132</td><td>EV PARKING TOWER MANAGEMENT SYSTEM AND METHOD FOR PARKING MANAGEMENT</td><td>SEO MIN HO 
+YANG HEI SUNG 
+LEE JI HOON</td><td>KEPCO KDN CO LTD [KR]</td><td>KR20220099264A</td><td>KR</td><td>2021</td><td>B60L53/16 
+B60L53/18 
+B60L53/30 
+B60L53/50 
+B60L53/60 
+B60L55/00 
+E04H6/08</td><td>B60L53/16 (KR) 
+B60L53/18 (KR) 
+B60L53/30 (KR) 
+B60L53/50 (KR) 
+B60L53/60 (KR) 
+B60L55/00 (KR) 
+E04H6/08 (KR) 
+B60Y2200/91 (KR) 
+Y02T90/10 (KR) 
+Y02T90/167 (EP)</td><td>2022-07-13</td><td>2022</td><td>82401230</td></tr>
+<tr><td>133</td><td>STOCHASTIC BIDDING STRATEGY FOR VIRTUAL POWER PLANTS WITH MOBILE ENERGY STORAGES</td><td>SUN HONGBO 
+XIAO DONGLIANG</td><td>MITSUBISHI ELECTRIC CORP</td><td>JP2021151185A</td><td>JP</td><td>2020</td><td>G06Q30/06 
+G06Q50/06 
+H02J3/00 
+H02J3/32 
+H02J3/38</td><td>G06N20/00 (US) 
+G06Q10/04 (EP,US) 
+G06Q10/06314 (EP,US) 
+G06Q10/06315 (EP,US) 
+G06Q30/0205 (EP,US) 
+G06Q30/08 (EP,US) 
+G06Q40/04 (EP,US) 
+G06Q50/06 (EP,US) 
+H02J3/008 (EP,US) 
+H02J3/14 (EP) 
+H02J3/241 (EP) 
+H02J3/32 (US) 
+H02J3/322 (EP) 
+H02J3/381 (US) 
+H02J2203/20 (US) 
+H02J2300/20 (US) 
+Y02B70/3225 (EP) 
+Y02P90/90 (EP) 
+Y04S20/222 (EP) 
+Y04S50/10 (EP) 
+Y04S50/14 (EP)</td><td>2021-09-27</td><td>2021</td><td>77849749</td></tr>
+<tr><td>134</td><td>Power distribution network scheduling method and storage medium</td><td>LEI XIAOLIN 
+MA NING 
+LI SHUSHUANG 
+SUN HANWEI 
+LAI YU 
+LI YOUXI 
+LAN ZHENYONG 
+DENG HANSHENG</td><td>SHAOGUAN POWER SUPPLY BUREAU GUANGDONG POWER GRID CO LTD</td><td>CN112072713A</td><td>CN</td><td>2020</td><td>G06Q10/06 
+G06Q50/06 
+H02J3/32 
+H02J3/46 
+H02J3/48</td><td>G06Q10/06312 (CN) 
+G06Q50/06 (CN) 
+H02J3/322 (CN) 
+H02J3/466 (CN) 
+H02J3/48 (CN) 
+H02J2203/20 (CN) 
+H02J2300/22 (CN) 
+H02J2300/28 (CN) 
+Y02B10/10 (EP) 
+Y02B10/30 (EP) 
+Y02E10/56 (EP) 
+Y02E10/76 (EP) 
+Y02E70/30 (EP)</td><td>2020-12-11</td><td>2020</td><td>73666559</td></tr>
+<tr><td>135</td><td>一种能源互联网运行评价方法、系统、存储介质及设备</td><td></td><td></td><td>CN115526493A</td><td>CN</td><td>2022</td><td>G06F17/10 
+G06Q10/06 
+G06Q50/06</td><td>Y02P90/82 (EP)</td><td>2022-12-27</td><td>2022</td><td>84698761</td></tr>
+<tr><td>136</td><td>New energy super charging system for gas station</td><td>QIN JIANGYANG 
+ZHANG XIUCHENG 
+YIN GUOMU</td><td>SHANGHAI ZHONGFU NEW ENERGY SCIENCE AND TECH CO LTD</td><td>CN114228533A</td><td>CN</td><td>2017</td><td>B60L53/30 
+B60L53/31 
+B60L53/51 
+B60L53/52 
+B60L53/54 
+B60L53/60 
+F03D9/00 
+F03D9/11 
+H01M8/04089 
+H01M8/0612 
+H02J7/35 
+H02S10/10 
+H02S10/12</td><td>B60L53/30 (CN) 
+B60L53/31 (CN) 
+B60L53/51 (CN) 
+B60L53/52 (CN) 
+B60L53/54 (CN) 
+B60L53/60 (CN) 
+F03D9/007 (CN) 
+F03D9/11 (CN) 
+H01M8/04089 (CN) 
+H01M8/0618 (CN) 
+H02J7/35 (CN) 
+H02S10/10 (CN) 
+H02S10/12 (CN) 
+Y02E10/56 (EP) 
+Y02E10/72 (EP) 
+Y02E10/76 (EP) 
+Y02E60/50 (EP) 
+Y02E70/30 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/72 (EP) 
+Y02T90/12 (EP)</td><td>2022-03-25</td><td>2017</td><td>60221224</td></tr>
+<tr><td>137</td><td>Microgrid System Capable of the Power Supply According to the priority</td><td>AN YANG IM 
+HONG SE HOON 
+LEE MIN JEONG</td><td>IBT CO LTD [KR]</td><td>KR102295922B1</td><td>KR</td><td>2020</td><td>G06Q50/06 
+H02J3/00 
+H02J3/14 
+H02J3/32 
+H02J3/38 
+H02J7/35</td><td>G06Q50/06 (KR) 
+H02J3/003 (KR) 
+H02J3/008 (KR) 
+H02J3/144 (KR) 
+H02J3/32 (KR) 
+H02J3/381 (KR) 
+H02J7/35 (KR) 
+H02J2300/20 (KR) 
+Y02B70/3225 (EP) 
+Y02T90/167 (EP) 
+Y04S20/222 (EP) 
+Y04S30/12 (EP) 
+Y04S30/14 (EP)</td><td>2021-08-31</td><td>2021</td><td>77489601</td></tr>
+<tr><td>138</td><td>Internet of Vehicles charging and discharging management method and system, electric power system and storage medium</td><td>CHE LIANG 
+ZHANG JIN 
+LIU XUAN</td><td>UNIV HUNAN</td><td>CN111987717A 
+CN111987717B</td><td>CN</td><td>2020</td><td>B60L55/00 
+H02J3/00 
+H02J3/32</td><td>B60L55/00 (CN) 
+H02J3/00 (CN) 
+H02J3/008 (CN) 
+H02J3/322 (CN) 
+H02J2203/10 (CN) 
+H02J2203/20 (CN) 
+Y02T10/40 (EP)</td><td>2020-11-24 
+2021-12-17</td><td>2020</td><td>73434667</td></tr>
+<tr><td>139</td><td>Park carbon metering method considering real-time power supply component and electric energy replacement carbon reduction benefit</td><td>LIANG RUI 
+HUANG HONGXU 
+ZHANG XIAOTONG 
+WANG CHEN 
+ZHANG GE</td><td>CHINESE MINING UNIV</td><td>CN114186805A</td><td>CN</td><td>2021</td><td>G06Q10/06 
+G06Q50/06</td><td>G06Q10/06393 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y02P90/84 (EP) 
+Y04S10/50 (EP)</td><td>2022-03-15</td><td>2022</td><td>80602380</td></tr>
+<tr><td>140</td><td>Virtual Power Plant Optimization Method and System</td><td>SIMPSON ERIK MOWERY [US]</td><td>SIMPSX TECH LLC [US]</td><td>US2022004307A1</td><td>US</td><td>2016</td><td>G02B27/01 
+G03H1/00 
+G06F1/16 
+G06F3/01 
+G06F3/03 
+G06F3/0484 
+G06T15/20 
+G06T19/00 
+G09B19/00 
+G09B5/06</td><td>A63F13/216 (EP) 
+A63F13/837 (EP) 
+A63F13/90 (EP) 
+G01C21/3807 (EP) 
+G02B27/0172 (US) 
+G03H1/0005 (US) 
+G06F1/1632 (US) 
+G06F3/011 (EP,US) 
+G06F3/013 (US) 
+G06F3/017 (US) 
+G06F3/0304 (US) 
+G06F3/0482 (EP) 
+G06F3/04845 (US) 
+G06Q10/0631 (US) 
+G06Q20/0855 (EP) 
+G06Q20/145 (EP) 
+G06Q20/3224 (EP) 
+G06Q20/383 (EP) 
+G06Q20/384 (EP) 
+G06Q30/0641 (EP) 
+G06Q30/08 (EP,US) 
+G06Q40/04 (EP,US) 
+G06Q50/06 (EP,US) 
+G06Q50/14 (EP) 
+G06T15/20 (US) 
+G06T19/006 (US) 
+G07F15/008 (EP) 
+G09B19/00 (US) 
+G09B19/0038 (US) 
+G09B5/067 (US) 
+G02B2027/0138 (US) 
+G02B2027/014 (US) 
+G02B2027/0174 (US) 
+G02B2027/0178 (US) 
+G03H2001/0061 (US) 
+G03H2001/2284 (US) 
+G06F1/163 (US) 
+G06F1/1686 (US) 
+G06F1/1694 (US) 
+G06N3/04 (EP) 
+G06Q50/01 (EP) 
+G06T2219/024 (US) 
+G09B15/00 (US) 
+G09B19/0092 (US) 
+G09B19/24 (US)</td><td>2022-01-06</td><td>2022</td><td>79167482</td></tr>
+<tr><td>141</td><td>A VEHICLE CHARGING STATION</td><td>ABDALLA MUSA [JO] 
+AKKAWY EMAD [JO] 
+TAREAF RADWAN [JO] 
+ALHAJ MOAYAD [JO] 
+ALANKEH RIYAD [JO] 
+ABU ROMAN SIEF ADDEEN [JO] 
+ABU SHAWAR MOHAMMAD [JO] 
+HERZALLA ABDEL RAHMAN [JO]</td><td>UNIV OF JORDAN [JO]</td><td>WO2023281553A1</td><td>WO</td><td>2021</td><td>B60L53/00 
+B60L53/10 
+B60L53/12 
+B60L53/30 
+B60L53/31 
+B60L53/52</td><td>B60L53/00 (EP) 
+B60L53/10 (EP) 
+B60L53/12 (EP) 
+B60L53/30 (EP) 
+B60L53/31 (EP) 
+B60L53/52 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2023-01-12</td><td>2023</td><td>84800420</td></tr>
+<tr><td>142</td><td>ELECTRIC VEHICLE</td><td>WATANABE MASAHIRO</td><td>WATANABE MASAHIRO</td><td>JP2019135909A</td><td>JP</td><td>2019</td><td>B60L53/51 
+B60L53/52 
+B60L53/80 
+H02J7/00</td><td>Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2019-08-15</td><td>2019</td><td>67624196</td></tr>
+<tr><td>143</td><td>Regional integrated energy system optimization scheduling method for fuel characteristics of plug-in hybrid electric vehicle</td><td>WANG XIUYUN 
+ZHANG CHENGLIN 
+WANG RUTIAN 
+CUI BENWANG 
+MOON SANG-WOON 
+YANG LING</td><td>UNIV NORTHEAST DIANLI</td><td>CN114819667A</td><td>CN</td><td>2022</td><td>G06Q10/04 
+G06Q10/06 
+G06Q30/02 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q10/06312 (CN) 
+G06Q30/0206 (CN) 
+G06Q50/06 (CN)</td><td>2022-07-29</td><td>2022</td><td>82511387</td></tr>
+<tr><td>144</td><td>SSA algorithm-based intelligent building microgrid household load rapid scheduling method</td><td>YI LINGZHI 
+LIU JIANKANG 
+LIU JIANGYONG 
+ZHOU BO 
+LIN JIAHAO</td><td>UNIV XIANGTAN</td><td>CN110490429A</td><td>CN</td><td>2019</td><td>G06Q10/06 
+G06Q30/02 
+G06Q50/06</td><td>G06Q10/06312 (CN) 
+G06Q10/067 (CN) 
+G06Q30/0201 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP) 
+Y04S50/14 (EP)</td><td>2019-11-22</td><td>2019</td><td>68548695</td></tr>
+<tr><td>145</td><td>Power distribution system coordination planning method by considering renewable resource uncertainty</td><td>CHEN YIWEI 
+MA YUHUI 
+ZHOU MAN 
+TANG YI 
+XU HUA 
+ZHU TAO 
+ZHONG LEI 
+GAO QIANG 
+WANG LINMEI 
+ZHANG JING 
+GAO TING 
+WU ZHI</td><td>TAIZHOU POWER SUPPLY COMPANY OF STATE GRID ZHEJIANG ELECTRIC POWER CO LTD 
+UNIV SOUTHEAST</td><td>CN111401696A</td><td>CN</td><td>2020</td><td>G06F17/11 
+G06Q10/06 
+G06Q50/06</td><td>G06F17/11 (CN) 
+G06Q10/06315 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y02T10/40 (EP) 
+Y04S10/50 (EP)</td><td>2020-07-10</td><td>2020</td><td>71428558</td></tr>
+<tr><td>146</td><td>基于可再生能源发电的电氢综合能源系统成本优化方法</td><td></td><td></td><td>CN115358806A</td><td>CN</td><td>2022</td><td>G06N3/00 
+G06Q10/00 
+G06Q30/02 
+G06Q50/06 
+H02J3/00 
+H02J3/32 
+H02J3/46</td><td></td><td>2022-11-18</td><td>2022</td><td>84008550</td></tr>
+<tr><td>147</td><td>Electric-thermal-hydrogen comprehensive energy system-based planning method and system</td><td>YAO JUNRONG 
+TANG XUEYONG 
+CHEN XINGLE</td><td>UNIV GUIZHOU</td><td>CN113705919A</td><td>CN</td><td>2021</td><td>G06F30/27 
+G06N3/00 
+G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+G06F111/06 
+G06F111/08 
+G06F113/04 
+G06F113/06 
+G06F113/08</td><td>G06F30/27 (CN) 
+G06N3/006 (CN) 
+G06Q10/04 (CN) 
+G06Q10/06315 (CN) 
+G06Q50/06 (CN) 
+G06F2111/06 (CN) 
+G06F2111/08 (CN) 
+G06F2113/04 (CN) 
+G06F2113/06 (CN) 
+G06F2113/08 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP)</td><td>2021-11-26</td><td>2021</td><td>78657411</td></tr>
+<tr><td>148</td><td>SYSTEM FOR CHARGING ELECTRIC VEHICLES WITH SHARED RESOURCES</td><td>TRIGOSO PAPOILA ANTONIO LUIS [PT] 
+PATRÍCIO HORTA FERNANDO MANUEL [PT]</td><td>TRIGOSO PAPOILA ANTONIO LUIS [PT] 
+PATRICIO HORTA FERNANDO MANUEL [PT]</td><td>WO2022157658A2</td><td>WO</td><td>2021</td><td>B60L53/30 
+B60L53/60</td><td>B60L53/305 (EP) 
+B60L53/60 (EP)</td><td>2022-07-28</td><td>2022</td><td>80684151</td></tr>
+<tr><td>149</td><td>Micro-grid energy management method based on Rainbow deep Q network</td><td>LIU GUOHAI 
+ZUO ZHIYUAN 
+CHEN ZHAOLING 
+SUN WENQING 
+CHEN CHENGYOU 
+WU ZHENFEI 
+ZHANG JIANPENG 
+ZHANG QUNFENG 
+WANG CHUANBIN</td><td>UNIV JIANGSU 
+JIANGSU ZHENAN ELECTRIC POWER EQUIPMENT CO LTD 
+JIANGSU ZHONGNENG XINRUN POWER TECH CO LTD</td><td>CN114742453A</td><td>CN</td><td>2022</td><td>G06N3/04 
+G06N3/08 
+G06Q10/06 
+G06Q30/02 
+G06Q50/06 
+H02J3/00 
+H02J3/32 
+H02J3/38</td><td>G06N3/045 (CN) 
+G06N3/08 (CN) 
+G06Q10/06312 (CN) 
+G06Q10/0637 (CN) 
+G06Q30/0201 (CN) 
+G06Q30/0206 (CN) 
+G06Q50/06 (CN) 
+H02J3/003 (CN) 
+H02J3/004 (CN) 
+H02J3/008 (CN) 
+H02J3/322 (CN) 
+H02J3/381 (CN) 
+H02J2203/10 (CN) 
+H02J2203/20 (CN) 
+H02J2300/24 (CN) 
+H02J2300/28 (CN) 
+H02J2310/48 (CN) 
+Y02E70/30 (EP)</td><td>2022-07-12</td><td>2022</td><td>82285607</td></tr>
+<tr><td>150</td><td>Road traffic non-stop motor vehicle automatic flushing control method</td><td>CHE FA 
+WANG BING 
+SUN ZHENHUA 
+LI GUANG 
+NIU KAI 
+LYU WEI 
+CUI JIN 
+LU YAN 
+SUN FENGZHE 
+LI ZHENYONG 
+TAN HONGFENG 
+SHA ZHIWEI 
+LU LEI</td><td>ZIBO TRAFFIC CONSTRUCTION DEV CENTER</td><td>CN114056295A 
+CN114056295B</td><td>CN</td><td>2022</td><td>B60S3/04 
+C02F9/10 
+C02F103/44</td><td>B60S3/04 (CN) 
+C02F9/00 (CN) 
+C02F1/001 (CN) 
+C02F1/02 (CN) 
+C02F2001/007 (CN) 
+C02F2103/44 (CN) 
+C02F2201/009 (CN)</td><td>2022-02-18 
+2022-04-08</td><td>2022</td><td>80231314</td></tr>
+<tr><td>151</td><td>SUPER RANGE EXTENSION CONTROL SYSTEM FOR ELECTRIC VEHICLES (EVS)</td><td>JACOBS FRITZ [AP]</td><td>JACOBS ENG GROUP CC [AP]</td><td>WO2022204737A1</td><td>WO</td><td>2021</td><td>B60L50/60 
+B60L8/00</td><td>B60L50/60 (EP) 
+B60L8/003 (EP) 
+B60L8/006 (EP) 
+B60L2220/42 (EP)</td><td>2022-10-06</td><td>2022</td><td>76159206</td></tr>
+<tr><td>152</td><td>Flexible charging method and system considering travel demand of electric vehicle user</td><td>SU SU 
+WEI CUNHAO 
+LEE OK-KYUNG 
+WANG LUFEI 
+DONG GANG 
+ZHANG MINGHAO</td><td>BEIJING TRAFFIC UNIV 
+BEIJING OVER CHARGE SCIENCE AND TECH LIMITED COMPANY</td><td>CN114221385A</td><td>CN</td><td>2021</td><td>B60L53/63 
+B60L53/64 
+G06Q10/04 
+G06Q50/06 
+H02J3/24 
+H02J3/38 
+H02J3/48 
+H02J3/50 
+H02J7/00</td><td>B60L53/63 (CN) 
+B60L53/64 (CN) 
+G06Q10/04 (CN) 
+G06Q50/06 (CN) 
+H02J3/24 (CN) 
+H02J3/381 (CN) 
+H02J3/48 (CN) 
+H02J3/50 (CN) 
+H02J7/0048 (CN) 
+H02J2203/20 (CN) 
+H02J2300/24 (CN) 
+Y02E10/56 (EP) 
+Y02T10/40 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2022-03-22</td><td>2022</td><td>80847090</td></tr>
+<tr><td>153</td><td>Fast electric vehicle charging and distributed grid resource adequacy management system</td><td>KAMAL ANURAG [US] 
+BATISTA DO NASCIMENTO JR  NELIO [BR] 
+WONG VINCENT CURTIS [US]</td><td>ELECTRICFISH ENERGY INC [US]</td><td>US11007891B1</td><td>US</td><td>2020</td><td>B60L53/60 
+H01M10/44 
+H01M10/46 
+H02J3/32 
+H02J7/00 
+H02J7/04 
+H02J7/34</td><td>B60L53/11 (EP) 
+B60L53/60 (US) 
+B60L53/63 (EP) 
+B60L53/67 (EP) 
+B60L53/68 (EP) 
+B60L55/00 (EP) 
+G06Q10/04 (EP) 
+G06Q50/06 (EP) 
+H02J13/00002 (EP) 
+H02J3/322 (EP,US) 
+H02J7/00032 (US) 
+H02J7/0013 (EP,US) 
+H02J7/005 (US) 
+H02J7/04 (US) 
+H02J7/345 (US) 
+B60L2210/10 (EP,US) 
+B60L2210/30 (EP) 
+B60L2240/70 (EP) 
+H02J2207/20 (EP,US) 
+H02J2207/50 (EP,US) 
+H02J2310/48 (EP) 
+H02J7/345 (EP) 
+Y02E60/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/72 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y02T90/16 (EP) 
+Y04S10/126 (EP)</td><td>2021-05-18</td><td>2021</td><td>75910388</td></tr>
+<tr><td>154</td><td>ELECTRIC VEHICLE CHARGING SITES</td><td>WOLFE JEFFERY D [US] 
+SCHENCK MICHAEL [US]</td><td>VELOCE ENERGY INC [US]</td><td>WO2022241160A1</td><td>WO</td><td>2021</td><td>B60L53/53 
+B60L53/62 
+H01M10/44 
+H02J7/00</td><td>B60L53/30 (EP) 
+B60L53/53 (EP) 
+B60L53/62 (EP) 
+H01M10/44 (EP) 
+H02J7/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2022-11-17</td><td>2022</td><td>84028511</td></tr>
+<tr><td>155</td><td>Use wind power generation set on car</td><td>YU SHIYONG 
+YAN WEI</td><td>NANTONG SHIPPING COLLEGE</td><td>CN207842678U</td><td>CN</td><td>2018</td><td>B60L8/00 
+F03D9/11 
+F03D9/25 
+F03D9/32</td><td>Y02E10/72 (EP) 
+Y02E10/728 (EP) 
+Y02E70/30 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/72 (EP)</td><td>2018-09-11</td><td>2018</td><td>63410782</td></tr>
+<tr><td>156</td><td>Electric vehicle charging and discharging benefit optimization method based on vehicle network interaction V2G</td><td>LIU PENG 
+LIU ZHE</td><td>UNIV HANGZHOU DIANZI</td><td>CN114725967A</td><td>CN</td><td>2022</td><td>B60L53/31 
+B60L53/64 
+H02J3/32</td><td>B60L53/31 (CN) 
+B60L53/64 (CN) 
+H02J3/322 (CN) 
+Y04S30/12 (EP)</td><td>2022-07-08</td><td>2022</td><td>82242041</td></tr>
+<tr><td>157</td><td>MULTIPLE VEHICLE CHARGING SYSTEM</td><td>QI LI [US]</td><td>ABB SCHWEIZ AG [CH]</td><td>US11230202B2 
+US2021178918A1</td><td>US</td><td>2019</td><td>B60L53/22 
+B60L53/30 
+H02J7/00</td><td>B60L53/22 (US) 
+B60L53/30 (EP,US) 
+B60L53/67 (EP) 
+H02J7/0045 (US) 
+B60L2210/10 (US) 
+B60L2210/30 (US) 
+H02J2207/20 (US) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP)</td><td>2021-06-17 
+2022-01-25</td><td>2021</td><td>76316580</td></tr>
+<tr><td>158</td><td>Method and system for constructing constraint conditions of demand side resources participating in energy interconnection</td><td>CHEN SONGSONG 
+YUAN JINDOU 
+HE SHENG 
+WANG HAO 
+ZHANG XINGHUA 
+WANG XIN 
+LIU QIANG 
+CHEN KE 
+LI LEI 
+XUE YUNYAO 
+ZHANG LULU 
+CAO WANGZHANG 
+WANG HAOJI</td><td>CHINA ELECTRIC POWER RES INST CO LTD 
+STATE GRID CORP CHINA 
+STATE GRID ZHEJIANG ELECTRIC POWER CO LTD</td><td>CN113849950A</td><td>CN</td><td>2020</td><td>G06F30/20 
+G06Q10/06 
+G06Q50/06 
+G06F111/04</td><td>G06F30/20 (CN) 
+G06Q10/06315 (CN) 
+G06Q50/06 (CN) 
+G06F2111/04 (CN) 
+Y04S10/50 (EP)</td><td>2021-12-28</td><td>2021</td><td>78972637</td></tr>
+<tr><td>159</td><td>Managing the Charging of a Fleet of Vehicles to Align with a Renewable Energy Supply Curve for an Electric Grid</td><td>BATIR SEAN [US] 
+LANGTON ADAM [US] 
+PEASE HENRY [US]</td><td>BAYERISCHE MOTOREN WERKE AG [DE]</td><td>US2021339647A1</td><td>US</td><td>2020</td><td>B60L53/62 
+B60L53/63 
+B60L53/66</td><td>B60L53/51 (EP) 
+B60L53/62 (EP,US) 
+B60L53/63 (EP,US) 
+B60L53/66 (EP,US) 
+B60L53/68 (EP) 
+Y02E60/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP) 
+Y04S10/126 (EP)</td><td>2021-11-04</td><td>2021</td><td>78292456</td></tr>
+<tr><td>160</td><td>POWER SUPPLY SYSTEM</td><td>KOMATSU DAIKI [JP] 
+MAKINO SHIGEKI [JP]</td><td>HITACHI LTD [JP]</td><td>EP4122751A1</td><td>EP</td><td>2020</td><td>B60L53/51 
+B60L53/63 
+B60L55/00 
+B60L58/16 
+H02J13/00 
+H02J3/32 
+H02J3/38 
+H02J7/00 
+H02J7/35</td><td>B60L53/51 (EP) 
+B60L53/63 (EP) 
+B60L55/00 (EP) 
+B60L58/16 (EP) 
+H02J13/00 (EP) 
+H02J3/32 (EP) 
+H02J3/38 (EP) 
+H02J7/35 (EP) 
+H02J7/00 (EP) 
+Y02E60/00 (EP) 
+Y02E70/30 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/167 (EP) 
+Y04S10/126 (EP) 
+Y04S30/12 (EP) 
+Y04S30/14 (EP)</td><td>2023-01-25</td><td>2021</td><td>77770848</td></tr>
+<tr><td>161</td><td>ENERGY SUPPLY SYSTEM</td><td>SCHICHTEL MARTIN [DE]</td><td>KRAFTBLOCK GMBH [DE]</td><td>US2022324346A1</td><td>US</td><td>2019</td><td>B60L53/50 
+B60L53/52 
+H02N11/00</td><td>B60L53/50 (US) 
+B60L53/52 (US) 
+H02J15/00 (EP) 
+H02J3/28 (EP) 
+H02J7/00 (EP) 
+H02N11/002 (US) 
+F28D20/003 (EP) 
+F28D20/02 (EP) 
+H02J2310/48 (EP)</td><td>2022-10-13</td><td>2020</td><td>70166025</td></tr>
+<tr><td>162</td><td>Energy coordination control method of optical storage charging station</td><td>ZHANG JING 
+ZHANG YUANXING 
+MA CHENGBIN 
+YAN DONGXIANG 
+LI TAOYONG 
+LI BIN 
+JIANG LINRU 
+DIAO XIAOHONG 
+LI KANG 
+WANG YALING</td><td>CHINA ELECTRIC POWER RES INST CO LTD 
+UNIV SHANGHAI JIAOTONG</td><td>CN111355259A</td><td>CN</td><td>2020</td><td>B60L53/51 
+H02J3/28 
+H02J3/38</td><td>B60L53/51 (CN) 
+H02J3/28 (CN) 
+Y02E70/30 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2020-06-30</td><td>2020</td><td>71193991</td></tr>
+<tr><td>163</td><td>Novel mobile power supply charging device</td><td></td><td>LI GUANGHUI 
+LI WEN 
+LI XING</td><td>CN111009952A</td><td>CN</td><td>2019</td><td>B60L53/50 
+B60L53/51 
+B60L53/52 
+H02J7/02 
+H02J7/14 
+H02J7/35</td><td>B60L53/50 (CN) 
+B60L53/51 (CN) 
+B60L53/52 (CN) 
+H02J7/02 (CN) 
+H02J7/14 (CN) 
+H02J7/35 (CN) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/72 (EP) 
+Y02T10/92 (EP) 
+Y02T90/12 (EP)</td><td>2020-04-14</td><td>2020</td><td>70111941</td></tr>
+<tr><td>164</td><td>充电站规划方法及相关设备</td><td></td><td></td><td>CN115271317A</td><td>CN</td><td>2022</td><td>B60L53/30 
+G06K9/62 
+G06N3/12 
+G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>Y02T10/40 (EP)</td><td>2022-11-01</td><td>2022</td><td>83759982</td></tr>
+<tr><td>165</td><td>HYBRID ENGINE WITH VACUUM AND PRESSURE MECHANISM BY USING THE COMPRESSOR</td><td>SOHRABI MOHAMMAD [IR] 
+RANJBAR MEYSAM [IR]</td><td>SOHRABI MOHAMMAD [IR] 
+RANJBAR MEYSAM [IR]</td><td>WO2022018578A1</td><td>WO</td><td>2020</td><td>B60K3/02 
+F01B17/02</td><td>B60K3/02 (EP) 
+F01B17/02 (EP)</td><td>2022-01-27</td><td>2022</td><td>79730009</td></tr>
+<tr><td>166</td><td>Electric vehicle load aggregation method based on wind power curve continuous tracking</td><td>LIU DUNNAN 
+ZHANG YUE 
+LIU MINGGUANG 
+JIA HEPING 
+WANG WEN 
+PENG XIAOFENG 
+YANG YE 
+SU SHU</td><td>UNIV NORTH CHINA ELECTRIC POWER 
+STATE GRID ELEC VEHICLE SERVICE CO LTD</td><td>CN114725969A 
+CN114725969B</td><td>CN</td><td>2022</td><td>B60L53/64 
+H02J3/00 
+H02J3/32 
+H02J3/38 
+H02J3/46</td><td>B60L53/64 (CN) 
+H02J3/004 (CN) 
+H02J3/0075 (CN) 
+H02J3/322 (CN) 
+H02J3/381 (CN) 
+H02J3/46 (CN) 
+H02J2203/20 (CN) 
+H02J2300/28 (CN) 
+H02J2310/48 (CN) 
+H02J2310/64 (CN) 
+Y02T90/167 (EP)</td><td>2022-07-08 
+2022-10-11</td><td>2022</td><td>82243349</td></tr>
+<tr><td>167</td><td>一种考虑充电行为随机性的电动汽车充电管理方法及系统</td><td></td><td></td><td>CN115587645A</td><td>CN</td><td>2022</td><td>B60L53/00 
+G06Q10/04 
+G06Q10/06 
+G06Q30/02 
+G06Q50/06</td><td>Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2023-01-10</td><td>2023</td><td>84771508</td></tr>
+<tr><td>168</td><td>Electric Vehicle Charging System</td><td>LIN YU-SHUN [TW]</td><td>LIN YU SHUN [TW]</td><td>US11130419B2 
+US2021061116A1</td><td>US</td><td>2019</td><td>B60L53/126 
+B60L53/14 
+B60L53/37 
+B60L53/65 
+H02J7/02</td><td>B60L53/12 (EP) 
+B60L53/126 (US) 
+B60L53/14 (EP,US) 
+B60L53/37 (EP,US) 
+B60L53/65 (EP,US) 
+B60L53/665 (EP) 
+H02J50/10 (US) 
+H02J50/80 (EP,US) 
+H02J50/90 (EP,US) 
+H02J7/00034 (EP,US) 
+H02J7/342 (EP) 
+B60L2260/32 (EP) 
+H02J2310/48 (EP,US) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y02T90/167 (EP) 
+Y04S30/14 (EP)</td><td>2021-03-04 
+2021-09-28</td><td>2021</td><td>74680622</td></tr>
+<tr><td>169</td><td>MECHANISM OF &quot;ELECTRIC FUEL&quot; AND ELECTRIC POWER STATIONS FACILITY</td><td>GRANER PETER [IL]</td><td>GRANER PETER [IL]</td><td>US2020240166A1</td><td>US</td><td>2017</td><td>B60L53/00 
+B60S3/04 
+E04H6/10 
+E04H6/22 
+E04H6/28 
+H02J3/38 
+H02J7/00</td><td>B60L53/00 (US) 
+B60L53/30 (EP) 
+B60L53/51 (EP) 
+B60L53/53 (EP) 
+B60L53/57 (EP) 
+B60L55/00 (EP) 
+B60S3/04 (US) 
+E04H6/10 (US) 
+E04H6/14 (EP) 
+E04H6/20 (EP) 
+E04H6/22 (US) 
+E04H6/282 (EP,US) 
+H02J3/381 (US) 
+H02J7/0045 (US) 
+B60S3/04 (EP) 
+H02J2300/24 (US) 
+Y02B10/10 (EP) 
+Y02E10/56 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/14 (EP)</td><td>2020-07-30</td><td>2018</td><td>62454807</td></tr>
+<tr><td>170</td><td>Energy management method suitable for micro-grid containing electric vehicle charging pile</td><td>YANG YANG 
+JI YUANFAN 
+YU KAN 
+LI PING 
+MAO TIAN 
+JIANG QUANYUAN 
+GENG GUANGCHAO</td><td>UNIV ZHEJIANG</td><td>CN113799640A</td><td>CN</td><td>2021</td><td>B60L53/63 
+B60L53/64 
+B60L58/12 
+G06Q10/06 
+G06Q50/06 
+H02J3/00</td><td>B60L53/63 (CN) 
+B60L53/64 (CN) 
+B60L58/12 (CN) 
+G06Q10/06312 (CN) 
+G06Q10/06315 (CN) 
+G06Q50/06 (CN) 
+H02J3/008 (CN) 
+H02J2203/10 (CN) 
+H02J2203/20 (CN) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2021-12-17</td><td>2021</td><td>78893704</td></tr>
+<tr><td>171</td><td>SYSTEM FOR COHESIVELY HARNESSING MULTIPLE FORMS OF RENEWABLE ENERGY IN ELECTRIC VEHICLES AND STATIONARY APPLICATIONS</td><td>SRIVATHSAN KAUSTUBHAN BANGALORE [IN]</td><td>SRIVATHSAN KAUSTUBHAN BANGALORE [IN]</td><td>WO2023002234A1</td><td>WO</td><td>2021</td><td>B60K16/00 
+B60L50/00</td><td></td><td>2023-01-26</td><td>2023</td><td>84978824</td></tr>
+<tr><td>172</td><td>System for new energy automobile battery replacement and charging to participate in thermal power deep peak regulation</td><td>JIANG CHUAN 
+ZENG XIAODONG 
+MA LIPING</td><td>XINJIANG ZHONGHAI MINGDA ENERGY CO LTD</td><td>CN113452050A</td><td>CN</td><td>2021</td><td>B60L55/00 
+H02J3/24 
+H02J3/32 
+H02J3/46</td><td>B60L55/00 (CN) 
+H02J3/24 (CN) 
+H02J3/322 (CN) 
+H02J3/46 (CN) 
+H02J2300/40 (CN) 
+Y02T90/16 (EP)</td><td>2021-09-28</td><td>2021</td><td>77811960</td></tr>
+<tr><td>173</td><td>electricity price strategy making method and device for energy service provider based on differential evolution algorithm</td><td>LI YE 
+DONG DELONG 
+YANG GUANG 
+ZHAO BAOGUO 
+KONG XIANGYU 
+ZHAO XIN 
+LI GANG 
+HE ZEHAO 
+LIU HAOYU 
+LU JINGYA 
+SUN HONG 
+GU QIANG 
+ZHANG ZHAOJIE 
+QIAO YANAN 
+ZHAI SHURAN 
+LYU WEIJIA 
+XU DI 
+ZHAO ZIJING 
+JI HAO 
+BAI TAO</td><td>STATE GRID TIANJIN ELECTRIC POWER CO ELECTRIC POWER RES INST 
+STATE GRID TIANJIN ELECTRIC POWER CO 
+STATE GRID CORP CHINA 
+UNIV TIANJIN</td><td>CN111091239A</td><td>CN</td><td>2019</td><td>G06N3/00 
+G06Q10/04 
+G06Q30/02 
+G06Q50/06</td><td>G06N3/006 (CN) 
+G06Q10/04 (CN) 
+G06Q30/0283 (CN) 
+G06Q50/06 (CN) 
+Y04S50/14 (EP) 
+Y04S50/16 (EP)</td><td>2020-05-01</td><td>2020</td><td>70393342</td></tr>
+<tr><td>174</td><td>GENERATOR FOR ELECTRIC VEHICLES</td><td>MATUTIS VAIDOTAS [LT] 
+MATUTIS MINDAUGAS [LT]</td><td>MATUTIS VAIDOTAS [LT] 
+MATUTIS MINDAUGAS [LT]</td><td>EP3840192A1</td><td>EP</td><td>2019</td><td>H02K7/18 
+B60K16/00 
+B60L8/00</td><td>B60L8/006 (EP) 
+H02K7/183 (EP) 
+Y02E10/72 (EP) 
+Y02T10/64 (EP) 
+Y02T10/7072 (EP)</td><td>2021-06-23</td><td>2021</td><td>68887188</td></tr>
+<tr><td>175</td><td>Power distribution network flexibility evaluation method for regulation demands</td><td>CHEN FEI 
+HUANG CHUNYI 
+CUI KAI 
+SUN KE 
+WANG LEI 
+PAN HONG 
+HUANG JINGJING 
+XIE NING 
+DAI PAN 
+WANG CHENGMIN 
+YUAN XIANG 
+ZHANG PING 
+WANG KUN 
+ZHANG XIZHU 
+SUN FENGJIE</td><td>STATE GRID ZHEJIANG ELECTRIC POWER CO ECONOMIC TECHNICAL INST 
+STATE GRID ZHEJIANG ELECTRIC POWER CO 
+UNIV SHANGHAI JIAOTONG</td><td>CN107947165A</td><td>CN</td><td>2017</td><td>G06Q10/06 
+G06Q50/06 
+H02J3/00 
+H02J3/28 
+H02J3/38</td><td>G06Q10/0639 (CN) 
+G06Q50/06 (CN) 
+H02J3/00 (CN) 
+H02J3/28 (CN) 
+H02J3/383 (CN) 
+H02J3/386 (CN) 
+H02J2203/20 (CN) 
+H02J3/003 (CN) 
+Y02A30/60 (EP) 
+Y02E10/56 (EP) 
+Y02E10/76 (EP) 
+Y04S10/50 (EP)</td><td>2018-04-20</td><td>2018</td><td>61948089</td></tr>
+<tr><td>176</td><td>Energy storage capacity configuration method suitable for smart park</td><td>LING ZAIXUN 
+ZHENG JINGWEN 
+CUI YIBO 
+CAI WANLI 
+CHEN WEN 
+XIONG PING 
+KANG YIQUN 
+YOU LI 
+XIANG MUCHAO 
+XIONG HAOZHE</td><td>STATE GRID HUBEI ELECTRIC POWER CO LTD ELECTRIC POWER RES INST 
+STATE GRID CORP CHINA</td><td>CN113595063A</td><td>CN</td><td>2021</td><td>B60L53/64 
+B60L55/00 
+H02J3/00 
+H02J3/24 
+H02J3/32 
+H02J3/38 
+H02J3/48</td><td>B60L53/64 (CN) 
+B60L55/00 (CN) 
+H02J3/004 (CN) 
+H02J3/008 (CN) 
+H02J3/24 (CN) 
+H02J3/322 (CN) 
+H02J3/381 (CN) 
+H02J3/48 (CN) 
+H02J2203/10 (CN) 
+H02J2203/20 (CN) 
+H02J2207/50 (CN) 
+H02J2300/24 (CN) 
+Y02B10/10 (EP) 
+Y02E10/56 (EP) 
+Y02E70/30 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2021-11-02</td><td>2021</td><td>78247101</td></tr>
+<tr><td>177</td><td>Charging and discharging power aggregation method and device of electric vehicle and computer equipment</td><td>LIU GUOWEI 
+ZHAO YUMING 
+TANG WENJUN 
+XU YINLIANG</td><td>SHENZHEN POWER SUPPLY BUREAU</td><td>CN114896772A</td><td>CN</td><td>2022</td><td>G06F30/20 
+G06Q10/06 
+G06Q50/06 
+G06F111/04 
+G06F119/06</td><td>G06F30/20 (CN) 
+G06Q10/06312 (CN) 
+G06Q10/06313 (CN) 
+G06Q50/06 (CN) 
+G06F2111/04 (CN) 
+G06F2119/06 (CN) 
+Y04S30/12 (EP)</td><td>2022-08-12</td><td>2022</td><td>82720628</td></tr>
+<tr><td>178</td><td>Clearing model considering participation of electric vehicles in balance market and settlement method</td><td>JIANG ZHIMING 
+ZHOU MING 
+WU ZHAOYUAN 
+HU ZHIXIONG 
+ZHAO DEJIE 
+LEI RUOYU 
+LIU ZHONGJIAN 
+ZHANG YAN 
+LIU XIAOJUAN</td><td>UNIV NORTH CHINA ELECTRIC POWER 
+STATE GRID CORP CHINA 
+STATE GRID BEIJING ELECTRIC POWER CO</td><td>CN111091265A</td><td>CN</td><td>2019</td><td>G06Q10/06 
+G06Q30/02 
+G06Q50/06</td><td>G06Q10/067 (CN) 
+G06Q30/0206 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP) 
+Y04S50/14 (EP)</td><td>2020-05-01</td><td>2020</td><td>70393456</td></tr>
+<tr><td>179</td><td>Green energy system based on intelligent multi-plate coupling technology</td><td>HOU ZHENGMENG 
+FENG WENTAO 
+SUN WEI 
+JIANG JUN</td><td>UNIV KUNMING SCIENCE &amp; TECH</td><td>CN112330484A</td><td>CN</td><td>2020</td><td>G06Q50/06</td><td>G06Q50/06 (CN)</td><td>2021-02-05</td><td>2021</td><td>74296796</td></tr>
+<tr><td>180</td><td>METHOD FOR RELEASING HYDOGEN, USE THEREOF AND VEHICLE FOR SAME</td><td>WEBER HANSPETER [CH]</td><td>WEBER HANSPETER [BE]</td><td>US2019023566A1</td><td>US</td><td>2015</td><td>C01B3/06 
+C01B3/08 
+C25B1/02 
+C25B1/14</td><td>C01B3/065 (EP,US) 
+C01B3/08 (EP,US) 
+C25B1/02 (EP,US) 
+C25B1/14 (EP,US) 
+C25C3/02 (EP,US) 
+B60L50/72 (EP,US) 
+Y02E60/36 (EP,US) 
+Y02P20/133 (EP,US)</td><td>2019-01-24</td><td>2017</td><td>55182175</td></tr>
+<tr><td>181</td><td>Water Gravity Loop Power ARA EV (WGLPARAEV)</td><td>RODRIGUEZ OSCAR EDGARDO MONCADA [US]</td><td>RODRIGUEZ OSCAR EDGARDO MONCADA [US]</td><td>US2019016206A1</td><td>US</td><td>2017</td><td>B60K6/00</td><td>B60K6/00 (US) 
+F03B17/005 (EP,US) 
+B60Y2400/20 (EP,US) 
+Y10S903/00 (US)</td><td>2019-01-17</td><td>2019</td><td>65000519</td></tr>
+<tr><td>182</td><td>DISPLAY DEVICE AND DISPLAY METHOD</td><td>KATO HIROSHI 
+IIDA TAKUMA 
+SAWA AKIHIRO</td><td>PANASONIC IP MAN CORP</td><td>JP2019015595A 
+JP7022925B2</td><td>JP</td><td>2017</td><td>G01C21/34 
+G08G1/005 
+G08G1/0969 
+G09B29/10</td><td>G01C21/3423 (EP) 
+G01C21/3469 (US) 
+G01C21/3492 (US) 
+G01C21/3679 (EP) 
+G01C21/3697 (EP) 
+G08G1/096844 (US) 
+G08G1/0969 (US) 
+G09B29/10 (EP) 
+B60L2260/52 (US)</td><td>2019-01-31 
+2022-02-21</td><td>2019</td><td>64950130</td></tr>
+<tr><td>183</td><td>Industrial estate distribution network collaborative planning method in consideration of multi-energy coupling characteristics</td><td>LI YANG 
+CAO HUAZHEN 
+YANG YAN 
+WU YAXIONG 
+CHENG XIN 
+TANG JUNXI 
+ZHANG JUNXIAO</td><td>GRID POWER PLANNING &amp; RES CT GUANGDONG GRID POWER CO LTD</td><td>CN108537409A 
+CN108537409B</td><td>CN</td><td>2018</td><td>G06Q10/06 
+G06Q50/06</td><td>G06Q10/0637 (CN) 
+G06Q10/0639 (CN) 
+G06Q50/06 (CN) 
+Y02P90/82 (EP) 
+Y04S10/50 (EP)</td><td>2018-09-14 
+2021-08-31</td><td>2018</td><td>63484135</td></tr>
+<tr><td>184</td><td>Renewable and Environment Friendly Wind Powered Vehicle System</td><td>KUZHANGAIRA T BERNARD [CA] 
+KUZHANGAIRA ASHLEIGH [CA]</td><td>KUZHANGAIRA T BERNARD [CA] 
+KUZHANGAIRA ASHLEIGH [CA]</td><td>US2022314829A1</td><td>US</td><td>2021</td><td>B60L53/52 
+B60L58/13 
+F03D9/11 
+F03D9/25 
+F03D9/32 
+H02K7/00 
+H02K7/02 
+H02K7/18</td><td>B60L53/52 (EP,US) 
+B60L58/13 (US) 
+B60L8/006 (EP) 
+F03D9/11 (US) 
+F03D9/12 (EP) 
+F03D9/25 (US) 
+F03D9/32 (EP,US) 
+H02K7/003 (US) 
+H02K7/025 (US) 
+H02K7/183 (EP,US) 
+B60L2200/28 (US) 
+F05B2220/706 (US) 
+F05B2240/941 (EP,US) 
+F05B2260/421 (EP,US)</td><td>2022-10-06</td><td>2022</td><td>83448749</td></tr>
+<tr><td>185</td><td>A solar power supply control circuit for rail vehicles</td><td>SHI XIAOFANG 
+ZHAO HONG 
+WANG ZHENG 
+BAO WEIBING 
+SUN JIAN 
+ZHANG WENWEN 
+CHEN XIAOWEI</td><td>CRRC NANJING PUZHEN CO LTD</td><td>CN109103980A 
+CN109103980B</td><td>CN</td><td>2018</td><td>B60R16/03 
+H02J7/35</td><td>B60R16/03 (CN) 
+H02J7/35 (CN)</td><td>2018-12-28 
+2022-02-08</td><td>2018</td><td>64869640</td></tr>
+<tr><td>186</td><td>Vehicle, vehicle machine equipment and vehicle warm start method</td><td>HUANG ZHONGRUI 
+MA ZHI 
+YIN CHUNFENG 
+PU CHENCHEN</td><td>SHANGHAI PATEO YUEZHEN NETWORKING TECHNOLOGY SERVICE CO LTD</td><td>CN110435563A</td><td>CN</td><td>2018</td><td>B60R16/023</td><td>B60R16/023 (CN) 
+B60R16/0237 (CN)</td><td>2019-11-12</td><td>2019</td><td>68427837</td></tr>
+<tr><td>187</td><td>含大规模电动汽车的区域综合能源供需调度方法和系统</td><td></td><td></td><td>CN115310749A</td><td>CN</td><td>2022</td><td>G06N3/00 
+G06Q10/06 
+G06Q50/06</td><td></td><td>2022-11-08</td><td>2022</td><td>83854429</td></tr>
+<tr><td>188</td><td>Intelligent charging pile internet system and management method</td><td>JIAN LINNI 
+SHANG YITONG 
+YU HANG</td><td>UNIV SOUTHERN SCI &amp; TECH</td><td>CN110936843A</td><td>CN</td><td>2019</td><td>B60L53/63 
+B60L53/67 
+B60L53/68 
+H02J3/00</td><td>B60L53/63 (CN) 
+B60L53/67 (CN) 
+B60L53/68 (CN) 
+H02J3/00 (CN) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP)</td><td>2020-03-31</td><td>2020</td><td>69912898</td></tr>
+<tr><td>189</td><td>Shared charging adapter, system and shared charging method for electric vehicles</td><td>C GESSSELBERG 
+M MARK</td><td>BAYERISCHE MOTOREN WERKE AG</td><td>CN113386610A</td><td>CN</td><td>2020</td><td>B60L53/14 
+B60L53/62 
+B60L53/66</td><td>B60L53/14 (CN) 
+B60L53/62 (CN) 
+B60L53/66 (CN) 
+B60L53/665 (CN) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y02T90/16 (EP)</td><td>2021-09-14</td><td>2021</td><td>77615772</td></tr>
+<tr><td>190</td><td>A SCALABLE MODULAR PLATFORM FOR DEVELOPING MULTI-PURPOSE MANNED AND UNMANNED VEHICLES</td><td>HUGH WELCEL BRYAN [US]</td><td>HUGH WELCEL BRYAN [US]</td><td>WO2022137067A1</td><td>WO</td><td>2020</td><td>B60F5/02 
+B64C13/20 
+B64C27/08 
+B64C27/20 
+B64C37/00 
+B64C39/06</td><td>B60F5/02 (EP) 
+B64C1/061 (US) 
+B64C29/0025 (US) 
+B64C37/00 (EP,US) 
+B64C2211/00 (EP,US) 
+B64D27/02 (EP)</td><td>2022-06-30</td><td>2022</td><td>82157485</td></tr>
+<tr><td>191</td><td>UNMANNED AERIAL VEHICLE INTEGRATED WITH AUTOMATIC RENEWABLE ENERGY CHARGING SYSTEM</td><td>KANDASAMY DUSHAN</td><td>KANDASAMY DUSHAN</td><td>CN112384444A</td><td>CN</td><td>2018</td><td>B64C39/02</td><td>B60L53/51 (US) 
+B60L58/12 (US) 
+B64C39/02 (GB) 
+B64C39/024 (EP,US) 
+B64D27/24 (US) 
+B64U50/19 (EP) 
+B64U50/34 (EP) 
+G05D1/042 (US) 
+H02S10/40 (US) 
+H02S30/20 (US) 
+H02S40/38 (US) 
+B64D2211/00 (EP,US) 
+B64U2201/10 (US) 
+B64U50/19 (US) 
+B64U50/34 (US) 
+Y02E10/50 (EP) 
+Y02E70/30 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T50/50 (EP) 
+Y02T90/12 (EP)</td><td>2021-02-19</td><td>2019</td><td>62598253</td></tr>
+<tr><td>192</td><td>New energy access and comprehensive energy service potential association prediction method</td><td>WANG WEIGONG 
+ZHU JIAYING 
+JIANG JINGJING 
+ZHOU XUAN 
+ZHAO MIN 
+ZHAO FENG 
+WANG YINGTAO 
+ZHOU YU</td><td>STATE GRID SHANGHAI MUNICIPAL ELECTRIC POWER CO</td><td>CN112085259A</td><td>CN</td><td>2020</td><td>G06K9/62 
+G06Q10/04 
+G06Q50/06</td><td>G06F18/23213 (CN) 
+G06Q10/04 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP)</td><td>2020-12-15</td><td>2020</td><td>73728287</td></tr>
+<tr><td>193</td><td>Comprehensive energy microgrid multi-agent income distribution method and system based on NASH equilibrium</td><td>JIANG HONGSHENG 
+HAN QINGHAO</td><td>CMIG NEW ENERGY INVEST GROUP CO LTD</td><td>CN110322154A</td><td>CN</td><td>2019</td><td>G06F17/18 
+G06Q10/06 
+G06Q30/02 
+G06Q50/06</td><td>G06F17/18 (CN) 
+G06Q10/06312 (CN) 
+G06Q10/06315 (CN) 
+G06Q30/0206 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP)</td><td>2019-10-11</td><td>2019</td><td>68121580</td></tr>
+<tr><td>194</td><td>Off-network removable fast charging system and management method thereof</td><td>LI JINGYU 
+WU DEPING</td><td>DSM GREEN POWER CO LTD</td><td>CN110605986A 
+CN110605986B</td><td>CN</td><td>2019</td><td>B60L53/16 
+B60L53/30 
+B60L53/60</td><td>B60L53/16 (CN) 
+B60L53/30 (CN) 
+B60L53/60 (CN) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP)</td><td>2019-12-24 
+2020-06-26</td><td>2019</td><td>68890249</td></tr>
+<tr><td>195</td><td>Multi-objective optimization operation method and system for power distribution network</td><td>TONG LI 
+LIU JIAQI 
+GAO XIJUN 
+ZHOU JINHUI 
+SUN XIANG 
+WU DONGQI 
+SU YIFANG 
+CHEN LEI 
+LU CHENG 
+MEI BINGXIAO 
+LI JUNYI 
+ZHAO QICHENG 
+WANG KAI 
+CHAI WEIJIAN 
+ZHU SHOUZHEN</td><td>ELECTRIC POWER SCIENCE RES INSTITUTE OF ZHEJIANG PROVINCE ELECTRIC POWER LIMITED COMPANY OF STATE GR 
+ZHEJIANG PROVINCE ELECTRIC POWER LTD COMPANY OF STATE GRID 
+BEIJING ZHIZHONG ENERGY SCIENCE AND TECH DEVELOPMENT CO</td><td>CN114567006A</td><td>CN</td><td>2022</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+H02J3/24 
+H02J3/38</td><td>G06Q10/04 (CN) 
+G06Q10/06 (CN) 
+G06Q50/06 (CN) 
+H02J3/24 (CN) 
+H02J3/38 (CN) 
+H02J2203/10 (CN) 
+H02J2203/20 (CN) 
+Y04S10/50 (EP)</td><td>2022-05-31</td><td>2022</td><td>81715028</td></tr>
+<tr><td>196</td><td>DYNAMIC POWER MANAGEMENT</td><td>HEGGEBO JORGEN DJUVE [NO] 
+LAUVSNES HELGE STEINBRU [NO]</td><td>AUTOSTORE TECH AS [NO]</td><td>CA3133161A1</td><td>CA</td><td>2019</td><td>B60L53/63 
+B65G1/04 
+B65G1/06 
+H02J3/32</td><td>B65G1/0464 (KR) 
+B65G1/0478 (KR) 
+B65G1/0492 (NO,US) 
+G06F1/26 (NO) 
+G06Q50/28 (NO) 
+H02J3/32 (US) 
+H02J3/322 (EP,KR) 
+B65G1/0464 (EP) 
+B65G1/0478 (EP) 
+G05D2201/0216 (KR,NO) 
+H02J2300/20 (US) 
+Y02T10/70 (KR) 
+Y02T10/7072 (KR) 
+Y02T90/12 (KR)</td><td>2020-10-08</td><td>2020</td><td>69941385</td></tr>
+<tr><td>197</td><td>METHOD OF PROVIDING ELECTRICITY TO A VEHICLE</td><td>BAIRAT ARYA MANGESH [US]</td><td>BAIRAT ARYA MANGESH [US] 
+ARYA MANGESH BAIRAT [US]</td><td>US10374230B2 
+US2018287221A1</td><td>US</td><td>2017</td><td>H01M10/46 
+H01M2/10 
+H01M2/16 
+B60L50/64 
+H01M4/38 
+H01M4/583 
+H01M10/36 
+H01M8/16 
+H01M2/10 
+H01M2/16</td><td>B60L50/64 (EP,US) 
+H01M10/36 (EP,US) 
+H01M4/387 (EP,US) 
+H01M4/583 (US) 
+H01M50/202 (EP,US) 
+H01M50/249 (EP,US) 
+H01M50/417 (EP,US) 
+H01M2220/20 (EP,US) 
+H01M2300/0002 (EP,US) 
+H01M2300/0005 (EP,US) 
+Y02E60/10 (EP) 
+Y02T10/70 (EP)</td><td>2018-10-04 
+2019-08-06</td><td>2018</td><td>63671048</td></tr>
+<tr><td>198</td><td>Traction energy storage power generation technology of automobile generator without fuel engine</td><td>LI GUANGHUI</td><td>LI GUANGHUI</td><td>CN113928126A</td><td>CN</td><td>2020</td><td>B60L8/00 
+B60L9/24 
+H02K53/00</td><td>B60L8/003 (CN) 
+B60L9/24 (CN) 
+H02K53/00 (CN) 
+B60L2210/40 (CN) 
+Y02T10/64 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/72 (EP)</td><td>2022-01-14</td><td>2022</td><td>79274127</td></tr>
+<tr><td>199</td><td>Electric Vehicle Home Microgrid Power System</td><td>PATEL HIMANSHU B [US]</td><td>PATEL HIMANSHU B [US]</td><td>US11241975B2 
+US2022009373A1</td><td>US</td><td>2020</td><td>B60L53/12 
+B60L53/20 
+B60L53/62 
+B60L53/64 
+B60L55/00 
+B60L58/12 
+B60L58/16 
+B60L58/24 
+H02J3/00 
+H02J3/32 
+H02J7/00 
+B60L53/60 
+B60L53/65</td><td>B60L53/12 (EP,US) 
+B60L53/20 (EP,US) 
+B60L53/51 (EP) 
+B60L53/62 (EP,US) 
+B60L53/64 (US) 
+B60L55/00 (EP,US) 
+B60L58/10 (EP) 
+B60L58/12 (US) 
+B60L58/16 (EP,US) 
+B60L58/24 (US) 
+H02J3/003 (EP,US) 
+H02J3/322 (EP,US) 
+H02J7/0029 (EP,US) 
+H02J7/0047 (EP,US) 
+B60L2210/40 (US) 
+H02J2310/48 (EP,US) 
+Y02E60/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y02T90/167 (EP) 
+Y04S10/126 (EP) 
+Y04S30/12 (EP)</td><td>2022-01-13 
+2022-02-08</td><td>2022</td><td>79172137</td></tr>
+<tr><td>200</td><td>Intelligent power distribution network energy management optimization method based on dynamic particle swarm optimization</td><td>JIANG ZECHANG</td><td>GUANGDONG POWER GRID CO LTD ZHAOQING POWER SUPPLY BUREAU</td><td>CN115169748A</td><td>CN</td><td>2022</td><td>B60L53/00 
+G06N3/00 
+G06Q10/04 
+G06Q30/02 
+G06Q50/06 
+H02J3/00 
+H02J3/24 
+H02J3/28 
+H02J3/32 
+H02J3/38 
+H02J3/46</td><td>B60L53/00 (CN) 
+G06N3/006 (CN) 
+G06Q10/04 (CN) 
+G06Q30/0283 (CN) 
+G06Q50/06 (CN) 
+H02J3/0075 (CN) 
+H02J3/008 (CN) 
+H02J3/24 (CN) 
+H02J3/28 (CN) 
+H02J3/322 (CN) 
+H02J3/381 (CN) 
+H02J3/466 (CN) 
+H02J2203/10 (CN) 
+H02J2203/20 (CN) 
+H02J2300/24 (CN) 
+H02J2300/28 (CN) 
+H02J2310/14 (CN) 
+H02J2310/48 (CN) 
+H02J2310/64 (CN)</td><td>2022-10-11</td><td>2022</td><td>83481887</td></tr>
+<tr><td>201</td><td>A MODULAR AND SCALABLE BATTERY SWAP STATION</td><td>MAINI CHETAN KUMAR</td><td>MAINI CHETAN KUMAR</td><td>CN110312635A</td><td>CN</td><td>2017</td><td>B60L53/30 
+B60L53/65 
+B60L53/80</td><td>B60L53/302 (EP,US) 
+B60L53/305 (EP,US) 
+B60L53/65 (EP,US) 
+B60L53/80 (EP,US) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP) 
+Y02T90/167 (EP) 
+Y04S30/14 (EP)</td><td>2019-10-08</td><td>2018</td><td>63253145</td></tr>
+<tr><td>202</td><td>Park integrated energy system optimization scheduling method considering integrated demand response in uncertain environment</td><td>LI YANG 
+WANG BIN 
+YANG ZHEN 
+LI JIAZHENG</td><td>UNIV NORTHEAST ELECTRIC POWER</td><td>CN113610316A</td><td>CN</td><td>2021</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q10/06312 (CN) 
+G06Q50/06 (CN) 
+Y04S10/50 (EP) 
+Y04S50/16 (EP)</td><td>2021-11-05</td><td>2021</td><td>78341337</td></tr>
+<tr><td>203</td><td>An orderly charging control method for electric vehicles considering new energy consumption</td><td>XIONG WEI 
+YANG XUAN 
+CAO SHEN 
+SU SHIWEI</td><td>UNIV CHINA THREE GORGES CTGU</td><td>CN109217310A</td><td>CN</td><td>2018</td><td>B60L53/64 
+B60L58/13 
+H02J3/00</td><td>H02J3/008 (CN) 
+H02J3/48 (CN) 
+H02J2203/20 (CN) 
+Y02T10/40 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2019-01-15</td><td>2019</td><td>64996992</td></tr>
+<tr><td>204</td><td>Energy scheduling method and system, computer equipment and storage medium</td><td>DU JINQIAO 
+TIAN JIE 
+LI YAN</td><td>SHENZHEN POWER SUPPLY BUREAU LTD COMPANY</td><td>CN114331002A</td><td>CN</td><td>2021</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td></td><td>2022-04-12</td><td>2022</td><td>81046146</td></tr>
+<tr><td>205</td><td>Virtual power plant optimization scheduling method and system</td><td>CHEN LIANGLIANG 
+SONG JIE 
+ZHANG WEIGUO 
+YANG FENGKUN 
+GU LINLIN 
+ZHENG HONGJUAN 
+ZHOU CAI 
+LI YIJIE 
+WU JIANBIN 
+QI HUIWEN 
+ZHANG XIANGYU 
+XU ZHENBO 
+REN DUAN 
+WANG ZICHENG</td><td>STATE GRID NARI NANJING CONTROL SYSTEM CO LTD 
+NARI TECHNOLOGY CO LTD 
+NARI GROUP CORP 
+STATE GRID ELECTRIC POWER RES INSTITUTE CO LTD 
+BEIJING STATE GRID PURUI EXTRA HIGH VOLTAGE POWER TRANS TECHNOLOGY CO LTD 
+ECONOMIC RES INSTITUTE OF STATE GRID SHANXI ELECTRIC POWER COMPANY 
+STATE GRID CORP CHINA</td><td>CN113792953A</td><td>CN</td><td>2021</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q10/06312 (CN) 
+G06Q10/06315 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP)</td><td>2021-12-14</td><td>2021</td><td>79180992</td></tr>
+<tr><td>206</td><td>Energy Internet construction method for improving energy use efficiency</td><td>LIU CONG 
+ZHUANG JIAN 
+ZHANG JUN 
+CHI FUJIAN 
+LI GUIXIN 
+WANG ZHE 
+LI SHENGWEI 
+WANG XIN 
+SUN KUO 
+YI WENFEI 
+YU YONGZENG 
+XUE LIANZHI</td><td>STATE GRID TIANJIN ELECTRIC POWER CO 
+STATE GRID CORP CHINA 
+UNIV NORTH CHINA ELECTRIC POWER 
+BEIJING LANHAI XINYUAN TECH DEVELOPMENT CO LTD</td><td>CN107918811A</td><td>CN</td><td>2017</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+H04L29/08</td><td>G06Q10/04 (CN) 
+G06Q10/06 (CN) 
+G06Q50/06 (CN) 
+H04L67/12 (CN) 
+Y04S10/50 (EP)</td><td>2018-04-17</td><td>2018</td><td>61898078</td></tr>
+<tr><td>207</td><td>MULTI-MODAL CONTROL PLANE FOR DEMAND FLEXIBILITY AND ELECTRIC VEHICLE CHARGING</td><td>GRUNKEMEYER BRIAN [US] 
+JAMBORCIC ANA [US]</td><td>FLEXCHARGING INC [US]</td><td>US2021284040A1</td><td>US</td><td>2020</td><td>B60L53/62 
+B60L53/64 
+B60L53/66 
+B60L53/68 
+H02J7/00</td><td>B60L53/62 (EP,US) 
+B60L53/63 (EP) 
+B60L53/64 (EP,US) 
+B60L53/66 (EP,US) 
+B60L53/68 (EP,US) 
+H02J7/00034 (EP,US) 
+H02J7/0071 (US) 
+B60L2240/72 (US) 
+H02J2310/14 (EP,US) 
+H02J2310/48 (EP) 
+H02J2310/50 (EP) 
+Y02B70/30 (EP) 
+Y02B70/3225 (EP) 
+Y02E60/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP) 
+Y02T90/167 (EP) 
+Y04S10/126 (EP) 
+Y04S20/222 (EP) 
+Y04S20/242 (EP) 
+Y04S30/12 (EP) 
+Y04S30/14 (EP)</td><td>2021-09-16</td><td>2021</td><td>77664312</td></tr>
+<tr><td>208</td><td>Virtual aggregation system and method for regional energy complex</td><td>FANG CHEN 
+SHI YIWEI 
+SHI SHANSHAN 
+XU QIN 
+YU SUMIN 
+ZHANG QIQI 
+ZHOU YUN 
+ZHANG YU 
+FENG DONGHAN 
+WANG HAOJING</td><td>EAST CHINA ELECTRIC POWER TEST RESEARCH INSTITUTE CO LTD [CN] 
+UNIV SHANGHAI JIAOTONG [CN] 
+STATE GRID SHANGHAI MUNICIPAL ELECTRIC POWER CO [CN]</td><td>AU2020327343A1</td><td>AU</td><td>2020</td><td>G06Q50/00</td><td>G06Q10/06312 (CN) 
+G06Q10/06315 (CN) 
+G06Q50/06 (CN) 
+H02J13/00022 (CN) 
+H02J13/00028 (CN) 
+H02J3/003 (CN) 
+H02J3/004 (CN) 
+H02J3/0075 (CN) 
+H02J3/008 (CN) 
+H02J3/322 (CN) 
+H02J3/381 (CN) 
+H02J3/466 (CN) 
+H02J2203/10 (CN) 
+H02J2300/22 (CN) 
+H02J2300/28 (CN) 
+H02J2300/40 (CN) 
+Y02B90/20 (EP) 
+Y02E60/00 (EP) 
+Y04S10/14 (EP) 
+Y04S10/50 (EP) 
+Y04S20/12 (EP) 
+Y04S40/126 (EP)</td><td>2021-12-23</td><td>2020</td><td>72332158</td></tr>
+<tr><td>209</td><td>ELECTRIC VEHICLE CHARGING NETWORKS</td><td>KANIKI MBAGO [US]</td><td>ALVA CHARGE LLC [US]</td><td>WO2020106434A1</td><td>WO</td><td>2018</td><td>G06Q10/06 
+G06Q20/20 
+G06Q30/02 
+G06Q50/06 
+H02J3/38 
+H02J7/00</td><td>B60L53/53 (EP) 
+B60L53/60 (EP) 
+B60L53/63 (EP) 
+B60L53/64 (EP) 
+B60L53/80 (EP) 
+B60L55/00 (EP) 
+G06Q10/06315 (EP,US) 
+G06Q20/145 (EP) 
+G06Q20/202 (US) 
+G06Q30/0202 (EP,US) 
+G06Q30/0206 (EP,US) 
+G06Q50/06 (EP,US) 
+G07F15/005 (EP) 
+H02J3/381 (US) 
+H02J7/0013 (US) 
+H02J7/342 (EP) 
+B60L53/51 (US) 
+B60L53/52 (US) 
+B60L53/54 (US) 
+B60L53/665 (US) 
+B60Y2200/91 (US) 
+B60Y2300/91 (US) 
+G05D1/0212 (US) 
+G05D1/0276 (US) 
+H02J2310/48 (EP) 
+Y02E60/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/167 (EP) 
+Y04S10/126 (EP) 
+Y04S30/14 (EP)</td><td>2020-05-28</td><td>2020</td><td>70726643</td></tr>
+<tr><td>210</td><td>Method, server and non-volatile computer readable medium</td><td>MIYATA AI 
+TANAKA YURIKA 
+HASEGAWA HIDEO 
+SUZUKI HIROYUKI 
+OHARA KATSUHIRO 
+MAKINO TOMOYA</td><td>TOYOTA AUTOMATIC VEHICLE JOINT TYPE CONSULTATION</td><td>CN114312436A</td><td>CN</td><td>2020</td><td>B60L53/66 
+G06Q10/02 
+G06Q20/10</td><td>G06Q10/02 (EP,US) 
+G06Q30/04 (EP,US) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP)</td><td>2022-04-12</td><td>2022</td><td>80822760</td></tr>
+<tr><td>211</td><td>Source-load peer-to-peer electric energy interaction method based on Internet+</td><td>ZHOU HUA 
+LIN MINGXING 
+SHAO XIAO 
+LIU YANG 
+GUO LIN 
+LIU FENG 
+CHEN SHIJUN 
+CHEN HAOYU 
+FAN ZHIHUA 
+CHEN XIN 
+HUANG SHUNJIE 
+WANG HAIMING 
+FANG HUALIANG</td><td>TIANFU NEW AREA POWER SUPPLY COMPANY STATE GRID SICHUAN ELECTRIC POWER COMPANY 
+UNIV WUHAN</td><td>CN108269025A 
+CN108269025B</td><td>CN</td><td>2018</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q10/0637 (CN) 
+G06Q50/06 (CN) 
+Y04S10/50 (EP)</td><td>2018-07-10 
+2022-10-11</td><td>2018</td><td>62773524</td></tr>
+<tr><td>212</td><td>PORTABLE CHARGING DEVICE FOR ELECTRIC VEHICLES</td><td>ZORRILLA ASTUDILLO JOSE MANUEL [ES] 
+CANTERO DELGADO ALBERTO [ES] 
+POCOSTALES BUENAVIDA DAVID [ES] 
+SOLANO MARTIN DANIEL [ES]</td><td>DIGGIA SOLUTIONS S L [ES]</td><td>EP3846304A1</td><td>EP</td><td>2019</td><td>B60L53/16 
+B60L53/30 
+H02J7/00 
+H02J7/34</td><td>B60L53/14 (EP) 
+B60L53/53 (EP) 
+B60L53/57 (EP) 
+H02J7/00032 (EP) 
+H02J7/342 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y02T90/16 (EP)</td><td>2021-07-07</td><td>2021</td><td>69167602</td></tr>
+<tr><td>213</td><td>System for comprehensive energy management and intelligent user terminal</td><td>LIU DONG 
+CHEN ZHANGYU 
+WENG JIAMING 
+YAN LIXIA 
+YAN GUANGSHENG 
+YONG JUN 
+ZHOU MIN 
+YU WEI 
+LI ZHENG 
+TANG SIHUA</td><td>UNIV SHANGHAI JIAOTONG 
+MIANYANG POWER SUPPLY CO STATE GRID SICHUAN ELECTRIC POWER CO LTD 
+STATE GRID SICHUAN ELECTRIC POWER CO 
+STATE GRID CORP CHINA</td><td>CN110728393A</td><td>CN</td><td>2018</td><td>G06Q10/04 
+G06Q30/02 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q30/0283 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP) 
+Y04S50/14 (EP)</td><td>2020-01-24</td><td>2020</td><td>69217675</td></tr>
+<tr><td>214</td><td>Wind and light storage capacity configuration method considering full life cycle of electric vehicle charging station</td><td>GAO HUI 
+YU XIAOHUI 
+CAO JIANAN</td><td>UNIV NANJING POSTS &amp; TELECOMMUNICATIONS</td><td>CN113077071A</td><td>CN</td><td>2020</td><td>G06Q10/04 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q50/06 (CN)</td><td>2021-07-06</td><td>2021</td><td>76608900</td></tr>
+<tr><td>215</td><td>Electric vehicle battery swap station architecture compatible with photovoltaic solar charging and power grid commercial power charging</td><td></td><td>XIANG YUZE</td><td>CN113199959A</td><td>CN</td><td>2020</td><td>B60L53/51 
+B60L53/80</td><td>B60L53/51 (CN) 
+B60L53/80 (CN) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2021-08-03</td><td>2021</td><td>77024911</td></tr>
+<tr><td>216</td><td>Tractor Unit With On-Board Regenerative Braking Energy Storage for Stopover HVAC Operation Without Engine Idle</td><td>HEALY THOMAS JOSEPH [US] 
+WEBER ERIC [US]</td><td>HYLIION INC [US]</td><td>US2022266675A1</td><td>US</td><td>2017</td><td>B60K17/356 
+B60K6/22 
+B60K6/40 
+B60K6/48 
+B60K6/52 
+B60L1/00 
+B60L1/02 
+B60L50/15 
+B60L50/16 
+B60L50/50 
+B60L50/60 
+B60L58/13 
+B60L58/24 
+B60L7/18 
+B60W10/06 
+B60W10/08 
+B60W10/18 
+B60W10/30 
+B60W20/10 
+B60W20/14 
+B60W30/18 
+B60W50/08</td><td>B60K17/356 (US) 
+B60K6/22 (US) 
+B60K6/40 (US) 
+B60K6/48 (EP,US) 
+B60K6/52 (EP,US) 
+B60L1/003 (EP,US) 
+B60L1/02 (EP,US) 
+B60L50/15 (EP,US) 
+B60L50/16 (EP,US) 
+B60L50/50 (US) 
+B60L50/60 (EP,US) 
+B60L58/13 (EP,US) 
+B60L58/24 (EP,US) 
+B60L7/18 (EP,US) 
+B60W10/06 (EP,US) 
+B60W10/08 (EP,US) 
+B60W10/18 (US) 
+B60W10/30 (EP,US) 
+B60W20/10 (US) 
+B60W20/14 (US) 
+B60W30/18018 (US) 
+B60W30/18127 (US) 
+B60W50/082 (US) 
+B60K17/36 (EP) 
+B60K2001/0405 (EP) 
+B60L2200/28 (EP,US) 
+B60L2200/36 (EP,US) 
+B60L2200/46 (EP,US) 
+B60L2240/12 (EP,US) 
+B60L2240/14 (EP,US) 
+B60L2240/26 (EP,US) 
+B60L2240/423 (EP,US) 
+B60L2240/443 (EP,US) 
+B60L2240/463 (EP,US) 
+B60L2240/62 (EP,US) 
+B60L2240/64 (EP,US) 
+B60L2240/66 (EP,US) 
+B60L2240/68 (EP,US) 
+B60L2250/26 (EP,US) 
+B60L2260/26 (EP,US) 
+B60L2260/28 (EP,US) 
+B60L2270/40 (EP,US) 
+B60L2270/46 (EP,US) 
+B60W2300/125 (EP) 
+B60W2300/126 (US) 
+B60W2300/14 (US) 
+B60W2300/145 (US) 
+B60W2510/0657 (US) 
+B60W2510/18 (US) 
+B60W2510/244 (US) 
+B60W2510/246 (US) 
+B60W2520/04 (US) 
+B60W2520/403 (US) 
+B60W2710/065 (US) 
+B60W2710/08 (US) 
+B60W2710/083 (US) 
+B60W2710/18 (US) 
+B60W2710/244 (US) 
+B60W2710/248 (US) 
+B60W2710/30 (US) 
+B60W2710/305 (US) 
+B60W2720/403 (US) 
+B60Y2200/1422 (EP) 
+B60Y2200/147 (US) 
+B60Y2200/148 (US) 
+B60Y2300/18125 (US) 
+B60Y2300/28 (US) 
+B60Y2306/07 (US) 
+Y02T10/64 (EP,US) 
+Y02T10/70 (US) 
+Y02T10/7072 (US) 
+Y02T10/72 (US) 
+Y02T90/16 (EP,US) 
+Y10S903/93 (EP,US) 
+Y10S903/947 (EP,US)</td><td>2022-08-25</td><td>2018</td><td>61521841</td></tr>
+<tr><td>217</td><td>Electric car charging system</td><td>LIN YU-SHUN [TW]</td><td>LIN YU SHUN [TW]</td><td>TWM587608U</td><td>TW</td><td>2019</td><td>B60L53/31 
+B60L53/65</td><td>Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2019-12-11</td><td>2019</td><td>69585349</td></tr>
+<tr><td>218</td><td>Waterproof device of electric vehicle mobile charging pile</td><td>CAI YI 
+WANG CHENG 
+XU PENG 
+JU JUN</td><td>TAIZHOU XINTONG NEW ENERGY AUTOMOBILE DEV CO LTD</td><td>CN212376364U</td><td>CN</td><td>2020</td><td>B60L53/30 
+E04H6/02 
+H02S20/23</td><td>Y02B10/10 (EP) 
+Y02E10/50 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2021-01-19</td><td>2021</td><td>74161550</td></tr>
+<tr><td>219</td><td>A virtual power plant optimal scheduling method considering demand response and carbon trading</td><td>ZHANG XIZHU 
+WANG LEI 
+LIU ZUOYU 
+WEN FUSHUAN 
+DAI PAN 
+HU ZHESHENG 
+LIU ZHAOYU 
+ZHU CHAO</td><td>ECONOMIC TECH RESEARCH INSTITUTE OF STATE GRID ZHEJIANG ELECTRIC POWER CO LTD 
+HANGZHOU GUODIAN POWER TECH DEVELOPMENT CO LTD</td><td>CN109523052A 
+CN109523052B</td><td>CN</td><td>2018</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q10/06312 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y02T10/40 (EP) 
+Y04S10/50 (EP)</td><td>2019-03-26 
+2021-09-10</td><td>2019</td><td>65771535</td></tr>
+<tr><td>220</td><td>Multi-class energy source pricing and energy management method of park energy source internet operator</td><td>CEN HAIFENG 
+CHEN JIAN 
+WANG KE 
+XU YUAN</td><td>GUANGZHOU POWER SUPPLY CO LTD</td><td>CN108876040A</td><td>CN</td><td>2018</td><td>G06Q10/04 
+G06Q10/06 
+G06Q30/02 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q10/06315 (CN) 
+G06Q30/0206 (CN) 
+G06Q50/06 (CN)</td><td>2018-11-23</td><td>2018</td><td>64340164</td></tr>
+<tr><td>221</td><td>Expressway electric vehicle charging and battery replacing station utilizing wind-solar storage technology</td><td>YAO TIANLIANG 
+LIU QIAO 
+LI ZHIWEI 
+WU XINGQUAN 
+QU JIPING 
+LIU HONG 
+SUN BEIBEI 
+ZHANG JIAN 
+YANG PO 
+ZHAO QI</td><td>CHINA ENERGY ENGINEERING GROUP GANSU ELECTRIC POWER DESIGN INST CO LTD</td><td>CN209719292U</td><td>CN</td><td>2018</td><td>B60L53/31 
+B60L53/51 
+B60L53/52 
+B60L53/80 
+B60S5/06 
+F03D9/25 
+H02J7/35</td><td>Y02B10/10 (EP) 
+Y02B10/30 (EP) 
+Y02E10/72 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2019-12-03</td><td>2019</td><td>68658138</td></tr>
+<tr><td>222</td><td>MOLECULAR COMPOSITES OF FUNCTIONAL SILICA AND NATURAL RUBBER</td><td>ROSENMAYER CHARLES THOMAS [US]</td><td>SILPARA TECH LLC [US]</td><td>EP3800066A1</td><td>EP</td><td>2019</td><td>B60C1/00 
+C08L7/02</td><td>B60C1/0016 (EP,US) 
+C08G77/20 (US) 
+C08G77/26 (US) 
+C08K3/36 (CN,US) 
+C08K5/053 (US) 
+C08K5/07 (US) 
+C08K5/09 (US) 
+C08K5/544 (CN) 
+C08K9/02 (US) 
+C08L7/00 (CN) 
+C08L7/02 (EP,US) 
+C08L2205/08 (US) 
+Y02T10/86 (EP) 
+C08K3/36, C08L7/00, INV (CN)       
+C08K5/544, C08L7/00, INV (CN)       
+C08L7/00, C08L83/08, C08K3/36, INV (CN)       
+C08L7/02, C08K3/04, C08K3/36, C08L9/00, C08L83/06, INV (EP)       
+C08L7/02, C08L83/06, INV (EP)      </td><td>2021-04-07</td><td>2021</td><td>72752698</td></tr>
+<tr><td>223</td><td>Electric vehicle resource flexibility prediction method based on neural network</td><td>HUANG QIRU 
+HU JUNJIE</td><td>UNIV NORTH CHINA ELECTRIC POWER</td><td>CN112836287A</td><td>CN</td><td>2020</td><td>G06F30/15 
+G06F30/27 
+G06N3/04 
+G06Q10/04 
+G06Q50/06 
+G06F113/04</td><td>G06F30/15 (CN) 
+G06F30/27 (CN) 
+G06N3/045 (CN) 
+G06Q10/04 (CN) 
+G06Q50/06 (CN) 
+G06F2113/04 (CN)</td><td>2021-05-25</td><td>2021</td><td>75923800</td></tr>
+<tr><td>224</td><td>PROCESS FOR THE CONTINUOUS CONVERSION OF PART OF THE KINETIC ENERGY OF BODIES INTO ELECTRICAL ENERGY</td><td>FERNÁNDEZ ARCOS MANUEL [ES]</td><td>FERNANDEZ ARCOS MANUEL [ES]</td><td>WO2021240030A1</td><td>WO</td><td>2020</td><td>B60L7/10 
+B60W30/18</td><td>B60L7/10 (EP,ES) 
+B60W30/18 (EP) 
+B60W30/18127 (ES) 
+Y02T10/60 (EP)</td><td>2021-12-02</td><td>2021</td><td>78692722</td></tr>
+<tr><td>225</td><td>Heat energy utilization system for new energy automobile and new energy automobile</td><td>WANG ZHAORUI</td><td>WANG ZHAORUI</td><td>CN215983281U</td><td>CN</td><td>2021</td><td>B60L58/27 
+F24S10/40 
+F24S60/30 
+F24S70/30 
+F24S80/30</td><td>Y02E10/44 (EP) 
+Y02T10/70 (EP)</td><td>2022-03-08</td><td>2022</td><td>80574879</td></tr>
+<tr><td>226</td><td>Isolation monitoring device and method</td><td>CLAUVELIN NICOLAS [US] 
+MARTEN VICTOR [US] 
+MILIOS IOANNIS [US]</td><td>SENDYNE CORP [US]</td><td>US10852332B2 
+US2019242932A1</td><td>US</td><td>2016</td><td>G01R31/02 
+B60L3/00 
+G01R27/02 
+G01R27/18 
+G01R31/00 
+G01R31/50</td><td>B60L3/0046 (EP,US) 
+B60L3/0069 (US) 
+B60L58/10 (EP) 
+G01R27/025 (EP,US) 
+G01R27/18 (EP,US) 
+G01R31/007 (EP,US) 
+G01R31/52 (EP,US) 
+Y02T10/70 (EP)</td><td>2019-08-08 
+2020-12-01</td><td>2018</td><td>62624735</td></tr>
+<tr><td>227</td><td>Typical charging station comprehensive energy collaborative interaction optimal configuration method and system</td><td>LI DONGXUE 
+LIU YAN 
+WU ZHUOHANG 
+LIU RAN 
+CHEN YOUHUI 
+LU TIANQI 
+ZHU HAOYI 
+CHEN GUOLONG 
+HU RUIXUE 
+ZHANG JI 
+JING YONGTENG 
+SHI JINYONG 
+WANG YINGHUI 
+ZHAO MINGYU 
+WANG ZICHENG 
+LI YUEQIANG</td><td>ECONOMIC AND TECHNICAL RES INSTITUTE OF LIAONING PROVINCE ELECTRIC POWER CO LTD 
+DISC POWER SUPPLY COMPANY OF LIAONING PROVINCE ELECTRIC POWER LTD COMPANY OF STATE GRID 
+NAT ELECTRICITY NANYI NANJING CONTROL SYSTEM CO LTD 
+SHENYANG INDUSTRIAL UNIV 
+SOUTHERY SCIENCE AND TECH CO LTD 
+BEIJING STATE GRID PRERET HIGH VOLTAGE POWER TRANS TECHNOLOGY CO LTD 
+NOURIT GROUP LTD COMPANY 
+LIMITED COMPANY OF STATE GRID ELECTRIC POWER SCIENCE RES INSTITUTE 
+STATE GRID CORP CHINA</td><td>CN114243795A</td><td>CN</td><td>2021</td><td>B60L53/51 
+B60L53/52 
+B60L53/53 
+G06F30/20 
+H02J11/00 
+H02J3/46</td><td>B60L53/51 (CN) 
+B60L53/52 (CN) 
+B60L53/53 (CN) 
+G06F30/20 (CN) 
+H02J11/00 (CN) 
+H02J3/46 (CN) 
+H02J2300/22 (CN) 
+H02J2300/28 (CN) 
+H02J2300/30 (CN) 
+Y02T10/40 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2022-03-25</td><td>2022</td><td>80749570</td></tr>
+<tr><td>228</td><td>Solar energy charging device for shared electric vehicle</td><td>CHANG XIANGHUI 
+ZHANG MIAO 
+FENG ZHIJIE 
+ZHOU XIANZHENG 
+CHEN KEMING</td><td>UNIV SOUTHWEST JIAOTONG</td><td>CN108327559A 
+CN108327559B</td><td>CN</td><td>2018</td><td>B60L11/18 
+B08B1/00 
+B08B3/02 
+H02S20/32 
+B60L53/31 
+B60L53/51</td><td>B08B1/002 (CN) 
+B08B3/024 (CN) 
+B60L53/31 (CN) 
+B60L53/51 (CN) 
+H02S20/32 (CN) 
+Y02E10/50 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2018-07-27 
+2020-08-25</td><td>2018</td><td>62929217</td></tr>
+<tr><td>229</td><td>METHOD AND SYSTEM FOR ADAPTIVELY CHARGING OF ELECTRIC VEHICLES</td><td>CARDINAELS WIM [BE] 
+DE CRAEMER KLAAS [BE] 
+THOELEN KLAAS [BE]</td><td>VITO NV [BE] 
+UNIV LEUVEN KATH [BE]</td><td>EP4000996A1</td><td>EP</td><td>2020</td><td>B60L53/62 
+B60L53/66</td><td>B60L53/62 (EP) 
+B60L53/63 (EP) 
+B60L53/64 (EP) 
+B60L53/66 (EP) 
+H02J13/00004 (EP) 
+H02J7/0013 (EP) 
+B60L2240/80 (EP) 
+B60L2250/14 (EP) 
+B60L2250/20 (EP) 
+B60L2260/44 (EP) 
+H02J2310/48 (EP) 
+H02J7/00032 (EP) 
+H02J7/0048 (EP) 
+Y02E60/00 (EP) 
+Y04S10/126 (EP) 
+Y04S30/14 (EP)</td><td>2022-05-25</td><td>2022</td><td>73597831</td></tr>
+<tr><td>230</td><td>Direct-current micro-grid economic dispatching method considering electric vehicle user requirements</td><td>MENG RUNQUAN 
+ZHAO JIA 
+WANG LEI 
+WEI BIN 
+HAN XIAOQING</td><td>UNIV TAIYUAN TECHNOLOGY</td><td>CN112785048A</td><td>CN</td><td>2021</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+H02J1/10 
+H02J1/14</td><td>G06Q10/04 (CN) 
+G06Q10/06315 (CN) 
+G06Q50/06 (CN) 
+H02J1/109 (CN) 
+H02J1/14 (CN)</td><td>2021-05-11</td><td>2021</td><td>75756062</td></tr>
+<tr><td>231</td><td>VEHICLE DISPATCH DEVICE, VEHICLE DISPATCH METHOD, COMPUTER PROGRAM, AND COMPUTER-READABLE RECORDING MEDIUM</td><td>NISHIMURA SHIGEKI [JP] 
+TANADA SHOICHI [JP]</td><td>SUMITOMO ELECTRIC INDUSTRIES [JP]</td><td>US2021241626A1</td><td>US</td><td>2018</td><td>B60L58/13 
+G01C21/34 
+G06Q10/02 
+G06Q50/30 
+G08G1/00</td><td>B60L58/13 (EP,US) 
+G01C21/3469 (US) 
+G06Q10/02 (EP,US) 
+G06Q50/30 (EP,US) 
+G08G1/202 (EP,US) 
+B60L2240/62 (EP,US) 
+G01C21/343 (EP) 
+Y02T10/72 (EP) 
+Y02T90/167 (EP)</td><td>2021-08-05</td><td>2019</td><td>68616933</td></tr>
+<tr><td>232</td><td>Apparatus, system and method for high efficiency internal combustion engines and hybrid vehicles</td><td>CHRISTOPHER HEANLEY [GB]</td><td>CAE IP LLP [GB]</td><td>GB2584531A</td><td>GB</td><td>2019</td><td>B60K16/00 
+B60L50/10 
+C25B1/04 
+F02B43/10</td><td></td><td>2020-12-09</td><td>2020</td><td>66377315</td></tr>
+<tr><td>233</td><td>Multi-target energy management system in multi-energy community based on optimal user cluster of multi-agent system</td><td>XIONG LINYUN 
+HE DONGLIN 
+HE YALAN</td><td>UNIV CHONGQING</td><td>CN113487207A 
+CN113487207B</td><td>CN</td><td>2021</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q10/06312 (CN) 
+G06Q10/0637 (CN) 
+G06Q50/06 (CN)</td><td>2021-10-08 
+2022-06-28</td><td>2021</td><td>77939825</td></tr>
+<tr><td>234</td><td>Vehicle network interaction carbon emission reduction accounting method and system based on block chain</td><td>WANG LI 
+PENG DAIWEN 
+YAN HUI 
+HAN QINGWEN 
+SUN SHUANG</td><td>BEIJING CONNECTED NETWORK SCIENCE AND TECH LIMITED COMPANY</td><td>CN114218679A</td><td>CN</td><td>2021</td><td>G06F30/15 
+G06F30/20 
+G06Q10/06 
+G06Q10/10 
+G06Q50/06 
+G06Q50/26 
+G06Q50/30</td><td>G06F30/15 (CN) 
+G06F30/20 (CN) 
+G06Q10/0631 (CN) 
+G06Q10/103 (CN) 
+G06Q50/06 (CN) 
+G06Q50/26 (CN) 
+G06Q50/30 (CN) 
+Y02A90/10 (EP)</td><td>2022-03-22</td><td>2022</td><td>80704107</td></tr>
+<tr><td>235</td><td>A HELIX MOTION BASED RAIL VEHICLE OPERATING METHOD AND SYSTEM</td><td>AL-JOBORY FAWAZ [IQ]</td><td>AL JOBORY FAWAZ [IQ] 
+AL MAADHEEDI ZEYAD [MY]</td><td>WO2018042234A1</td><td>WO</td><td>2016</td><td>B60L13/03 
+B60L13/04 
+B61B13/10 
+B61B13/12 
+B61B3/02 
+B61C11/00 
+B65G35/06 
+B66B7/02 
+B66B9/02 
+F03D9/43 
+G09B9/12 
+G09B9/46 
+H02M7/34</td><td>B60L13/03 (EP) 
+B60L13/04 (EP) 
+B61B13/10 (EP) 
+B61B13/12 (EP) 
+B66B9/025 (EP) 
+F03D13/10 (EP) 
+F03D13/20 (EP) 
+F03D3/02 (EP) 
+F03D9/43 (EP) 
+G09B9/12 (EP) 
+G09B9/46 (EP) 
+H02M3/40 (EP) 
+H02M7/60 (EP) 
+F05B2230/61 (EP) 
+Y02B10/30 (EP) 
+Y02E10/728 (EP) 
+Y02E10/74 (EP) 
+Y02E10/76 (EP) 
+Y02T30/00 (EP)</td><td>2018-03-08</td><td>2018</td><td>61300194</td></tr>
+<tr><td>236</td><td>SYSTEMS, METHODS, PROCESSES, AND DEVICES FOR DELIVERING RENEWABLE ENERGY TO ELECTRIC VEHICLES USING AN UNCREWED BATTERY-RECHARGING VEHICLE</td><td>KWAPISZ JAKUB [CH]</td><td>KOLBEV GMBH [CH]</td><td>US2022118878A1</td><td>US</td><td>2018</td><td>B60L53/126 
+B60L53/35 
+B60L53/57 
+B60L53/68</td><td>B60L1/006 (EP) 
+B60L50/60 (EP) 
+B60L50/70 (EP) 
+B60L50/75 (EP) 
+B60L53/12 (EP) 
+B60L53/126 (EP,US) 
+B60L53/14 (EP) 
+B60L53/305 (EP) 
+B60L53/31 (EP) 
+B60L53/35 (US) 
+B60L53/36 (EP) 
+B60L53/38 (EP) 
+B60L53/53 (EP) 
+B60L53/54 (EP) 
+B60L53/57 (US) 
+B60L53/66 (EP) 
+B60L53/67 (EP) 
+B60L53/68 (EP,US) 
+B60L58/12 (EP) 
+H02J50/005 (EP) 
+B60L2200/36 (EP) 
+B60L2240/12 (EP) 
+B60L2240/24 (EP) 
+B60L2240/62 (EP) 
+B60L2240/70 (EP) 
+B60L2240/72 (US) 
+B60L2250/12 (EP) 
+H02J50/12 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/72 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y02T90/16 (EP) 
+Y02T90/40 (EP)</td><td>2022-04-21</td><td>2020</td><td>68732013</td></tr>
+<tr><td>237</td><td>Power distribution network voltage regulation system and method based on electric driverless car and V2G technology</td><td>LIN RUNSHENG 
+ZHU QIFENG 
+CHEN TIANLUN</td><td>SHENZHEN INSTITUTE OF RESEARCH AND INNOVATION THE UNIV OF HONG KONG</td><td>CN113541150A</td><td>CN</td><td>2020</td><td>B60L55/00 
+H02J3/12</td><td></td><td>2021-10-22</td><td>2021</td><td>78093475</td></tr>
+<tr><td>238</td><td>METHOD FOR OPTIMISED MANAGEMENT OF THE SEQUENCING OF VEHICLE CHARGING ON A LOCAL ELECTRICITY GRID</td><td>MALISANI PAUL [FR] 
+POGNANT-GROS PHILIPPE [FR] 
+ZHU JIAMIN [FR]</td><td>IFP ENERGIES NOW [FR]</td><td>WO2022078777A1</td><td>WO</td><td>2020</td><td>B60L53/62 
+B60L53/63 
+B60L53/64 
+B60L58/12</td><td>B60L53/62 (EP) 
+B60L53/63 (EP) 
+B60L53/64 (EP) 
+B60L53/65 (EP) 
+B60L53/66 (EP) 
+B60L58/12 (EP) 
+Y02E60/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y02T90/16 (EP) 
+Y02T90/167 (EP) 
+Y04S10/126 (EP) 
+Y04S30/14 (EP)</td><td>2022-04-21</td><td>2022</td><td>74205972</td></tr>
+<tr><td>239</td><td>Novel town peak clipping and valley filling double-layer optimization operation method considering participation of electric vehicles in park</td><td>FENG JIANG 
+LI FENG</td><td>ZHONGSCHAI ENGINEERING TECH CO LTD 
+ZHONGJIADI ELECTRICAL TECH LIMITED COMPANY</td><td>CN114580278A</td><td>CN</td><td>2022</td><td>B60L50/60 
+G06F30/27 
+G06Q10/06 
+G06Q50/06 
+H02J3/00 
+H02J3/32 
+H02J3/38 
+G06F111/04 
+G06F111/06 
+G06F113/06</td><td>B60L50/60 (CN) 
+G06F30/27 (CN) 
+G06Q10/06315 (CN) 
+G06Q50/06 (CN) 
+H02J3/0075 (CN) 
+H02J3/008 (CN) 
+H02J3/322 (CN) 
+H02J3/381 (CN) 
+G06F2111/04 (CN) 
+G06F2111/06 (CN) 
+G06F2113/06 (CN) 
+H02J2203/20 (CN) 
+H02J2300/24 (CN) 
+H02J2300/28 (CN) 
+H02J2310/48 (CN) 
+H02J2310/64 (CN) 
+Y02T10/70 (EP)</td><td>2022-06-03</td><td>2022</td><td>81777753</td></tr>
+<tr><td>240</td><td>METHOD FOR CONTROLLING ENERGY EXCHANGE BETWEEN A SET OF ASSETS AND AN ENERGY NETWORK, COMPUTER PROGRAM, COMPUTER SYSTEM AND VIRTUAL POWER PLANT</td><td>MORENO JUAN [DE] 
+CLEVEN MARTIN [DE] 
+CORTIANA GIORGIO [DE] 
+O&apos;MEARA COREY [DE]</td><td>E ON DIGITAL TECH GMBH [DE]</td><td>WO2022042828A1</td><td>WO</td><td>2020</td><td>G06Q10/00 
+G06Q10/04 
+G06Q50/06</td><td>G06Q10/00 (EP) 
+G06Q10/04 (EP) 
+G06Q50/06 (EP)</td><td>2022-03-03</td><td>2022</td><td>72243127</td></tr>
+<tr><td>241</td><td>Transformer area optimal scheduling method and system with participation of electric vehicles</td><td>GONG TAORONG 
+LI DEZHI 
+CHEN SONGSONG 
+BU FANPENG 
+SHI KUN 
+GONG FEIXIANG 
+DONG MINGYU 
+HAN NINGHUI 
+LIU JIDONG 
+LI YUNTING 
+ZHANG HONGLI 
+ZHU HAOMING</td><td>CHINA ELECTRIC POWER RES INST CO LTD 
+STATE GRID SHANDONG ELECTRIC POWER CO 
+STATE GRID CORP CHINA</td><td>CN110889581A</td><td>CN</td><td>2019</td><td>G06N3/12 
+G06Q10/06 
+G06Q50/06</td><td>G06N3/126 (CN) 
+G06Q10/06315 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP)</td><td>2020-03-17</td><td>2020</td><td>69745975</td></tr>
+<tr><td>242</td><td>Park energy system operation optimization method</td><td>KANG MENG 
+ZHONG YIQING 
+WANG DEXUE 
+WANG QI 
+WEN GANGCHENG 
+SHI XIN 
+FANG FANG</td><td>HEBEI MALE ANAN BRANCH COMPANY OF CHINESE HUANENERGY GROUP LTD COMPANY 
+UNIV NORTH CHINA ELECTRIC POWER</td><td>CN114519449A</td><td>CN</td><td>2021</td><td>G06Q10/04 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q50/06 (CN) 
+Y04S10/50 (EP)</td><td>2022-05-20</td><td>2022</td><td>81596141</td></tr>
+<tr><td>243</td><td>Multi power sourced electric vehicle</td><td>COVIC GRANT ANTHONY 
+BOYS JOHN TALBOT</td><td>AUCKLAND UNISERVICES LTD</td><td>CN108407644A 
+CN108407644B</td><td>CN</td><td>2007</td><td>B60L11/18 
+H01F38/14 
+B60L53/12 
+B60L53/66 
+H02J50/10</td><td>B60L53/11 (EP,US) 
+B60L53/12 (KR,US) 
+B60L53/124 (EP,US) 
+B60L53/126 (EP,US) 
+B60L53/14 (EP,US) 
+B60L53/16 (KR) 
+B60L53/18 (KR) 
+B60L53/305 (EP,US) 
+B60L53/38 (EP,US) 
+B60L53/51 (EP,US) 
+B60L53/62 (EP,US) 
+B60L53/63 (EP,US) 
+B60L55/00 (EP,US) 
+B60L8/006 (EP,US) 
+H01F27/36 (US) 
+H01F27/363 (EP,US) 
+H01F38/14 (EP,US) 
+H01F5/00 (US) 
+H02J50/10 (EP,KR,US) 
+H02J50/40 (EP,US) 
+H02J50/70 (EP,US) 
+H02J50/90 (EP,US) 
+H02J7/0042 (EP,US) 
+B60L2250/16 (EP,KR,US) 
+B60L2270/147 (EP,US) 
+B60Y2200/91 (KR) 
+H02J2310/48 (EP,US) 
+Y02E60/00 (EP,US) 
+Y02T10/62 (EP,US) 
+Y02T10/70 (EP,KR,US) 
+Y02T10/7072 (EP,KR,US) 
+Y02T90/12 (EP,US) 
+Y02T90/14 (EP,KR,US) 
+Y02T90/16 (EP,US) 
+Y04S10/126 (EP,US)</td><td>2018-08-17 
+2022-05-03</td><td>2008</td><td>42049547</td></tr>
+<tr><td>244</td><td>Comprehensive benefit evaluation method for smart power grid</td><td>XIAO ZHENFENG 
+WU YEFAN 
+LIU HAOTIAN 
+LI PEIZHE 
+LIU LEI 
+ZHANG LIN 
+CHEN YANG 
+CHEN ZHONGWEI 
+WANG YICHAO 
+XIAO SHUAI 
+LIU JINGJING</td><td>STATE GRID HUNAN ELECTRIC POWER CO LTD 
+ECONOMIC TECH RESEARCH INSTITUTE STATE GRID HUNAN ELECTRIC POWER COMPANY 
+STATE GRID CORP CHINA</td><td>CN110909925A</td><td>CN</td><td>2019</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q10/06393 (CN) 
+G06Q50/06 (CN)</td><td>2020-03-24</td><td>2020</td><td>69817547</td></tr>
+<tr><td>245</td><td>PROVIDING ON-DEMAND POWER CHARGING FOR ELECTRIC VEHICLES</td><td>WESTIN ERIK [US]</td><td>LANDIS &amp; GYR INNOVATIONS INC [US]</td><td>US11225162B2 
+US2020101863A1</td><td>US</td><td>2018</td><td>B60L53/30 
+B60L53/51 
+B60L53/63 
+B60L53/64 
+B60L53/66 
+B60L53/68</td><td>B60L1/20 (EP) 
+B60L53/126 (EP) 
+B60L53/305 (US) 
+B60L53/51 (EP,US) 
+B60L53/57 (EP) 
+B60L53/63 (US) 
+B60L53/64 (US) 
+B60L53/665 (US) 
+B60L53/68 (US) 
+B60L55/00 (EP) 
+H02J7/00032 (EP) 
+Y02E60/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y04S10/126 (EP)</td><td>2020-04-02 
+2022-01-18</td><td>2020</td><td>68165849</td></tr>
+<tr><td>246</td><td>Energy optimization method and device for light storage type electric vehicle charging station</td><td>WANG WEN 
+WANG JIYE 
+YAN HUI 
+DING NING 
+CAO XI 
+SU SHU 
+LI PEIJUN 
+ZHANG JIAN</td><td>STATE GRID ELEC VEHICLE SERVICE CO LTD 
+CHINA ELECTRIC POWER RES INST CO LTD 
+STATE GRID ZHEJIANG ELECTRIC POWER CO LTD</td><td>CN111319505A</td><td>CN</td><td>2018</td><td>B60L53/64 
+H02J3/28 
+H02J3/38</td><td>H02J3/28 (CN) 
+Y02E70/30 (EP) 
+Y02T10/40 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2020-06-23</td><td>2020</td><td>71168583</td></tr>
+<tr><td>247</td><td>Docking station for motorised vehicles</td><td>WANG ZIZI</td><td>NEURON MOBILITY PTE LTD</td><td>CN109476238A</td><td>CN</td><td>2016</td><td>B60L53/30 
+E04H6/00</td><td>B60L50/20 (EP) 
+B60L53/16 (EP,US) 
+B60L53/18 (EP,US) 
+B60L53/305 (US) 
+B60L53/31 (EP,US) 
+B60L53/60 (US) 
+B60L53/68 (EP,US) 
+B60L53/80 (US) 
+B60S5/06 (US) 
+B62H1/02 (KR) 
+B62H5/00 (EP,US) 
+B62H5/14 (KR) 
+B62J43/16 (EP,US) 
+B62J45/20 (EP,US) 
+B62J45/40 (KR) 
+B62J50/21 (KR) 
+B62K11/007 (KR) 
+B62K11/02 (KR) 
+B62K11/10 (US) 
+B62K15/006 (EP,US) 
+B62K3/002 (EP,US) 
+B62M7/00 (KR) 
+G05D1/0214 (US) 
+G05D1/0278 (US) 
+G07C5/085 (US) 
+B60L2200/12 (EP,US) 
+B60L2200/24 (EP,KR,US) 
+B60L2250/10 (EP,US) 
+B60L2250/16 (US) 
+B60L2270/36 (EP,US) 
+B60Y2200/126 (KR) 
+B62H2003/005 (EP,US) 
+B62J45/00 (US) 
+B62J50/22 (EP,US) 
+B62K2202/00 (US) 
+B62K2204/00 (EP,US) 
+Y02T10/70 (EP,US) 
+Y02T10/7072 (EP,US) 
+Y02T90/12 (EP,US) 
+Y02T90/14 (EP,US) 
+Y02T90/16 (EP,US) 
+Y02T90/167 (US) 
+Y04S30/12 (US)</td><td>2019-03-15</td><td>2018</td><td>61024020</td></tr>
+<tr><td>248</td><td>POWER SUPPLY SYSTEM</td><td>MITA KATSUSHI 
+TAKANASHI MASAKI</td><td>TOYOTA CENTRAL RES &amp; DEV</td><td>JP2019080369A</td><td>JP</td><td>2017</td><td>B60L50/40 
+B60L50/50 
+B60L53/00 
+B60L55/00 
+B60L58/00 
+G01C21/34 
+G06Q50/06 
+G08G1/00 
+H02J13/00 
+H02J3/00 
+H02J3/38 
+H02J50/10 
+H02J7/00 
+H02J7/35</td><td>Y02B90/20 (EP) 
+Y02E60/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/14 (EP) 
+Y02T90/16 (EP) 
+Y02T90/167 (EP) 
+Y04S10/126 (EP) 
+Y04S30/12 (EP) 
+Y04S30/14 (EP) 
+Y04S40/126 (EP)</td><td>2019-05-23</td><td>2019</td><td>66628210</td></tr>
+<tr><td>249</td><td>Park energy station multi-energy cooperative operation system, method and device and storage medium</td><td>JIA XIAOQIANG 
+CHEN HONGYIN 
+LI DEZHI 
+WANG SONGCEN 
+ZHONG MING 
+YU YAOXIAN 
+ZHANG XINHE 
+LIU KAICHENG 
+QIN JIAN 
+HUANG WEI 
+HE GUIXIONG 
+QI HUIWEN 
+ZHANG XIANGYU 
+XU ZHENBO</td><td>CHINA ELECTRIC POWER RES INST CO LTD 
+STATE GRID CORP CHINA 
+STATE GRID SHANXI ELECTRIC POWER CO 
+ECONOMIC RES INSTITUTE OF STATE GRID SHANXI ELECTRIC POWER COMPANY</td><td>CN115186434A</td><td>CN</td><td>2022</td><td>G06F30/20 
+G06Q10/04 
+G06Q50/06 
+H02J3/00</td><td>G06F30/20 (CN) 
+G06Q10/04 (CN) 
+G06Q50/06 (CN) 
+H02J3/003 (CN)</td><td>2022-10-14</td><td>2022</td><td>83513472</td></tr>
+<tr><td>250</td><td>一种虚拟电厂优化调度方法及装置</td><td></td><td></td><td>CN115358519A</td><td>CN</td><td>2022</td><td>G06Q10/04 
+G06Q10/06 
+G06Q30/02 
+G06Q50/06</td><td>Y04S10/50 (EP)</td><td>2022-11-18</td><td>2022</td><td>84031829</td></tr>
+<tr><td>251</td><td>POWER ASSET MANAGEMENT DEVICE, POWER ASSET MANAGEMENT SYSTEM AND POWER ASSET MANAGEMENT METHOD</td><td>IWASAKI TATSUYUKI</td><td>EPUKO KK</td><td>JP2022104481A 
+JP6970401B1</td><td>JP</td><td>2020</td><td>G06Q50/06</td><td>Y04S10/50 (EP)</td><td>2022-07-08 
+2021-11-24</td><td>2021</td><td>78605709</td></tr>
+<tr><td>252</td><td>POWER ASSET MANAGEMENT DEVICE, POWER ASSET MANAGEMENT SYSTEM AND POWER ASSET MANAGEMENT METHOD</td><td>IWASAKI TATSUYUKI</td><td>EPUKO KK</td><td>JP2022104544A</td><td>JP</td><td>2021</td><td>G06Q50/06</td><td></td><td>2022-07-08</td><td>2022</td><td>82279466</td></tr>
+<tr><td>253</td><td>Method for promoting clean energy consumption through source-network-load-storage interaction based on car-pooling algorithm</td><td>FENG YINGCHUN 
+YAO YUNTING 
+JIANG YU 
+GAO CIWEI 
+CHEN TAO 
+ZHAO TONG</td><td>UNIV SOUTHEAST 
+JIANGSU ELECTRIC POWER TRADING CENTER CO LTD</td><td>CN113409146A</td><td>CN</td><td>2021</td><td>G06Q10/06 
+G06Q20/36 
+G06Q40/04 
+G06Q50/06</td><td>G06Q10/0637 (CN) 
+G06Q20/367 (CN) 
+G06Q40/04 (CN) 
+G06Q50/06 (CN) 
+Y04S10/50 (EP) 
+Y04S50/12 (EP)</td><td>2021-09-17</td><td>2021</td><td>77685192</td></tr>
+<tr><td>254</td><td>SCORING CHARGING EVENTS FOR ELECTRIC VEHICLES</td><td>MANFIELD LUCAS [US] 
+NORTH FORREST [US] 
+PETROSIAN ARMEN [US] 
+WILD NICK [US]</td><td>RECARGO INC [US]</td><td>US2021201369A1</td><td>US</td><td>2013</td><td>B60L1/00 
+B60L1/02 
+B60L1/14 
+B60L3/12 
+B60L50/52 
+B60L50/62 
+B60L53/14 
+B60L53/30 
+B60L53/63 
+B60L53/64 
+B60L53/65 
+B60L53/66 
+B60L53/68 
+G06Q30/02 
+G06Q50/30</td><td>B60L1/003 (EP,US) 
+B60L1/02 (EP,US) 
+B60L1/14 (EP,US) 
+B60L3/12 (EP,US) 
+B60L50/52 (EP,US) 
+B60L50/62 (EP,US) 
+B60L53/14 (EP,US) 
+B60L53/305 (EP,US) 
+B60L53/63 (EP,US) 
+B60L53/64 (EP,US) 
+B60L53/65 (EP,US) 
+B60L53/665 (EP,US) 
+B60L53/68 (EP,US) 
+G06Q30/0282 (EP,US) 
+G06Q50/30 (EP,US) 
+B60L2240/12 (EP,US) 
+B60L2240/14 (EP,US) 
+B60L2240/34 (EP,US) 
+B60L2240/36 (EP,US) 
+B60L2240/421 (EP,US) 
+B60L2240/425 (EP,US) 
+B60L2240/445 (EP,US) 
+B60L2240/622 (EP,US) 
+B60L2240/665 (EP,US) 
+B60L2240/72 (EP,US) 
+B60L2240/80 (EP,US) 
+B60L2250/22 (EP,US) 
+Y02E60/00 (EP,US) 
+Y02T10/62 (EP,US) 
+Y02T10/64 (EP,US) 
+Y02T10/70 (US) 
+Y02T10/7072 (US) 
+Y02T10/72 (EP,US) 
+Y02T90/12 (US) 
+Y02T90/14 (EP,US) 
+Y02T90/16 (US) 
+Y02T90/167 (EP,US) 
+Y04S10/126 (EP,US) 
+Y04S30/14 (EP,US)</td><td>2021-07-01</td><td>2015</td><td>52391338</td></tr>
+<tr><td>255</td><td>Electric vehicle optimal scheduling method and terminal device</td><td>JING ZHIPENG 
+WANG YING 
+SHAO HUA 
+ZHANG ZHANG 
+ZHANG QIANMAO 
+LIU XUEFEI 
+QI XIAOGUANG 
+MA GUOZHEN 
+YUAN BO 
+HU SHIYAO 
+TANG SHUAI 
+ZHANG LIJIE 
+XI PENG 
+ZHENG ZIYAO 
+LIU RUI 
+LI ZHENWEI 
+REN HUI 
+ZHANG AIWEI</td><td>STATE POWER GRID HEBEI ELECTRIC POWER CO LTD ECONOMY TECH RESEARCH INSTITUTE 
+NORTH CHINA ELECTRIC POWER UNIV BAODING</td><td>CN110110895A</td><td>CN</td><td>2019</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q10/06312 (CN) 
+G06Q50/06 (CN)</td><td>2019-08-09</td><td>2019</td><td>67485308</td></tr>
+<tr><td>256</td><td>Network loss collaborative optimization method for micro-grid community</td><td>CHEN CHANGSONG 
+XU ZHIWEN 
+ZHANG JINGYUE 
+YANG TIANHAO 
+DUAN SHANXU</td><td>UNIV HUAZHONG SCIENCE TECH</td><td>CN114912235A</td><td>CN</td><td>2022</td><td>G06F30/18 
+G06F30/25 
+G06Q10/04 
+G06Q50/06 
+H02J3/00 
+H02J3/06 
+G06F111/02 
+G06F111/04 
+G06F113/04</td><td>G06F30/18 (CN) 
+G06F30/25 (CN) 
+G06Q10/04 (CN) 
+G06Q50/06 (CN) 
+H02J3/00 (CN) 
+H02J3/06 (CN) 
+G06F2111/02 (CN) 
+G06F2111/04 (CN) 
+G06F2113/04 (CN) 
+H02J2203/10 (CN) 
+H02J2203/20 (CN) 
+H02J2300/24 (CN) 
+H02J2300/28 (CN) 
+H02J2310/48 (CN) 
+Y04S10/50 (EP)</td><td>2022-08-16</td><td>2022</td><td>82768459</td></tr>
+<tr><td>257</td><td>Multi-energy sharing charging pile power supply method, system, equipment and medium</td><td>ZHOU YI 
+FENG QINGLIAO 
+YU FEIOU 
+PANG JIANJUN 
+WANG GANG 
+XU ZILI</td><td>GUANGZHOU POWER SUPPLY BUREAU GUANGDONG POWER GRID CO LTD</td><td>CN115042653A</td><td>CN</td><td>2022</td><td>B60L53/31 
+B60L53/50 
+B60L53/51 
+B60L53/53 
+B60L53/60 
+B60L53/62 
+B60L53/63 
+B60L53/64 
+H02J7/02 
+H02J7/35</td><td>B60L53/31 (CN) 
+B60L53/50 (CN) 
+B60L53/51 (CN) 
+B60L53/53 (CN) 
+B60L53/60 (CN) 
+B60L53/62 (CN) 
+B60L53/63 (CN) 
+B60L53/64 (CN) 
+H02J7/02 (CN) 
+H02J7/35 (CN) 
+H02J2207/40 (CN) 
+Y02T90/12 (EP)</td><td>2022-09-13</td><td>2022</td><td>83164034</td></tr>
+<tr><td>258</td><td>SINGLE FEED MULTI-PAD WIRELESS CHARGING</td><td>MASQUELIER MICHAEL [US] 
+CALDER RYAN [US]</td><td>WIRELESS ADVANCED VEHICLE ELECTRIFICATION INC [US]</td><td>WO2018222758A1</td><td>WO</td><td>2017</td><td>B60L11/18 
+H02J50/12 
+H02J7/02</td><td>B60L53/122 (EP) 
+B60L53/51 (EP) 
+B60L53/52 (EP) 
+B60L53/62 (EP) 
+B60L53/64 (EP) 
+B60L53/65 (EP) 
+B60L53/66 (EP) 
+B60L53/67 (EP) 
+H02J50/12 (EP,US) 
+H02J50/40 (EP,US) 
+H02J2310/48 (EP,US) 
+H02J50/80 (EP,US) 
+H02J7/0013 (EP,US) 
+Y02T90/16 (EP) 
+Y02T90/167 (EP) 
+Y04S30/14 (EP)</td><td>2018-12-06</td><td>2018</td><td>64456180</td></tr>
+<tr><td>259</td><td>METHOD FOR MATCHING DATA OF A FIRST CONTROL UNIT WITH A SECOND CONTROL UNIT FOR DETERMINING PRECISE PREDICTIVE VALUES</td><td>WOLL CHRISTOPH [DE] 
+DOEGE VOLKER [DE]</td><td>BOSCH GMBH ROBERT [DE]</td><td>US2022352558A1</td><td>US</td><td>2019</td><td>B60L58/12 
+B60L58/16 
+H01M10/42 
+H01M10/48 
+H02J7/00</td><td>B60L3/12 (EP,CN) 
+B60L58/12 (US) 
+B60L58/16 (EP,CN,US) 
+B60L58/21 (EP,CN) 
+H01M10/4207 (EP,CN,US) 
+H01M10/425 (EP,CN,US) 
+H01M10/482 (EP,CN,US) 
+H01M10/486 (EP,CN,US) 
+H01M50/20 (EP) 
+H02J7/00034 (EP) 
+H02J7/0014 (EP,US) 
+H02J7/0048 (US) 
+H02J7/005 (EP,US) 
+B60L2240/545 (US) 
+B60L2240/547 (US) 
+B60L2240/549 (US) 
+B60L2240/70 (EP,CN) 
+B60L2260/42 (EP,CN) 
+B60L2260/52 (EP,CN) 
+H01M2010/4271 (EP,CN,US) 
+H01M2010/4278 (EP,CN) 
+H01M2220/10 (EP,CN) 
+H01M2220/20 (EP,CN,US) 
+H01M2220/30 (EP,CN,US) 
+H02J2310/48 (EP,US) 
+Y02E60/10 (EP) 
+Y02T10/70 (EP) 
+Y02T10/72 (EP) 
+Y02T90/16 (EP)</td><td>2022-11-03</td><td>2021</td><td>71784019</td></tr>
+<tr><td>260</td><td>一种多电力系统状态评价方法和系统</td><td></td><td></td><td>CN115375050A</td><td>CN</td><td>2021</td><td>G06Q10/06 
+G06Q50/06</td><td>Y02P90/82 (EP)</td><td>2022-11-22</td><td>2022</td><td>84058734</td></tr>
+<tr><td>261</td><td>METHOD AND SYSTEM FOR MANAGING ELECTROCHEMICAL BATTERIES OF A POWER SUPPLY FACILITY IN CASE OF BATTERY FAILURE</td><td>SELLIN CHRISTIAN [FR] 
+JESTIN JEAN-JACQUES [FR] 
+TAN TONY [FR] 
+AGNUS YVAN [FR] 
+BRUNET GILLES [FR] 
+THOMAS MICHEL [FR] 
+HINGANT DOMINIQUE [FR]</td><td>BLUE SOLUTIONS [FR]</td><td>US2019280494A1</td><td>US</td><td>2016</td><td>B60L53/53 
+H02J3/32 
+H02J3/38 
+H02J7/00 
+H02J7/35</td><td>B60L53/30 (EP,US) 
+B60L53/305 (KR) 
+B60L53/53 (US) 
+H02J3/381 (EP,KR,US) 
+H02J7/0025 (KR) 
+H02J7/0063 (EP,KR,US) 
+H02J7/007182 (EP,US) 
+H02J7/007194 (EP,US) 
+H02J7/34 (KR) 
+H02J7/35 (US) 
+H02J2300/20 (EP,KR,US) 
+H02J2310/22 (KR) 
+H02J2310/48 (EP,US) 
+Y02E10/56 (EP,KR) 
+Y02E10/76 (EP,KR) 
+Y02E60/00 (KR,US) 
+Y02T10/70 (EP,KR,US) 
+Y02T10/7072 (EP,US) 
+Y02T90/12 (EP,KR,US) 
+Y02T90/14 (US) 
+Y02T90/16 (EP,KR) 
+Y04S10/126 (US)</td><td>2019-09-12</td><td>2017</td><td>56920748</td></tr>
+<tr><td>262</td><td>SYSTEM AND METHOD FOR CONTROLLING CLUSTER FLIGHT OF UNMANNED AERIAL VEHICLE</td><td>GONG HYEON CHEOL 
+YOO TAE BANG 
+LEE NA YOUNG</td><td>PAICHAI UNIV INDUSTRY ACADEMIC COOPERATION FOUNDATION [KR]</td><td>KR102258732B1 
+KR20210010173A</td><td>KR</td><td>2019</td><td>B60L53/30 
+B60L58/12 
+G05D1/00 
+H02J7/35</td><td>B60L53/305 (KR) 
+B60L58/12 (KR) 
+B64C39/024 (KR) 
+G05D1/0005 (KR) 
+G05D1/0027 (KR) 
+G05D1/104 (KR) 
+H02J7/35 (KR) 
+B60L2200/10 (KR) 
+B64U2201/102 (KR) 
+Y02T10/70 (EP,KR) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP,KR) 
+Y02T90/167 (EP) 
+Y04S30/12 (EP)</td><td>2021-01-27 
+2021-05-31</td><td>2021</td><td>74238364</td></tr>
+<tr><td>263</td><td>Vehicle, vehicle equipment and optimization navigation method based on new energy</td><td>XU PING</td><td>SHANGHAI PATEO YUEZHEN ELECT</td><td>CN109131159A</td><td>CN</td><td>2018</td><td>B60R16/023 
+G01C21/34 
+G01C21/36 
+H04L29/08</td><td>B60R16/023 (CN) 
+G01C21/3469 (CN) 
+G01C21/3605 (CN) 
+G01C21/3679 (CN) 
+H04L67/12 (CN) 
+Y02T10/84 (EP) 
+Y02T90/167 (EP) 
+Y04S30/12 (EP)</td><td>2019-01-04</td><td>2019</td><td>64798880</td></tr>
+<tr><td>264</td><td>一种智能安全用电管理系统</td><td></td><td></td><td>CN115276229A</td><td>CN</td><td>2022</td><td>G06Q50/06 
+H02J13/00 
+H02J3/00 
+H02J3/28 
+H02J3/32</td><td></td><td>2022-11-01</td><td>2022</td><td>83747365</td></tr>
+<tr><td>265</td><td>System and method for distributed intelligence of power tracking and power allocation</td><td>DORN JOHN Z 
+MALCOLM WADE P</td><td>ACCENTURE GLOBAL SERVICES LTD</td><td>CN108082002A 
+CN108082002B</td><td>CN</td><td>2012</td><td>B60L11/18 
+B60L53/60</td><td>B60L53/60 (RU) 
+B60L53/62 (EP,US) 
+B60L53/63 (EP,RU,US) 
+B60L53/65 (EP,RU,US) 
+G06F1/26 (RU,US) 
+G06Q10/04 (EP,US) 
+G06Q10/047 (RU) 
+G06Q30/0202 (EP,RU,US) 
+G06Q50/06 (EP,RU,US) 
+G08G1/20 (EP,US) 
+H02J3/32 (RU) 
+H02J3/322 (EP,US) 
+B60L2240/72 (EP,RU,US) 
+B60L2260/54 (EP,RU,US) 
+H02J2203/20 (EP,RU,US) 
+H02J3/003 (RU,US) 
+Y02E60/00 (EP,US) 
+Y02P80/10 (EP,US) 
+Y02T10/70 (EP,US) 
+Y02T10/7072 (EP,US) 
+Y02T10/72 (EP,US) 
+Y02T90/12 (EP,US) 
+Y02T90/14 (US) 
+Y02T90/16 (EP,US) 
+Y02T90/167 (EP,US) 
+Y04S10/126 (EP,US) 
+Y04S10/50 (US) 
+Y04S30/14 (EP,US) 
+Y04S40/20 (EP,US) 
+Y04S50/14 (EP,US)</td><td>2018-05-29 
+2021-06-22</td><td>2013</td><td>48521367</td></tr>
+<tr><td>266</td><td>计及PV和EV的新型城市配电网双层联合拓展规划方法</td><td></td><td></td><td>CN115375006A</td><td>CN</td><td>2022</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+H02J3/00 
+H02J3/38</td><td></td><td>2022-11-22</td><td>2022</td><td>84061884</td></tr>
+<tr><td>267</td><td>Landing platform with improved charging for unmanned vehicles</td><td>WANKEWYCZ TARAS 
+KESMEZ MEHMET 
+LEE CHER CHUAN 
+HAN BO 
+THAKAR HARSHAVARDHAN</td><td>H3 DYNAMICS HOLDINGS PTE LTD [SG]</td><td>AU2019213466A1</td><td>AU</td><td>2018</td><td>B64C39/02 
+B64F1/00 
+B64F1/22 
+E04H6/44</td><td>B60L50/60 (US) 
+B60L53/10 (US) 
+B60L53/14 (KR) 
+B60L53/30 (KR) 
+B60L53/305 (US) 
+B60L53/36 (US) 
+B60L53/51 (US) 
+B64C39/024 (KR,US) 
+B64D27/24 (US) 
+B64D47/08 (US) 
+B64F1/005 (US) 
+B64F1/007 (EP,KR) 
+B64F1/222 (EP,KR,US) 
+B64F1/362 (US) 
+B64U10/13 (EP) 
+B64U30/20 (EP) 
+B64U50/19 (EP,KR) 
+B64U50/34 (KR) 
+B64U80/70 (EP,KR) 
+E04H6/42 (EP) 
+E04H6/424 (EP,KR) 
+E04H6/44 (US) 
+B60L2200/10 (KR,US) 
+B64C39/024 (EP) 
+B64U10/13 (US) 
+B64U2201/20 (EP,KR,US) 
+B64U50/19 (US) 
+B64U80/70 (US) 
+E04H6/44 (EP,KR) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T50/50 (KR) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y02T90/16 (EP)</td><td>2020-09-17</td><td>2019</td><td>65576628</td></tr>
+<tr><td>268</td><td>一种基于强化学习考虑多重约束的多电动车辆与多微电网的多方博弈的能源交易系统</td><td></td><td></td><td>CN115358783A</td><td>CN</td><td>2022</td><td>G06Q30/02 
+G06Q40/04 
+G06Q50/06 
+H02J3/00 
+H02J3/32 
+H02J3/38</td><td></td><td>2022-11-18</td><td>2022</td><td>84002603</td></tr>
+<tr><td>269</td><td>Active power distribution network planning method, device and system based on energy Internet</td><td>WANG KUNFANG 
+ZHENG QING 
+LI JINMEI 
+ZHANG TING</td><td>JIUZHOU IND HOLDINGS GROUP CO LTD</td><td>CN113935538A</td><td>CN</td><td>2021</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q10/06315 (CN) 
+G06Q50/06 (CN)</td><td>2022-01-14</td><td>2022</td><td>79284435</td></tr>
+<tr><td>270</td><td>Regional comprehensive energy scheduling control system based on energy Internet</td><td>LU XIAO 
+LIAO JIAQI 
+HU WEI 
+ZHOU CHANG 
+YANG ZIJUN 
+JING JIANGPING 
+XU XIAOHUI 
+ZHANG LEI 
+WANG BINGWEN 
+KOU XIAOWEN 
+LIANG JIABEN</td><td>STATE GRID JIANGSU ELECTRIC POWER CO LTD 
+CHINA ELECTRIC POWER RES INST 
+NARI TECHNOLOGY CO LTD</td><td>CN114069700A</td><td>CN</td><td>2021</td><td>G06Q50/06 
+H02J3/06 
+H02J3/14 
+H02J3/18 
+H02J3/32 
+H02J3/38 
+H02J3/48</td><td>G06Q50/06 (CN) 
+H02J3/003 (CN) 
+H02J3/004 (CN) 
+H02J3/0075 (CN) 
+H02J3/008 (CN) 
+H02J3/06 (CN) 
+H02J3/144 (CN) 
+H02J3/18 (CN) 
+H02J3/32 (CN) 
+H02J3/322 (CN) 
+H02J3/381 (CN) 
+H02J3/48 (CN) 
+H02J2203/10 (CN) 
+H02J2203/20 (CN) 
+H02J2300/24 (CN) 
+H02J2300/28 (CN) 
+H02J2300/40 (CN) 
+Y02A30/60 (EP) 
+Y02B70/3225 (EP) 
+Y02E10/56 (EP) 
+Y02E40/30 (EP) 
+Y02E70/30 (EP) 
+Y04S10/50 (EP) 
+Y04S20/222 (EP)</td><td>2022-02-18</td><td>2022</td><td>80277760</td></tr>
+<tr><td>271</td><td>Multi-target synergic planning method considering charging station and distributed power supply for power distribution network</td><td>ZHENG YUNFEI 
+YAN JIONG 
+WANG YINGXIANG 
+SANG ZIXIA 
+WANG SICONG 
+HUANG JIAQI 
+FANG RENGCUN 
+YANG MING 
+HU TING 
+LEI HE 
+ZHANG JI 
+HU ZHIJIAN 
+LI XIANG 
+ZHENG MAOSONG 
+CHEN ZHENG</td><td>STATE GRID CORP CHINA 
+ECONOMIC TECH RESEARCH INSTITUTE OF STATE GRID HUBEI ELECTRIC POWER CO LTD 
+UNIV WUHAN 
+XIAOGAN POWER SUPPLY COMPANY STATE GRID HUBEI ELECTRIC POWER COMPANY</td><td>CN110504708A</td><td>CN</td><td>2019</td><td>B60L53/64 
+G06Q10/06 
+G06Q50/06 
+H02J3/38</td><td>B60L53/64 (CN) 
+G06Q10/06313 (CN) 
+G06Q50/06 (CN) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2019-11-26</td><td>2019</td><td>68586373</td></tr>
+<tr><td>272</td><td>Electric heating combined system distribution robust optimization scheduling method based on improved Wasserstein measurement</td><td>LIU HONGPENG 
+LI HONGWEI 
+ZHANG WEI 
+ZHANG SHUXIN</td><td>UNIV NORTHEAST ELECTRIC POWER</td><td>CN113962612A</td><td>CN</td><td>2021</td><td>G06F30/15 
+G06F30/20 
+G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>G06F30/15 (CN) 
+G06F30/20 (CN) 
+G06Q10/04 (CN) 
+G06Q10/0631 (CN) 
+G06Q10/06313 (CN) 
+G06Q50/06 (CN) 
+G06F2113/06 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP)</td><td>2022-01-21</td><td>2022</td><td>79472113</td></tr>
+<tr><td>273</td><td>Apparatus, system, method, and computer program product for scaling and managing electric power systems</td><td>THIRUMURTHY NISHA [US] 
+KIBLIN GABRIEL [US]</td><td>VYBE ENERGY LLC [US]</td><td>US11399065B1</td><td>US</td><td>2020</td><td>G05B19/042 
+G05D17/00 
+G06N20/00 
+G06N5/04 
+G06Q30/04 
+G06Q30/06 
+G06Q50/06 
+H04L12/28 
+H04L67/12 
+H02J3/38 
+H02J7/34</td><td>B60L53/11 (EP) 
+B60L53/51 (EP) 
+B60L53/52 (EP) 
+B60L53/53 (EP) 
+B60L53/54 (EP) 
+B60L53/63 (EP) 
+B60L53/64 (EP) 
+B60L53/66 (EP) 
+G05B19/042 (EP,US) 
+G06N20/00 (US) 
+G06N5/04 (US) 
+G06Q30/04 (EP,US) 
+G06Q30/0611 (EP,US) 
+G06Q50/06 (EP,US) 
+H02J13/00004 (EP) 
+H02J3/144 (EP) 
+H02J3/28 (EP) 
+H02J7/00 (EP) 
+H04L12/2803 (EP,US) 
+H04L67/12 (US) 
+H04L67/125 (EP) 
+G05B2219/2639 (EP,US) 
+G06N20/00 (EP) 
+H02J2203/20 (EP) 
+H02J2300/20 (EP) 
+H02J2310/54 (EP) 
+H02J2310/60 (EP) 
+H02J2310/64 (EP) 
+H02J3/381 (EP,US) 
+H02J7/34 (US) 
+H04L67/10 (EP)</td><td>2022-07-26</td><td>2022</td><td>82484000</td></tr>
+<tr><td>274</td><td>METHOD AND SYSTEM FOR INTELLIGENTLY MANAGING ELECTROCHEMICAL BATTERIES OF AN ELECTRICAL POWER SUPPLY INSTALLATION</td><td>SELLIN CHRISTIAN [FR] 
+JESTIN JEAN-JACQUES [FR] 
+AGNUS YVAN [FR] 
+HINGANT DOMINIQUE [FR] 
+TAN TONY [FR] 
+BRUNET GILLES [FR] 
+THOMAS MICHEL [FR]</td><td>BLUE SOLUTIONS [FR]</td><td>US2020269715A1</td><td>US</td><td>2016</td><td>B60L53/31 
+B60L53/51 
+B60L53/52 
+B60L53/53 
+H02J3/38 
+H02J7/14</td><td>B60L53/30 (EP,KR,US) 
+B60L53/31 (US) 
+B60L53/51 (EP,KR,US) 
+B60L53/52 (EP,KR,US) 
+B60L53/53 (EP,KR,US) 
+H02J3/381 (EP,US) 
+H02J3/42 (KR) 
+H02J7/0025 (EP,US) 
+H02J7/0063 (EP,US) 
+H02J7/00712 (EP,US) 
+H02J7/1469 (US) 
+B60Y2200/91 (KR,US) 
+H02J2300/20 (EP,US) 
+H02J2310/48 (EP,US) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (KR) 
+Y04S10/126 (KR)</td><td>2020-08-27</td><td>2017</td><td>56920747</td></tr>
+<tr><td>275</td><td>V2G METHOD FOR DESINGING V2G ELECTRIC VEHICLE CHARGING STATION AND APPARATURS THEREOF</td><td>BYEON GIL SUNG 
+KIM GYEONG HUN 
+KIM JIN WOOK 
+KIM SEUL KI 
+KIM JONG YUL 
+JEON JIN HONG 
+JO HYUNG CHUL</td><td>KERI KOREA ELECTROTECHNOLOGY RES INST [KR]</td><td>KR20200038112A</td><td>KR</td><td>2018</td><td>B60L50/50 
+G06Q50/30</td><td>B60L53/665 (KR) 
+B60L55/00 (KR) 
+G06Q50/30 (KR) 
+B60Y2200/91 (KR) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP)</td><td>2020-04-10</td><td>2020</td><td>70292020</td></tr>
+<tr><td>276</td><td>エネルギーマネジメントシステム、および、エネルギーマネジメント方法</td><td></td><td></td><td>JP7003300B2 
+JPWO2020161773A1</td><td>JP</td><td>2019</td><td>G16Y10/35 
+G16Y20/30 
+G16Y40/20 
+G16Y40/30 
+B60L53/51 
+B60L53/67 
+B60L53/68 
+G06Q50/06 
+H02J13/00 
+H02J3/00 
+H02J3/32 
+H02J3/38 
+H02J7/00</td><td>B60L53/64 (EP,US) 
+B60L53/665 (EP,US) 
+G05B19/042 (EP,US) 
+H02J3/003 (US) 
+H02J3/004 (US) 
+H02J3/008 (EP) 
+H02J3/322 (US) 
+H02J7/0071 (EP,US) 
+B60L2240/62 (EP) 
+B60L2240/80 (EP) 
+B60L2250/14 (EP) 
+B60L2260/54 (EP) 
+G05B2219/25359 (US) 
+G05B2219/2637 (EP,US) 
+G05B2219/2639 (EP) 
+H02J2310/48 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/72 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP) 
+Y02T90/167 (EP) 
+Y04S30/14 (EP)</td><td>2021-10-28 
+2022-01-20</td><td>2020</td><td>71946953</td></tr>
+<tr><td>277</td><td>Multi-main-body cooperation optimization operation and cost benefit distribution method for comprehensive energy system</td><td>LUO YANHONG 
+ZHANG XINWEN 
+YANG DONGSHENG 
+ZHOU BOWEN 
+ZHAO SHENGNAN</td><td>UNIV NORTHEASTERN</td><td>CN110046773A</td><td>CN</td><td>2019</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q10/06393 (CN) 
+G06Q50/06 (CN)</td><td>2019-07-23</td><td>2019</td><td>67284206</td></tr>
+<tr><td>278</td><td>Power distribution network supply and demand double-side collaborative planning optimization method and storage medium</td><td>YANG XIN 
+WANG XULI 
+SHI TIANCHENG 
+CONG HAO 
+ZHAO FENG 
+XIE WEI 
+ZHOU FAN 
+ZHONG YALIN 
+JIANG GUIFEN 
+GUO WENZHANG 
+HU XUDONG</td><td>ECONOMIC AND TECH RESEARCH INSTITUTE OF STATE GRID ANHUI ELECTRIC POWER CO LTD</td><td>CN115036983A</td><td>CN</td><td>2022</td><td>G06Q10/06 
+G06Q50/06 
+H02J3/00 
+H02J3/14 
+H02J3/46</td><td>G06Q10/06312 (CN) 
+G06Q10/06315 (CN) 
+G06Q50/06 (CN) 
+H02J3/003 (CN) 
+H02J3/144 (CN) 
+H02J3/466 (CN) 
+H02J2203/20 (CN) 
+Y04S10/50 (EP)</td><td>2022-09-09</td><td>2022</td><td>83118591</td></tr>
+<tr><td>279</td><td>OXYGEN AND FUEL SUPPLY SYSTEM FOR INTERNAL COMBUSTION ENGINES</td><td>MUÑOZ SAIZ MANUEL [ES]</td><td>MUNOZ SAIZ MANUEL [ES]</td><td>WO2022167707A1</td><td>WO</td><td>2021</td><td>B60K15/00 
+B60K15/063 
+B60K15/073 
+F02B47/10 
+F02M25/10 
+F02M26/15</td><td>B60K15/00 (EP) 
+B60K15/063 (EP) 
+B60K15/073 (EP) 
+F02B47/10 (EP) 
+F02M25/10 (EP) 
+F02M26/15 (EP)</td><td>2022-08-11</td><td>2022</td><td>82740930</td></tr>
+<tr><td>280</td><td>METHOD AND SYSTEM FOR DELIVERY OF A TARGETED ADVERTISEMENT BY AN ELECTRIC VEHICLE CHARGING APPARATUS</td><td>LOGVINOV OLEG [US]</td><td>IOTECHA CORP [US]</td><td>US2019130451A1</td><td>US</td><td>2017</td><td>G06Q20/06 
+G06Q20/18 
+G06Q30/02 
+G06Q50/06</td><td>B60L53/68 (EP) 
+G06Q20/065 (US) 
+G06Q20/18 (US) 
+G06Q30/0241 (US) 
+G06Q30/0251 (EP) 
+G06Q30/0267 (US) 
+G06Q30/0268 (EP,US) 
+G06Q30/0269 (EP) 
+G06Q30/0272 (EP,US) 
+G06Q30/0274 (US) 
+G06Q50/06 (US) 
+G07F15/005 (EP,US) 
+G07F17/16 (US) 
+G07F9/023 (EP,US) 
+G06Q50/01 (US)</td><td>2019-05-02</td><td>2019</td><td>66243133</td></tr>
+<tr><td>281</td><td>Method for realizing wind curtailment consumption by considering charging load-electricity price response of electric vehicle</td><td>ZHANG LIANG 
+YIN QINGBO 
+LYU LING 
+LIU DONGYUAN 
+CAI GUOWEI</td><td>UNIV NORTHEAST DIANLI</td><td>CN115147244A</td><td>CN</td><td>2022</td><td>G06K9/62 
+G06N3/00 
+G06Q10/04 
+G06Q50/06</td><td>G06N3/006 (CN) 
+G06Q10/04 (CN) 
+G06Q50/06 (CN)</td><td>2022-10-04</td><td>2022</td><td>83413890</td></tr>
+<tr><td>282</td><td>Micro energy network optimization scheduling method and system based on model predictive control</td><td>YANG BO 
+HUANG XURUI 
+YU FENGYUAN 
+PAN JUN 
+XU QIN</td><td>GUANGZHOU POWER SUPPLY BUREAU GUANGDONG POWER GRID CO LTD</td><td>CN114037337A</td><td>CN</td><td>2021</td><td>G06F30/20 
+G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+G06F111/04 
+G06F111/10 
+G06F119/08 
+G06F119/14</td><td>G06F30/20 (CN) 
+G06Q10/04 (CN) 
+G06Q10/06312 (CN) 
+G06Q10/06315 (CN) 
+G06Q50/06 (CN) 
+G06F2111/04 (CN) 
+G06F2111/10 (CN) 
+G06F2119/08 (CN) 
+G06F2119/14 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP)</td><td>2022-02-11</td><td>2022</td><td>80138498</td></tr>
+<tr><td>283</td><td>THE METHOD OF PARKING AND CHARGING THE VEHICLE</td><td>ELISEEV LEONID LEONIDOVICH [RU]</td><td>ELISEEV LEONID LEONIDOVICH [RU]</td><td>WO2021080447A1</td><td>WO</td><td>2019</td><td>B60L53/10 
+B60L53/66 
+G07B15/02 
+G08G1/0968 
+G08G1/14</td><td>B60L53/66 (EP) 
+B60L53/665 (US) 
+G06Q10/02 (US) 
+G06Q30/0645 (US) 
+G07B15/02 (US) 
+G08G1/096816 (EP,US) 
+G08G1/144 (EP,US) 
+G08G1/146 (US) 
+B60L2200/24 (US) 
+B60L2270/36 (US) 
+B60L53/51 (EP) 
+B60L53/52 (EP) 
+G07B15/02 (EP)</td><td>2021-04-29</td><td>2021</td><td>75619342</td></tr>
+<tr><td>284</td><td>METHOD FOR RAPIDLY CHARGING AN ELECTRIC VEHICLE FROM A LIGHT DUTY CHARGING SITE COMPRISING A RESIDENTIAL DWELLING OR A SMALL OFF GRID POWER STATION</td><td>OWENS THOMAS LLEWELLYN [US]</td><td>OWENS THOMAS LLEWELLYN [US]</td><td>US2022407349A1</td><td>US</td><td>2021</td><td>B60L53/18 
+B60L53/22 
+B60L53/51 
+H02J7/35 
+H02J9/06</td><td>B60L53/18 (US) 
+B60L53/22 (US) 
+B60L53/51 (US) 
+H02J7/35 (US) 
+H02J9/062 (US) 
+B60L2210/40 (US)</td><td>2022-12-22</td><td>2022</td><td>84490511</td></tr>
+<tr><td>285</td><td>BATTERY EXCHANGE PROGRAM USING UNIVERSAL RECHARGEABLE BATTERIES, FITTING BATTERY CASES, BATTERY PACKS, MINI RACK AND RACK SYSTEMS ALONG WITH GPS TRACKING FOR BATTERY EXCHANGE STATIONS</td><td>BALASINGHAM MOHANADAS [AU]</td><td>BALASINGHAM MOHANADAS [AU]</td><td>US2021276448A1</td><td>US</td><td>2017</td><td>B60K1/04 
+B60L53/66 
+B60L53/80</td><td>B60K1/04 (EP,US) 
+B60L53/665 (US) 
+B60L53/80 (US) 
+B60K2001/0411 (EP,US) 
+B60K2001/0483 (EP,US) 
+B60K2001/0494 (EP,US) 
+H01M10/44 (EP) 
+Y02E60/10 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP)</td><td>2021-09-09</td><td>2019</td><td>65232386</td></tr>
+<tr><td>286</td><td>Micro-grid reliability evaluation method containing electric vehicle charging station</td><td>FAN HONG 
+CHEN LONGCHAO 
+YUAN HONGDAO 
+GUO XIANG</td><td>UNIV SHANGHAI ELECTRIC POWER</td><td>CN110245858A 
+CN110245858B</td><td>CN</td><td>2019</td><td>G06F17/50 
+G06Q10/06 
+G06Q50/06 
+H02J3/38 
+G06F30/20 
+G06F113/04 
+G06F119/02</td><td>G06F30/20 (CN) 
+G06Q10/0639 (CN) 
+G06Q50/06 (CN) 
+H02J3/38 (CN) 
+H02J3/388 (CN)</td><td>2019-09-17 
+2022-06-10</td><td>2019</td><td>67886668</td></tr>
+<tr><td>287</td><td>Collaborative bidding method for virtual power plant to participate in electricity market and carbon trading market</td><td>LIU XIAO&apos;OU 
+XU BING 
+CHEN SHILONG 
+LIU JIAN 
+LI XUEBIN 
+LIU JIANWEI 
+ZHAO HAO</td><td>CHINA ENERGY ENGINEERING GROUP TIANJIN ELECTRIC POWER DESIGN INST CO LTD 
+TIANJIN JINDIAN POWER SUPPLY DESIGN INST CO LTD</td><td>CN113888209A</td><td>CN</td><td>2021</td><td>G06F30/15 
+G06F30/20 
+G06Q10/06 
+G06Q30/02 
+G06Q30/08 
+G06Q50/06 
+G06F111/04 
+G06F111/08 
+G06F113/06</td><td>G06F30/15 (CN) 
+G06F30/20 (CN) 
+G06Q10/06315 (CN) 
+G06Q10/0635 (CN) 
+G06Q30/0201 (CN) 
+G06Q30/0206 (CN) 
+G06Q30/08 (CN) 
+G06Q50/06 (CN) 
+G06F2111/04 (CN) 
+G06F2111/08 (CN) 
+G06F2113/06 (CN) 
+Y02T10/40 (EP) 
+Y04S50/10 (EP) 
+Y04S50/14 (EP)</td><td>2022-01-04</td><td>2022</td><td>79009597</td></tr>
+<tr><td>288</td><td>Optimization method of source-storage-load coordination for hybrid energy system in commercial parks</td><td>ZHENG QIUHONG 
+TANG YUEZHONG 
+LI GUOJIE 
+ZHANG YU 
+HAN BEI 
+FANG CHEN 
+WANG KEYOU 
+SHI SHANSHAN 
+FENG LIN 
+WANG HAOJING 
+LIU SHU</td><td>STATE GRID SHANGHAI MUNICIPAL ELECTRIC POWER CO 
+UNIV SHANGHAI JIAOTONG</td><td>CN109217373A 
+CN109217373B</td><td>CN</td><td>2018</td><td>G06Q10/06 
+G06Q50/06 
+H02J3/28 
+H02J3/38 
+H02J3/46</td><td>G06Q10/06315 (CN) 
+G06Q50/06 (CN) 
+H02J3/28 (CN) 
+H02J3/382 (CN) 
+H02J3/46 (CN) 
+H02J2203/20 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP)</td><td>2019-01-15 
+2021-01-01</td><td>2019</td><td>64994990</td></tr>
+<tr><td>289</td><td>Short-term energy system model field multi-objective decision optimization method</td><td>YANG SIYU 
+LIN KEYAO 
+LIU LIN 
+XUN CHAO 
+HONG JUHUA</td><td>STATE GRID FUJIAN ELECTRIC POWER CO</td><td>CN113837551A</td><td>CN</td><td>2021</td><td>G06Q10/04 
+G06Q10/06 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q10/06313 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP)</td><td>2021-12-24</td><td>2021</td><td>78961399</td></tr>
+<tr><td>290</td><td>Energy Internet reliability evaluation system, model establishment method and evaluation method</td><td>XIE WEI 
+MING YANGYANG 
+CAO JUNWEI 
+YANG JIE 
+HUANG XUDONG</td><td>SICHUAN HUATAI ELECTRICAL CO LTD</td><td>CN112070395A</td><td>CN</td><td>2020</td><td>G06F30/27 
+G06N3/04 
+G06N3/08 
+G06Q10/06 
+G06Q50/06 
+H02J3/32 
+H02J3/38 
+G06F113/04 
+G06F119/02 
+G06F119/08</td><td>G06F30/27 (CN) 
+G06N3/045 (CN) 
+G06N3/084 (CN) 
+G06Q10/06393 (CN) 
+G06Q50/06 (CN) 
+H02J3/322 (CN) 
+H02J3/381 (CN) 
+G06F2113/04 (CN) 
+G06F2119/02 (CN) 
+G06F2119/08 (CN) 
+H02J2300/24 (CN) 
+H02J2300/28 (CN) 
+H02J2310/48 (CN) 
+Y02E10/56 (EP) 
+Y02P90/82 (EP)</td><td>2020-12-11</td><td>2020</td><td>73663992</td></tr>
+<tr><td>291</td><td>Virtual power plant realized on basis of software-defining power network</td><td>GUO CHUANGXIN 
+CAO XIU 
+WANG XUEPING 
+MAO DILIN 
+ZHU CHENGZHI</td><td>UNIV ZHEJIANG 
+STATE GRID ZHEJIANG ELECTRIC POWER CO LTD 
+STATE GRID ENERGY RES INST CO LTD</td><td>CN108876091A</td><td>CN</td><td>2018</td><td>G06Q10/06 
+G06Q50/06</td><td>G06Q10/067 (CN) 
+G06Q50/06 (CN)</td><td>2018-11-23</td><td>2018</td><td>64326600</td></tr>
+<tr><td>292</td><td>VEHICLE CHARGING</td><td>DING YULONG 
+CAO HUI 
+ZHAO YANQI 
+NIE BINJIAN</td><td>UNIV BIRMINGHAM</td><td>CN111886156A</td><td>CN</td><td>2018</td><td>B60L53/50</td><td>B60L50/60 (US) 
+B60L53/302 (US) 
+B60L53/305 (US) 
+B60L53/50 (EP,US) 
+B60L53/64 (US) 
+B60L58/24 (US) 
+B60K6/28 (US) 
+B60L2240/34 (EP,US) 
+B60L2240/36 (EP) 
+B60L2240/545 (US) 
+B60L2270/44 (EP,US) 
+B60Y2200/91 (US) 
+B60Y2200/92 (US) 
+B60Y2300/91 (US) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP)</td><td>2020-11-03</td><td>2019</td><td>61783884</td></tr>
+<tr><td>293</td><td>THERMALLY CONTROL INTEGRATED HIGH RATE RECHARGING STATION COMBINED WITH DATA CENTER AND NETWORKING</td><td>EPSTEIN MICHAEL L [US] 
+MATERNIAK ERIK [US]</td><td>LIGHTENING ENERGY [US]</td><td>US2022016990A1</td><td>US</td><td>2020</td><td>B60L50/60 
+B60L53/16 
+B60L53/302 
+B60L53/50 
+B60L53/66 
+B60L58/10 
+B60L58/26 
+H04L9/32 
+H05K7/20</td><td>B60L50/60 (EP,US) 
+B60L53/16 (EP,US) 
+B60L53/302 (EP,US) 
+B60L53/50 (US) 
+B60L53/66 (EP,US) 
+B60L58/10 (US) 
+B60L58/26 (EP,US) 
+H04L9/32 (US) 
+H04L9/3239 (EP) 
+H04L9/50 (EP) 
+H05K7/20781 (US) 
+H04L2209/84 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y02T90/16 (EP)</td><td>2022-01-20</td><td>2022</td><td>79291872</td></tr>
+<tr><td>294</td><td>Regional power distribution network gridding load interval prediction method based on electricity distribution and sale competition situation</td><td>QIAN ZHONGHAO 
+ZHOU LIANG 
+YUAN SONG 
+LU LING 
+YANG JUN 
+ZHANG JUN 
+XU XIAOYI</td><td>STATE GRID JIANGSU ELECTRIC POWER CO LTD NANTONG POWER SUPPLY BRANCH</td><td>CN113642787A</td><td>CN</td><td>2021</td><td>G06Q10/04 
+G06Q10/06 
+G06Q30/02 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q10/06315 (CN) 
+G06Q30/0206 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP) 
+Y04S50/14 (EP)</td><td>2021-11-12</td><td>2021</td><td>78419567</td></tr>
+<tr><td>295</td><td>Deep Reinforcement Learning Based Real-time scheduling of Energy Storage System (ESS) in Commercial Campus</td><td>BIAN DESONG [US] 
+ZHANG XIAOHU [US] 
+SHI DI [US] 
+DIAO RUISHENG [US] 
+WANG SIQI [US] 
+LIANG ZHEMING [CN]</td><td>BIAN DESONG [US] 
+ZHANG XIAOHU [US] 
+SHI DI [US] 
+DIAO RUISHENG [US] 
+WANG SIQI [US] 
+LIANG ZHEMING [CN]</td><td>US2022036392A1</td><td>US</td><td>2020</td><td>G06K9/62 
+G06N3/08 
+G06Q10/06 
+G06Q30/02 
+G06Q50/06</td><td>B60L58/10 (EP) 
+G06F18/214 (US) 
+G06F18/2415 (US) 
+G06N3/006 (EP) 
+G06N3/08 (US) 
+G06N3/088 (EP) 
+G06Q10/06315 (EP,US) 
+G06Q30/0206 (EP,US) 
+G06Q50/06 (EP,US) 
+B60L2260/46 (EP) 
+B60L2260/54 (EP) 
+B60L58/12 (US) 
+G06N7/01 (EP) 
+Y02T10/70 (EP)</td><td>2022-02-03</td><td>2022</td><td>80004417</td></tr>
+<tr><td>296</td><td>Energy storage business model research method</td><td>MA YANHONG 
+ZHOU QIANG 
+ZHAO LONG 
+ZHANG ZHENZHEN 
+LIU LIJUAN 
+ZHANG YANQI 
+GAO PENGFEI 
+LI BIN 
+JIANG LI 
+XU HONGQUAN 
+CHEN GONGGUI 
+LIANG JIAWEN 
+LIU YI 
+WANG ZHEN 
+LI TINGTING 
+ZHANG SAI 
+WEI BO 
+FU JIAYU 
+GE XIAOPING 
+WU BAOHUA 
+YAO ZHENXING</td><td>STATE GRID GANSU ELECTRIC POWER CO ELECTRIC POWER RES INST 
+STATE GRID GANSU ELECTRIC POWER CO 
+STATE GRID CORP CHINA 
+STATE GRID BEIJING ELECTRIC POWER CO 
+SOUTHWEST BRANCH OF STATE GRID CORP OF CHINA 
+UNIV CHONGQING POSTS &amp; TELECOM 
+GANNAN POWER SUPPLY COMPANY STATE GRID GANSU ELECTRIC POWER COMPANY</td><td>CN111932277A</td><td>CN</td><td>2020</td><td>G06Q30/00 
+G06Q30/02 
+G06Q30/06 
+G06Q50/06</td><td>G06Q30/00 (CN) 
+G06Q30/02 (CN) 
+G06Q30/0645 (CN) 
+G06Q50/06 (CN)</td><td>2020-11-13</td><td>2020</td><td>73316082</td></tr>
+<tr><td>297</td><td>Virtual power plant optimization trading strategy model based on two-stage stochastic programming</td><td>GAO HONGJUN 
+ZHOU BO 
+LIU YOUBO</td><td>UNIV SICHUAN</td><td>CN108960510A 
+CN108960510B</td><td>CN</td><td>2018</td><td>G06Q10/04 
+G06Q10/06 
+G06Q30/08 
+G06Q40/04 
+G06Q50/06</td><td>G06Q10/04 (CN) 
+G06Q10/0635 (CN) 
+G06Q30/08 (CN) 
+G06Q40/04 (CN) 
+G06Q50/06 (CN) 
+Y02E40/70 (EP) 
+Y04S10/50 (EP) 
+Y04S50/10 (EP)</td><td>2018-12-07 
+2021-11-26</td><td>2018</td><td>64485645</td></tr>
+<tr><td>298</td><td>PORTABLE ELECTRIC VEHICLE (EV) CHARGING STATION CONFIGURED FOR REGULATORY PARKING COMPLIANCE</td><td>WHEATLEY DESMOND [US]</td><td>BEAM GLOBAL [US]</td><td>US2022118872A1</td><td>US</td><td>2020</td><td>B60L53/51 
+H02S20/32 
+H02S30/20</td><td>B60L53/51 (EP,US) 
+H02S20/32 (EP,US) 
+H02S30/20 (US)</td><td>2022-04-21</td><td>2022</td><td>81184959</td></tr>
+<tr><td>299</td><td>Regional complex distribution network dispatch control management system based on virtual power plant</td><td>ZHANG HAIBO 
+MA ZHIMING 
+WEN SHUAIZHAO</td><td>UNIV NORTH CHINA ELECTRIC POWER</td><td>CN110416998A 
+CN110416998B</td><td>CN</td><td>2019</td><td>G06Q10/06 
+G06Q50/06 
+H02J3/00 
+H02J3/32 
+H02J3/38</td><td>G06Q10/06312 (CN) 
+G06Q50/06 (CN) 
+H02J3/00 (CN) 
+H02J3/32 (CN) 
+Y02E70/30 (EP)</td><td>2019-11-05 
+2021-01-08</td><td>2019</td><td>68358619</td></tr>
+<tr><td>300</td><td>Distribution network power balancing method based on source-load equivalent external characteristics of comprehensive energy system</td><td>WANG ZHE 
+MIAO YOUZHONG 
+SHI ZHENJIANG 
+XU JING 
+ZHAO TIEJUN 
+ZHANG QI 
+WANG TIANHUA 
+ZHANG YUAN 
+WANG YANMIN</td><td>QINHUANGDAO POWER SUPPLY CO OF STATE GRID JIBEI ELECTRIC POWER CO LTD 
+STATE GRID CORP CHINA 
+T&amp;D POWER RESEARCH BEIJING TECH CO LTD</td><td>CN112241923A</td><td>CN</td><td>2020</td><td>G06F30/27 
+G06Q50/06 
+H02J3/00 
+G06F113/04</td><td>G06F30/27 (CN) 
+G06Q50/06 (CN) 
+H02J3/00 (CN) 
+G06F2113/04 (CN)</td><td>2021-01-19</td><td>2021</td><td>74171075</td></tr>
+<tr><td>301</td><td>Information service pricing method based on energy big data</td><td>YAN ZHENHUA 
+ZHU DONGGE 
+MA RUI 
+LIU JIA 
+SHA JIANGBO 
+LI XIAOLONG 
+WANG FENG 
+GAO BO 
+ZHANG QINGPING 
+LI XUEFENG</td><td>ELECTRIC POWER SCIENCE RES INSTITUTE OF NINGXIA ELECTRIC POWER LIMITED COMPANY OF STATE GRID</td><td>CN114358851A</td><td>CN</td><td>2022</td><td>G06Q30/02 
+G06Q50/06</td><td></td><td>2022-04-15</td><td>2022</td><td>81108110</td></tr>
+<tr><td>302</td><td>一种考虑极端情况的源网荷储协调运行方法</td><td></td><td></td><td>CN115438851A</td><td>CN</td><td>2022</td><td>G06N3/00 
+G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+H02J3/14 
+H02J3/32 
+H02J3/38</td><td></td><td>2022-12-06</td><td>2022</td><td>84243699</td></tr>
+<tr><td>303</td><td>METHOD AND APPARATUS FOR CHARGING A BATTERY USING LOCAL POWER GRID TOPOLOGY INFORMATION</td><td>LOGVINOV OLEG [US] 
+MACALUSO MICHAEL [US] 
+LENZ GADI [IL]</td><td>IOTECHA CORP [US] 
+LOGVINOV OLEG [US] 
+MACALUSO MICHAEL J [US]</td><td>WO2018204818A1</td><td>WO</td><td>2017</td><td>B60L11/18 
+G05B11/01 
+G05B13/02 
+G06Q50/06</td><td>B60L50/60 (EP,US) 
+B60L53/51 (US) 
+B60L53/52 (US) 
+B60L53/62 (US) 
+B60L53/63 (EP,US) 
+B60L53/64 (US) 
+B60L53/66 (EP,US) 
+B60L53/67 (EP,US) 
+B60L53/68 (EP,US) 
+G06Q10/04 (EP) 
+G06Q50/06 (EP) 
+H02J7/00032 (US) 
+B60L2200/18 (US) 
+B60L2240/72 (US) 
+H02J2300/24 (US) 
+H02J2300/28 (US) 
+Y02E10/56 (EP) 
+Y02E60/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/16 (EP) 
+Y04S10/126 (EP)</td><td>2018-11-08</td><td>2018</td><td>64016406</td></tr>
+<tr><td>304</td><td>IMPROVED SEPARATORS, LEAD ACID BATTERIES, AND METHODS AND SYSTEMS ASSOCIATED THEREWITH</td><td>WHEAR KEVIN 
+NAIHA MOHAMMED</td><td>DARAMIC LLC</td><td>CN110663124A</td><td>CN</td><td>2017</td><td>H01M10/06 
+H01M50/414 
+H01M50/417 
+H01M50/429 
+H01M50/443 
+H01M50/451 
+H01M50/463 
+H01M50/489</td><td>H01M10/06 (EP,KR,US) 
+H01M10/12 (KR) 
+H01M50/414 (EP,KR,US) 
+H01M50/417 (EP,KR,US) 
+H01M50/429 (EP,KR,US) 
+H01M50/44 (EP,KR,US) 
+H01M50/443 (EP,KR,US) 
+H01M50/446 (EP,US) 
+H01M50/451 (EP,KR,US) 
+H01M50/463 (EP,KR,US) 
+H01M50/489 (EP,KR,US) 
+B60Y2200/86 (KR) 
+B60Y2200/91 (KR) 
+B60Y2200/92 (KR) 
+H01M2220/20 (EP,KR,US) 
+Y02T10/70 (KR)</td><td>2020-01-07</td><td>2018</td><td>63585595</td></tr>
+<tr><td>305</td><td>Economic dispatching optimization method for microgrid comprising electric vehicle charging load</td><td>YU FANGMING 
+WU JIEKANG 
+HE JIAYU 
+ZHUANG ZHONG</td><td>UNIV GUANGDONG TECHNOLOGY</td><td>CN111008748A 
+CN111008748B</td><td>CN</td><td>2019</td><td>G06Q10/04 
+G06Q50/06 
+H02J3/00 
+H02J3/38</td><td>G06Q10/04 (CN) 
+G06Q50/06 (CN) 
+H02J3/008 (CN)</td><td>2020-04-14 
+2022-10-04</td><td>2020</td><td>70115911</td></tr>
+<tr><td>306</td><td>電池セパレータ、電極アセンブリ、システム、及び関連方法</td><td></td><td></td><td>JP2021535571A</td><td>JP</td><td>2018</td><td>H01M10/12 
+H01M4/14 
+H01M4/73 
+H01M50/449 
+H01M50/457 
+H01M50/463 
+H01M50/466 
+H01M50/469 
+H01M50/489 
+H01M50/491 
+H01M50/406</td><td>B60L50/64 (EP,US) 
+H01M10/12 (US) 
+H01M4/14 (US) 
+H01M4/73 (EP,KR,US) 
+H01M50/449 (EP,KR,US) 
+H01M50/457 (EP,KR,US) 
+H01M50/46 (EP,KR,US) 
+H01M50/463 (EP,KR,US) 
+H01M50/466 (EP,KR,US) 
+H01M50/469 (EP,KR,US) 
+H01M50/489 (EP,KR,US) 
+H01M50/491 (EP,KR,US) 
+H01M10/12 (EP,KR) 
+H01M2220/20 (EP,KR,US) 
+H01M50/406 (EP,KR,US) 
+Y02E60/10 (EP) 
+Y02P70/50 (EP) 
+Y02T10/70 (EP)</td><td>2021-12-16</td><td>2020</td><td>69721941</td></tr>
+<tr><td>307</td><td>METHOD AND APPARATUS FOR CHARGING A BATTERY WITH AC POWER BASED ON STATE OF BATTERY RELATED INFORMATION</td><td>LOGVINOV OLEG [US] 
+MACALUSO MICHAEL J [US]</td><td>IOTECHA CORP [US]</td><td>US11462932B2 
+US2021046839A1</td><td>US</td><td>2018</td><td>B60L53/30 
+B60L53/63 
+B60L53/65 
+B60L53/66 
+B60L58/12 
+B60L58/18 
+H02J7/02 
+H02J7/00</td><td>B60L53/305 (US) 
+B60L53/63 (US) 
+B60L53/65 (US) 
+B60L53/665 (US) 
+B60L58/12 (US) 
+B60L58/18 (US) 
+H02J7/00034 (EP,US) 
+H02J7/0048 (EP,US) 
+H02J7/00711 (EP,US) 
+H02J7/00712 (EP,US) 
+H02J7/02 (EP,US) 
+B60L2240/72 (US) 
+B60L2260/54 (US) 
+H02J2207/40 (US) 
+H02J2310/48 (EP,US) 
+H02J7/0031 (EP)</td><td>2021-02-18 
+2022-10-04</td><td>2019</td><td>67396249</td></tr>
+<tr><td>308</td><td>Source network load self-optimization intelligent regulation and control system based on wide-area perception prediction and real-time control optimization technical method</td><td>MA RUI 
+HU CHANGBIN 
+HOU QIAN 
+JIN FEI 
+LI JIANFENG 
+LUO SHANNA</td><td>ELECTRIC POWER SCIENCE RES INSTITUTE OF STATE GRID HEBEI PROVINCE ELECTRIC POWER LIMITED COMPANY 
+STATE GRID CORP CHINA 
+STATE GRID HEBEI ENERGY TECH SERVICE LIMITED COMPANY 
+NORTHERN INDUSTRIAL UNIV</td><td>CN114243727A</td><td>CN</td><td>2021</td><td>G06F30/20 
+G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+H02J13/00 
+H02J3/06 
+H02J3/14 
+H02J3/24 
+H02J3/32 
+H02J3/38 
+H02J3/46</td><td>G06F30/20 (CN) 
+G06Q10/04 (CN) 
+G06Q10/0631 (CN) 
+G06Q10/0639 (CN) 
+G06Q50/06 (CN) 
+H02J13/00001 (CN) 
+H02J13/00002 (CN) 
+H02J3/004 (CN) 
+H02J3/0075 (CN) 
+H02J3/06 (CN) 
+H02J3/144 (CN) 
+H02J3/24 (CN) 
+H02J3/32 (CN) 
+H02J3/381 (CN) 
+H02J3/466 (CN) 
+H02J2203/10 (CN) 
+H02J2203/20 (CN) 
+H02J2300/40 (CN) 
+Y02B70/3225 (EP) 
+Y02E60/00 (EP) 
+Y04S10/50 (EP) 
+Y04S20/222 (EP) 
+Y04S40/128 (EP)</td><td>2022-03-25</td><td>2022</td><td>80760184</td></tr>
+<tr><td>309</td><td>Method and system for calculating comprehensive benefits of power transmission and transformation project</td><td>LU YANCHAO 
+WANG XIAOHUI 
+XU DAN 
+LIU YIJIANG 
+YAN WEIYANG 
+HUO HUIJUAN 
+WANG HONGJIN 
+XU NAN 
+WANG TAO 
+SUN YILIANG</td><td>STATE GRID ECONOMIC AND TECH RESEARCH INSTITUTE CO LTD 
+STATE GRID HEBEI ELECTRIC POWER SUPPLY CO LTD</td><td>CN110084499A</td><td>CN</td><td>2019</td><td>G06Q10/06 
+G06Q50/06</td><td>G06Q10/0639 (CN) 
+G06Q50/06 (CN) 
+Y04S10/50 (EP)</td><td>2019-08-02</td><td>2019</td><td>67415715</td></tr>
+<tr><td>310</td><td>SYSTEMS, DEVICES, AND METHODS FOR CHARGING AND DISCHARGING MODULE-BASED CASCADED ENERGY SYSTEMS</td><td>SLEPCHENKOV MIKHAIL [US] 
+NADERI ROOZBEH [US] 
+BHAKTA MILAN [US] 
+KADRI ROMI S [US]</td><td>TAE TECH INC [US]</td><td>WO2021211630A2 
+WO2021211630A3</td><td>WO</td><td>2020</td><td>B60L53/10 
+H02M1/42 
+H02M7/219 
+H02M7/66 
+H02M7/68 
+H02M7/86</td><td>B60L53/11 (US) 
+B60L53/14 (US) 
+B60L58/18 (EP,US) 
+B60L2210/30 (EP,US) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T10/72 (EP) 
+Y02T90/14 (EP)</td><td>2021-10-21 
+2021-12-02</td><td>2021</td><td>78005917</td></tr>
+<tr><td>311</td><td>BATTERY-DRIVEN VEHICLE AND TRANSPORT SYSTEM</td><td>ISHII TORU</td><td>IHI CORP</td><td>JP2022060662A</td><td>JP</td><td>2020</td><td>B60L50/64 
+B60L53/14 
+B60L53/51 
+B60L53/52 
+B60L58/18 
+B61C3/02 
+H01M8/00 
+H01M8/04 
+H01M8/04537 
+H01M8/04858 
+H01M8/18</td><td>Y02E60/50 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T30/00 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP)</td><td>2022-04-15</td><td>2022</td><td>81125206</td></tr>
+<tr><td>312</td><td>METHODS AND SYSTEMS FOR AN AUTOMATED UTILITY MARKETPLACE PLATFORM</td><td>BAIN NICHOLAS JORDAN [US] 
+CRAIG GREGORY [US] 
+CASS DAVID ROBERT [US] 
+DALLAFIOR LUKE [US] 
+RUDDER JASON [US] 
+ZAROWITZ JEREMY [US] 
+CIPES EMILY [US] 
+ROHAN ANWAR [US] 
+KEYVANI BARDIA [US] 
+SHUKLA KABIR [US] 
+CELLA CHARLES [US]</td><td>GRIDDY HOLDINGS LLC [US]</td><td>WO2018148732A2 
+WO2018148732A3</td><td>WO</td><td>2017</td><td>G06Q30/02 
+G06Q30/06 
+G06Q40/06 
+G06Q50/06</td><td>G06Q30/0601 (EP) 
+G06Q50/06 (EP,US) 
+H02J3/008 (US) 
+H02J3/381 (US) 
+H02J3/003 (US) 
+Y02P90/90 (EP)</td><td>2018-08-16 
+2018-09-20</td><td>2018</td><td>63108332</td></tr>
+<tr><td>313</td><td>Comprehensive evaluation method and system for interactivity of power distribution network</td><td>LI DEZHI 
+TIAN YE 
+HE YONGXIU 
+DONG MINGYU 
+CHEN RONGJUN 
+GUANG FENGTAO 
+WANG MEIYAN 
+CHEN FENKAI 
+LIU JIANNING 
+CHENG FAMIN 
+ZHANG XIAOQI 
+SHI KUN 
+CHEN SONGSONG 
+HAN NINGHUI 
+GONG FEIXIANG 
+GONG TAORONG 
+TIAN SHIMING</td><td>CHINA ELECTRIC POWER RES INST CO LTD 
+DONGYING POWER SUPPLY COMPANY STATE GRID SHANDONG ELECTRIC POWER COMPANY</td><td>CN111080041A</td><td>CN</td><td>2018</td><td>G06Q10/06 
+G06Q50/06</td><td>G06Q10/06393 (CN) 
+G06Q50/06 (CN)</td><td>2020-04-28</td><td>2020</td><td>70308615</td></tr>
+<tr><td>314</td><td>Novel urban energy internet engineering post-evaluation method and system</td><td>YUAN KAI 
+SONG YI 
+GUO MINGQUN 
+HAN FENG 
+WU ZHILI 
+SUN CHONGBO 
+LI JINGRU 
+YANG WEIHONG 
+JIANG SHIGONG 
+JIN XIANING 
+HU DANLEI 
+MENG FENG 
+LYU YANGYANG</td><td>STATE GRID ECONOMIC AND TECH RESEARCH INSTITUTE CO LTD 
+STATE GRID TIANJIN ELECTRIC POWER CO 
+RES INST ECONOMICS &amp; TECH STATE GRID SHANDONG ELECTRIC POWER CO 
+STATE GRID CORP CHINA</td><td>CN111626583A</td><td>CN</td><td>2020</td><td>G06Q10/06 
+G06Q50/06</td><td>G06Q10/06393 (CN) 
+G06Q50/06 (CN) 
+Y02P90/82 (EP)</td><td>2020-09-04</td><td>2020</td><td>72272781</td></tr>
+<tr><td>315</td><td>Virtual power plant transaction management method based on blockchain technology</td><td>ZHOU HONGYI 
+MA RUXIANG 
+SHI HONGBING 
+BAI JINGJING 
+XU ZHENG</td><td>YANCHENG POWER SUPPLY BRANCH STATE GRID JIANGSU ELECTRIC POWER CO LTD</td><td>CN112465320A</td><td>CN</td><td>2020</td><td>G06F17/11 
+G06Q10/06 
+G06Q20/38 
+G06Q30/02 
+G06Q50/06 
+H02J3/00</td><td>G06F17/11 (CN) 
+G06Q10/0631 (CN) 
+G06Q20/3829 (CN) 
+G06Q30/0283 (CN) 
+G06Q50/06 (CN) 
+H02J3/003 (CN) 
+Y02P90/82 (EP) 
+Y04S10/50 (EP) 
+Y04S50/12 (EP) 
+Y04S50/14 (EP)</td><td>2021-03-09</td><td>2021</td><td>74837607</td></tr>
+<tr><td>316</td><td>MODULAR AUTONOMOUS AIRCRAFT CONTROL AND RESUPPLY STATION</td><td>LE LANN OLIVIER [PT]</td><td>LE LANN OLIVIER [PT]</td><td>US2021107684A1</td><td>US</td><td>2019</td><td>B60L53/10 
+B60L53/30 
+B60L53/50 
+B60L53/68 
+B64F1/22 
+B64F1/26 
+B64F1/28 
+B64F1/32 
+B64F1/36 
+B65D88/12 
+B65D90/00 
+G05D1/00</td><td>B60L53/10 (EP,US) 
+B60L53/305 (EP,US) 
+B60L53/32 (EP) 
+B60L53/50 (US) 
+B60L53/51 (EP) 
+B60L53/52 (EP) 
+B60L53/53 (EP) 
+B60L53/57 (EP) 
+B60L53/68 (EP,US) 
+B64F1/22 (EP) 
+B64F1/222 (US) 
+B64F1/26 (US) 
+B64F1/28 (EP,US) 
+B64F1/32 (EP,US) 
+B64F1/362 (EP,US) 
+B64U80/70 (EP) 
+B65D88/121 (US) 
+B65D90/0073 (US) 
+G05D1/0016 (US) 
+B60L2200/10 (EP,US) 
+B60L2260/32 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y02T90/16 (EP)</td><td>2021-04-15</td><td>2021</td><td>75382558</td></tr>
+<tr><td>317</td><td>Microgrid energy management system based on digital twinning</td><td>LIU WEILIANG 
+CHEN XIN 
+LIN YONGJUN 
+LIU CHANGLIANG 
+ZHEN CHENGGANG 
+LIU SHUAI</td><td>NORTH CHINA ELECTRIC POWER UNIV BAODING</td><td>CN112332444A</td><td>CN</td><td>2020</td><td>G06Q10/06 
+G06Q50/06 
+H02J13/00 
+H02J3/00 
+H02J3/32 
+H02J3/38</td><td>G06Q10/06312 (CN) 
+G06Q50/06 (CN) 
+H02J13/00001 (CN) 
+H02J13/00017 (CN) 
+H02J13/00028 (CN) 
+H02J3/003 (CN) 
+H02J3/004 (CN) 
+H02J3/32 (CN) 
+H02J3/381 (CN) 
+H02J3/388 (CN) 
+H02J2300/24 (CN) 
+H02J2300/28 (CN) 
+Y02B90/20 (EP) 
+Y02E10/56 (EP) 
+Y02E40/70 (EP) 
+Y02E60/00 (EP) 
+Y04S10/12 (EP) 
+Y04S10/14 (EP) 
+Y04S10/50 (EP) 
+Y04S20/12 (EP) 
+Y04S40/124 (EP)</td><td>2021-02-05</td><td>2021</td><td>74304529</td></tr>
+<tr><td>318</td><td>Micro-grid energy management distribution type multi-target cooperation optimization algorithm based on potential game</td><td>ZENG JUN 
+WANG QIAOQIAO 
+LIU JUNFENG</td><td>UNIV SOUTH CHINA TECH</td><td>CN108347062A 
+CN108347062B</td><td>CN</td><td>2018</td><td>G06N3/00 
+G06N3/12 
+G06Q10/04 
+G06Q50/06 
+H02J3/32 
+H02J3/38 
+H02J3/46</td><td>G06N3/006 (CN) 
+G06N3/126 (CN) 
+G06Q10/04 (CN) 
+G06Q50/06 (CN) 
+H02J3/32 (CN) 
+H02J3/381 (CN) 
+H02J3/383 (CN) 
+H02J3/386 (CN) 
+H02J3/46 (CN) 
+H02J2203/20 (CN) 
+Y02E10/56 (EP) 
+Y02E10/76 (EP) 
+Y02E70/30 (EP)</td><td>2018-07-31 
+2019-12-10</td><td>2018</td><td>62960508</td></tr>
+<tr><td>319</td><td>Power distribution network line reinforcement strategy considering demand side resource flexibility</td><td>AI XIN 
+WANG HAOYANG</td><td>UNIV NORTH CHINA ELECTRIC POWER</td><td>CN114638502A</td><td>CN</td><td>2022</td><td>G06N3/00 
+G06Q10/04 
+G06Q10/06 
+G06Q50/06 
+H02J3/00 
+H02J3/12 
+H02J3/28 
+H02J3/38</td><td>G06N3/006 (CN) 
+G06Q10/04 (CN) 
+G06Q10/06315 (CN) 
+G06Q10/0635 (CN) 
+G06Q50/06 (CN) 
+H02J3/004 (CN) 
+H02J3/0075 (CN) 
+H02J3/12 (CN) 
+H02J3/28 (CN) 
+H02J3/381 (CN) 
+H02J2203/20 (CN) 
+H02J2300/24 (CN)</td><td>2022-06-17</td><td>2022</td><td>81949050</td></tr>
+<tr><td>320</td><td>Electric power traffic coupling system coordination game scheduling method based on EV vehicle owner willingness</td><td>HONG YE 
+ZHANG LIDONG 
+ZHANG LIANHUA 
+YANG BIN 
+WANG XIAOYE 
+JIANG HEHE 
+ZHU XIAOQI 
+HU NAN 
+ZHOU SUYANG</td><td>STATE GRID JIANGSU ELECTRIC POWER CO LTD NANTONG POWER SUPPLY BRANCH</td><td>CN112487560A 
+CN112487560B</td><td>CN</td><td>2020</td><td>G06F30/15 
+G06F30/20 
+G06Q10/04 
+G06Q30/02 
+G06Q50/06 
+G06F111/04 
+G06F111/08</td><td>G06F30/15 (CN) 
+G06F30/20 (CN) 
+G06Q10/04 (CN) 
+G06Q30/0206 (CN) 
+G06Q50/06 (CN) 
+G06F2111/04 (CN) 
+G06F2111/08 (CN) 
+Y02E40/70 (EP) 
+Y02T10/40 (EP)</td><td>2021-03-12 
+2022-08-19</td><td>2021</td><td>74916170</td></tr>
+<tr><td>321</td><td>METHOD AND APPARATUS FOR CHARGING A BATTERY FROM AN ISOLATABLE ELECTRIC POWER GRID</td><td>LOGVINOV OLEG [US] 
+LENZ GADI [IL]</td><td>IOTECHA CORP [US] 
+LOGVINOV OLEG [US]</td><td>WO2018156732A1</td><td>WO</td><td>2017</td><td>B60L11/00 
+B60L11/18 
+G01R31/30 
+G01R31/36 
+H02J3/14 
+H02J7/00</td><td>B60L50/60 (EP,US) 
+B60L53/305 (EP,US) 
+B60L53/50 (EP,US) 
+B60L53/62 (EP,US) 
+B60L53/63 (EP,US) 
+B60L53/64 (EP) 
+B60L53/66 (EP,US) 
+B60L53/665 (US) 
+B60L53/67 (EP,US) 
+B60L53/68 (EP) 
+B60L55/00 (US) 
+H02J3/14 (EP,US) 
+H02J3/322 (EP,US) 
+B60L2240/80 (EP) 
+B60Y2200/91 (US) 
+B60Y2300/91 (US) 
+H02J13/00002 (EP,US) 
+H02J2310/12 (EP) 
+H02J7/0071 (EP,US) 
+Y02B70/3225 (EP) 
+Y02E10/56 (EP) 
+Y02E10/76 (EP) 
+Y02E60/00 (EP) 
+Y02T10/70 (EP) 
+Y02T10/7072 (EP) 
+Y02T90/12 (EP) 
+Y02T90/14 (EP) 
+Y02T90/16 (EP) 
+Y02T90/167 (EP) 
+Y04S10/126 (EP) 
+Y04S20/222 (EP) 
+Y04S30/12 (EP) 
+Y04S30/14 (EP)</td><td>2018-08-30</td><td>2018</td><td>63252991</td></tr>
+<tr><td>322</td><td>改良された鉛蓄電池セパレータ</td><td></td><td></td><td>JP2021530851A</td><td>JP</td><td>2018</td><td>H01M10/06 
+H01M4/14 
+H01M50/403 
+H01M50/411 
+H01M50/414 
+H01M50/417 
+H01M50/42 
+H01M50/429 
+H01M50/434 
+H01M50/437 
+H01M50/44 
+H01M50/443 
+H01M50/446 
+H01M50/449 
+H01M50/454 
+H01M50/463 
+H01M50/466 
+H01M50/489 
+H01M50/491 
+H01M50/406</td><td>B60L50/64 (US) 
+H01M10/12 (EP,KR) 
+H01M50/403 (EP,KR,US) 
+H01M50/411 (EP) 
+H01M50/414 (EP,KR,US) 
+H01M50/417 (EP,KR,US) 
+H01M50/42 (US) 
+H01M50/429 (EP) 
+H01M50/4295 (US) 
+H01M50/431 (EP) 
+H01M50/437 (US) 
+H01M50/44 (EP,US) 
+H01M50/443 (EP,KR,US) 
+H01M50/446 (EP,KR,US) 
+H01M50/454 (EP) 
+H01M50/46 (EP) 
+H01M50/489 (EP,KR,US) 
+H01M50/491 (EP,KR,US) 
+B60L50/64 (EP) 
+B60Y2200/91 (KR) 
+H01M10/12 (US) 
+H01M2220/20 (EP,KR,US) 
+H01M50/406 (EP,KR,US) 
+Y02E60/10 (EP) 
+Y02P70/50 (EP) 
+Y02T10/70 (EP)</td><td>2021-11-11</td><td>2020</td><td>69182374</td></tr>
+<tr><td>323</td><td>Tire pressure detector setting device, tire pressure monitoring system connected with vehicle and method thereof</td><td>YOU SHANQUAN 
+KE ZIWEN 
+WANG CANNONG 
+CHEN JIHONG 
+XU DEQIN 
+SHI WEIXUN</td><td>SHANGHAI WEIBIAO AUTO PARTS MFG CO LTD</td><td>CN112339509A</td><td>CN</td><td>2019</td><td>B60C23/04</td><td>B60C23/0415 (CN) 
+B60C23/0447 (CN)</td><td>2021-02-09</td><td>2021</td><td>74367316</td></tr>
+<tr><td>324</td><td>METHOD FOR SENSING A FUEL COMPOSITION TO RESTRICT THE USABILITY OF A VEHICLE IN THE EVENT OF A MISFUELING</td><td>GOBRECHT STEFAN</td><td>VOLKSWAGEN AG [DE]</td><td>KR102450979B1 
+KR20220043091A</td><td>KR</td><td>2019</td><td>F02D19/06 
+F02D41/00 
+F02D41/14 
+F02D41/22 
+G01N21/359 
+G01N21/39 
+G01N24/08 
+G01N33/22</td><td>B60K15/03006 (US) 
+B60K35/00 (US) 
+B60Q9/00 (US) 
+F02D19/0634 (EP) 
+F02D19/0636 (KR) 
+F02D19/0652 (KR) 
+F02D29/02 (EP) 
+F02D41/0025 (EP,KR) 
+F02D41/0027 (US) 
+F02D41/1439 (CN) 
+F02D41/1441 (KR) 
+F02D41/1451 (EP) 
+F02D41/1452 (EP,CN,KR) 
+F02D41/22 (CN,KR,US) 
+G01N21/359 (KR) 
+G01N21/39 (KR) 
+G01N24/082 (KR) 
+G01N33/22 (KR,US) 
+B60K2015/0321 (US) 
+B60K2015/03309 (US) 
+B60K2370/152 (US) 
+B60K2370/171 (US) 
+F02D19/0652 (EP) 
+F02D2041/1433 (CN) 
+F02D2041/224 (CN,US) 
+F02D2200/0611 (EP,CN)</td><td>2022-04-05 
+2022-10-06</td><td>2021</td><td>72665022</td></tr>
+<tr><td>325</td><td>P2P day-ahead transaction mechanism for competitive electricity selling market high-yield diasters</td><td>GAO HONGJUN 
+ZHANG FAN 
+LIU YOUBO 
+LIU JUNYONG 
+WANG NAIYONG 
+WU ZIHAO 
+WANG RUOGU 
+SHI PENG 
+WANG CHENXI</td><td>UNIV SICHUAN 
+ELECTRIC POWER RES INST STATE GRID SHAANXI ELECTRIC POWER CO LTD 
+STATE GRID CORP CHINA</td><td>CN113052631A</td><td>CN</td><td>2021</td><td>G06Q30/02 
+G06Q30/06 
+G06Q30/08 
+G06Q50/06</td><td>G06Q30/0201 (CN) 
+G06Q30/0206 (CN) 
+G06Q30/0611 (CN) 
+G06Q30/08 (CN) 
+G06Q50/06 (CN) 
+Y04S50/10 (EP) 
+Y04S50/14 (EP)</td><td>2021-06-29</td><td>2021</td><td>76513756</td></tr>
+<tr><td>326</td><td>QUIET URBAN AIR DELIVERY SYSTEM</td><td>AVEN SEELEY [US]</td><td>AVEN SEELEY BRIEN [US]</td><td>WO2022035420A1</td><td>WO</td><td>2020</td><td>B25J5/00 
+B60K1/04 
+B62D11/20 
+B64C11/00 
+B64C27/02 
+B64C39/02 
+B64F1/32</td><td>B64C1/1415 (EP) 
+B64C11/06 (EP,US) 
+B64C25/14 (EP) 
+B64C25/20 (US) 
+B64C3/14 (US) 
+B64C3/16 (EP) 
+B64C3/185 (US) 
+B64C39/024 (EP) 
+B64C39/04 (EP) 
+B64C9/00 (US) 
+B64C9/20 (EP) 
+B64D27/24 (EP,US) 
+B64D29/02 (US) 
+B64D31/00 (US) 
+B64F1/002 (EP) 
+B64F1/02 (EP,US) 
+B64F1/22 (US) 
+B64F1/30 (EP,US) 
+B64F1/31 (EP) 
+B64F1/322 (EP,US) 
+B64F1/362 (EP,US) 
+B64U10/25 (EP) 
+B64U50/13 (EP) 
+B64U50/19 (EP) 
+B64U70/60 (EP) 
+B64C2009/005 (US) 
+B64U2101/00 (EP) 
+B64U2101/60 (EP) 
+B64U2201/104 (EP) 
+Y02T50/10 (EP) 
+Y02T50/30 (EP) 
+Y02T50/40 (EP) 
+Y02T50/60 (EP)</td><td>2022-02-17</td><td>2021</td><td>78828674</td></tr>
+</table>
+</body>
+</html>
